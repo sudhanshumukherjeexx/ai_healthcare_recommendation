@@ -1,0 +1,9 @@
+pandas
+numpy
+openai>=1.14.0
+python-dotenv
+streamlit
+requests
+pyyaml
+xlrd
+openpyxl

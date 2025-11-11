@@ -1,0 +1,1039 @@
+user_id,med_id,name,rxnorm_code,dose,frequency,start_date,end_date,source
+ecb00e33-3b89-4ca0-b5ca-34dfe47809a9,62a9cc28-3cdf-46d5-97ca-257a66017b27,Coenzyme Q10,,100 mg,once daily,2024-01-20,,user_upload
+ecb00e33-3b89-4ca0-b5ca-34dfe47809a9,76e5912c-f14b-453b-910a-0ed14cd8c95e,NMN,,250 mg,in morning,2023-02-22,,user_upload
+ecb00e33-3b89-4ca0-b5ca-34dfe47809a9,7097f6d2-37f6-4a6c-accb-d0d2c2a2f3b9,Coenzyme Q10,,100 mg,once daily,2023-06-21,,user_upload
+59ac51b2-4362-4cf3-b2b4-bfa6f68d1eb4,d37d1a2b-7fb4-4e09-8d2c-d8b91a153ba4,Coenzyme Q10,,100 mg,once daily,2024-01-30,,user_upload
+59ac51b2-4362-4cf3-b2b4-bfa6f68d1eb4,405e0450-8ff9-40b3-ab04-f6515e406373,Atorvastatin,83367,20 mg,once daily,2025-01-11,,user_upload
+59ac51b2-4362-4cf3-b2b4-bfa6f68d1eb4,229506f2-29e2-47c1-8e9d-e70782d76a1a,Ashwagandha,,300 mg,in evening,2023-02-27,,user_upload
+b6e79e2f-f5fb-4885-93e3-150a1436e2e7,ba9e3c76-9829-4dc3-958a-deeebce08940,Magnesium Glycinate,,200 mg,at bedtime,2023-02-05,,user_upload
+b6e79e2f-f5fb-4885-93e3-150a1436e2e7,5c336343-3e05-41ee-a6e8-1c605ef2e037,Omega-3 Fish Oil,,1200 mg,once daily,2025-05-15,,user_upload
+b6e79e2f-f5fb-4885-93e3-150a1436e2e7,843aa1d1-1b7e-4f92-9046-01d9df248627,Vitamin D3,,4000 IU,once daily,2025-06-07,,user_upload
+d7fed7bc-0894-4f77-bdf1-96dfc63804a1,cc5fafe2-e690-48b7-ac06-18168355b2cf,Lisinopril,206765,10 mg,once daily,2024-02-12,,user_upload
+d7fed7bc-0894-4f77-bdf1-96dfc63804a1,6815edaf-06bb-4401-84f1-97935635763b,Atorvastatin,83367,20 mg,once daily,2024-08-01,,user_upload
+d7fed7bc-0894-4f77-bdf1-96dfc63804a1,ce924ee5-47ff-4cbc-a119-264ef9418806,Magnesium Glycinate,,200 mg,at bedtime,2025-08-09,,user_upload
+d7fed7bc-0894-4f77-bdf1-96dfc63804a1,f917c8a5-ceb6-4847-a755-ee7d62eb6b0a,Lisinopril,206765,10 mg,once daily,2023-10-30,,user_upload
+a025059b-147f-4a4f-977d-101c2cbfce3f,f7a946a5-cd4c-4640-95c8-a34444e30cbe,NMN,,250 mg,in morning,2024-03-28,,user_upload
+a025059b-147f-4a4f-977d-101c2cbfce3f,fc396c5a-2c41-4867-a720-61a623ad941e,NMN,,250 mg,in morning,2024-05-08,,user_upload
+089e3ed5-4d4d-42ea-ba56-9839fb7666da,3014d016-7920-4b3e-a7a6-890e79911be9,Omega-3 Fish Oil,,1200 mg,once daily,2023-05-22,,user_upload
+ed508ce6-2d8e-445a-a5c0-fb0dddcbd316,326d4843-b22d-48f2-bb2c-3554de93ccf3,Magnesium Glycinate,,200 mg,at bedtime,2023-01-22,,user_upload
+ed508ce6-2d8e-445a-a5c0-fb0dddcbd316,fb4d4065-539e-4b79-b6de-07416b607d73,Vitamin D3,,4000 IU,once daily,2023-12-09,,user_upload
+ed508ce6-2d8e-445a-a5c0-fb0dddcbd316,94dabfa8-a6e8-46c6-8843-79aafb7e9f87,NMN,,250 mg,in morning,2023-01-15,,user_upload
+ed508ce6-2d8e-445a-a5c0-fb0dddcbd316,1932ba92-ba94-452e-a139-d08e8f12f8f9,Coenzyme Q10,,100 mg,once daily,2024-09-23,,user_upload
+ed508ce6-2d8e-445a-a5c0-fb0dddcbd316,b8c9daa1-3800-4fba-ae64-fdfa8ad86c4a,Vitamin D3,,4000 IU,once daily,2024-05-15,,user_upload
+7ebc8456-9c2a-454a-a826-60fdea82ac60,e73208fe-0d1e-46fb-ba44-14c024c77fd3,Vitamin D3,,4000 IU,once daily,2023-10-21,,user_upload
+7ebc8456-9c2a-454a-a826-60fdea82ac60,6296ce0e-4a2e-4bc5-9090-661a1b46a008,Ashwagandha,,300 mg,in evening,2023-07-28,,user_upload
+7ebc8456-9c2a-454a-a826-60fdea82ac60,9345e469-320f-43c8-b7e2-157005f43f73,Magnesium Glycinate,,200 mg,at bedtime,2025-05-09,,user_upload
+7ebc8456-9c2a-454a-a826-60fdea82ac60,4e5c3c01-5f5d-46dc-90b3-f5438cf6c592,Coenzyme Q10,,100 mg,once daily,2024-09-12,,user_upload
+7ebc8456-9c2a-454a-a826-60fdea82ac60,841cd2a6-f7d7-44a4-91ac-f897381f9c42,NMN,,250 mg,in morning,2025-06-13,,user_upload
+20cea1aa-385d-4dae-b1c4-afb9d91ae225,0f4d45e0-e4f9-4641-814f-266bbd8cb78d,Magnesium Glycinate,,200 mg,at bedtime,2023-02-25,,user_upload
+9cc933f0-a6c0-4059-8129-d8d5013626c0,b9f6ab8d-72c9-4b0e-a041-7c543578ad24,Magnesium Glycinate,,200 mg,at bedtime,2023-06-07,,user_upload
+9cc933f0-a6c0-4059-8129-d8d5013626c0,fe5d44c4-9f2b-4811-819d-4e15898b623f,NMN,,250 mg,in morning,2024-03-08,,user_upload
+9cc933f0-a6c0-4059-8129-d8d5013626c0,3dc62167-30d0-43a0-8315-c027fcfe14ab,Omega-3 Fish Oil,,1200 mg,once daily,2025-06-25,,user_upload
+9cc933f0-a6c0-4059-8129-d8d5013626c0,b4042597-eb94-4e9f-90f3-9d364b83c42a,Magnesium Glycinate,,200 mg,at bedtime,2024-11-04,,user_upload
+ce9ff424-fbf8-4c52-9966-8a74c5bf4cab,16679ec7-9615-4d10-9945-3fb03b162a29,Omega-3 Fish Oil,,1200 mg,once daily,2023-11-12,,user_upload
+54f757f6-0b42-491c-8979-3950cafe17a6,7fb0232f-59f8-46ce-ad59-2030575fa152,Coenzyme Q10,,100 mg,once daily,2024-11-08,,user_upload
+54f757f6-0b42-491c-8979-3950cafe17a6,51d53813-28f8-4225-8ac5-fbdf87014851,Coenzyme Q10,,100 mg,once daily,2023-10-23,,user_upload
+54f757f6-0b42-491c-8979-3950cafe17a6,cb8a1684-5176-4f57-ad88-462968171dc9,Vitamin D3,,4000 IU,once daily,2023-03-21,,user_upload
+a8f18442-76be-4e12-a566-af266c6f248d,997bf54c-4b1c-4ae7-a18d-1cfe08a901e4,NMN,,250 mg,in morning,2024-04-04,,user_upload
+508b8769-3bed-4596-ab66-939c3b3d9d2b,c11f7fad-4643-4efc-b885-cab8bfdde8c0,Ashwagandha,,300 mg,in evening,2023-05-07,,user_upload
+3173a525-c421-4df8-a090-00b98dd6492a,1069b21c-e53c-42dc-999a-302a230783fe,Coenzyme Q10,,100 mg,once daily,2024-04-20,,user_upload
+3173a525-c421-4df8-a090-00b98dd6492a,5db58c62-a8a0-49b8-8401-39b7eb616392,Magnesium Glycinate,,200 mg,at bedtime,2023-01-20,,user_upload
+3173a525-c421-4df8-a090-00b98dd6492a,bce21c4d-49ff-4fa0-ba6f-f8a2211fcb42,Vitamin D3,,4000 IU,once daily,2023-07-13,,user_upload
+1dfe4fb0-e5a1-4d6c-9896-b8676e294176,aa02e300-3f5f-4053-a27b-ea2d8525c4d4,Atorvastatin,83367,20 mg,once daily,2023-11-04,,user_upload
+1dfe4fb0-e5a1-4d6c-9896-b8676e294176,29e6318d-8b93-44ac-ba81-8cf1e3072b62,Magnesium Glycinate,,200 mg,at bedtime,2023-05-22,,user_upload
+c93d6957-3af1-4705-ba52-721420137239,49207ff9-3a14-4330-bd96-b7f787422aa1,Metformin,860975,500 mg,twice daily,2023-09-11,,user_upload
+c93d6957-3af1-4705-ba52-721420137239,146ba103-0656-4311-8d18-53a29558c872,Metformin,860975,500 mg,twice daily,2023-03-10,,user_upload
+a1b9b7d4-ccf1-4a8d-b0ef-54a7980d2cb1,050f9191-a88f-40ef-8b34-09a7e2033b9f,NMN,,250 mg,in morning,2023-11-08,,user_upload
+82f8b09a-aeed-4262-b28f-b5afac41e480,eda5c3c7-f87e-469e-a272-d42789109f73,Coenzyme Q10,,100 mg,once daily,2024-01-21,,user_upload
+0f1e0337-c736-4bb4-a9b9-0a17011dbe38,ac9f0b6e-ba80-42b5-b31a-cd2a541c8b26,Ashwagandha,,300 mg,in evening,2025-03-23,,user_upload
+0f1e0337-c736-4bb4-a9b9-0a17011dbe38,5664c040-4e3f-4c14-bf9b-f27c1d5f64db,Vitamin D3,,4000 IU,once daily,2023-01-25,,user_upload
+0f1e0337-c736-4bb4-a9b9-0a17011dbe38,f4c8d1d9-df99-4f75-9156-3fd55b06eaaf,Ashwagandha,,300 mg,in evening,2023-07-16,,user_upload
+0f1e0337-c736-4bb4-a9b9-0a17011dbe38,51b932a0-59c6-4bb3-a229-5364958eb446,Vitamin D3,,4000 IU,once daily,2024-02-11,,user_upload
+54af9719-79fa-42c4-bf8c-388fe3eb71f9,70ff8075-17b3-4458-a8d3-350447ff8503,Lisinopril,206765,10 mg,once daily,2024-01-19,,user_upload
+182233d6-48a9-4cbd-9d3e-ba84d1167417,92a346ff-3ed5-423f-a98e-4f11f3180621,Coenzyme Q10,,100 mg,once daily,2023-11-02,,user_upload
+182233d6-48a9-4cbd-9d3e-ba84d1167417,489b7ab2-ae80-41b3-a883-66f96685a3ad,NMN,,250 mg,in morning,2023-05-22,,user_upload
+182233d6-48a9-4cbd-9d3e-ba84d1167417,c7a809d7-24f8-4265-a27a-9e6dc2cafc58,Vitamin D3,,4000 IU,once daily,2024-03-27,,user_upload
+775003e2-62ff-4cca-bb7a-a8c16b0569f7,de71d595-dbc5-4995-9dfb-115bcbfed24a,Vitamin D3,,4000 IU,once daily,2023-04-13,,user_upload
+902d0b37-5be8-4411-aa06-1be7a9fd30f4,84e657fe-45b3-44ae-9161-4b7526c1af29,NMN,,250 mg,in morning,2023-04-23,,user_upload
+902d0b37-5be8-4411-aa06-1be7a9fd30f4,2002bc05-d719-4261-9c81-018e8afcb98e,Vitamin D3,,4000 IU,once daily,2024-07-11,,user_upload
+902d0b37-5be8-4411-aa06-1be7a9fd30f4,3f6778c8-99d8-407f-b38b-59a7d421eb99,NMN,,250 mg,in morning,2024-10-15,,user_upload
+902d0b37-5be8-4411-aa06-1be7a9fd30f4,7ed64bf0-35f9-4e17-a584-55128d65cbe6,NMN,,250 mg,in morning,2023-12-03,,user_upload
+c02db1b5-2d44-468a-b291-9d13ecc1e606,76f0ba2f-22f3-41f0-8a07-e5849b85533d,Atorvastatin,83367,20 mg,once daily,2023-11-10,,user_upload
+54e13b0f-219f-4eb8-8bb0-fa2c3e46f3fe,d42fd7fe-b6f7-46f8-8dec-102b44a2c895,NMN,,250 mg,in morning,2023-11-25,,user_upload
+54e13b0f-219f-4eb8-8bb0-fa2c3e46f3fe,0cc315e4-09f6-4a8c-af67-5f0f06c9292b,NMN,,250 mg,in morning,2025-05-04,,user_upload
+54e13b0f-219f-4eb8-8bb0-fa2c3e46f3fe,f16c8539-3cb9-4704-83ac-7c39f51b3763,NMN,,250 mg,in morning,2024-08-21,,user_upload
+54e13b0f-219f-4eb8-8bb0-fa2c3e46f3fe,f6f9f2d1-0f28-414f-9f99-8cc0b76b05a3,Magnesium Glycinate,,200 mg,at bedtime,2025-01-19,,user_upload
+54e13b0f-219f-4eb8-8bb0-fa2c3e46f3fe,4b34f2f9-b8df-4115-ab7c-438a9d8347f4,Magnesium Glycinate,,200 mg,at bedtime,2024-12-04,,user_upload
+6fc836f4-3a8d-401a-8e9b-811ad4a075a0,33ff38f8-aeb1-404a-a4eb-9e3fd5ad43bf,NMN,,250 mg,in morning,2024-02-15,,user_upload
+6fc836f4-3a8d-401a-8e9b-811ad4a075a0,fc9d7e92-0fc8-4191-bf93-6d58e2c23fb6,NMN,,250 mg,in morning,2023-10-26,,user_upload
+6fc836f4-3a8d-401a-8e9b-811ad4a075a0,4c830a26-4afb-430a-b039-68e7911de64d,Lisinopril,206765,10 mg,once daily,2023-05-17,,user_upload
+d6b5c963-b5a3-4aee-9807-4c1559d9ee5b,21ff4dcb-9411-4bb7-a49e-b0c55f76f98b,Ashwagandha,,300 mg,in evening,2025-01-21,,user_upload
+26d5cbef-34ed-4353-90f4-5c394a65400e,3f886bee-2537-41b1-895c-2c186c52e272,NMN,,250 mg,in morning,2023-12-15,,user_upload
+26d5cbef-34ed-4353-90f4-5c394a65400e,fe8e8326-7c68-410c-967d-822d2a7887e9,Coenzyme Q10,,100 mg,once daily,2024-04-08,,user_upload
+26d5cbef-34ed-4353-90f4-5c394a65400e,1f69f907-462a-408d-bcf7-3da3c254f51a,NMN,,250 mg,in morning,2025-07-01,,user_upload
+9de9eeaa-ebb6-4d6b-88ee-e09257e1afe6,4c3b6bfb-d3e2-479b-a4fc-ed2453a504a8,Magnesium Glycinate,,200 mg,at bedtime,2023-05-12,,user_upload
+9de9eeaa-ebb6-4d6b-88ee-e09257e1afe6,652c6454-fe13-4dc0-8605-82b9b8892366,Magnesium Glycinate,,200 mg,at bedtime,2024-08-17,,user_upload
+9de9eeaa-ebb6-4d6b-88ee-e09257e1afe6,32266942-fec3-40c3-932a-6e5d0c1f5cc7,Omega-3 Fish Oil,,1200 mg,once daily,2024-05-13,,user_upload
+1d9d6b6d-8123-47b3-a216-9407fe9a9570,df9402bd-959a-4935-b444-5d1fde19d109,NMN,,250 mg,in morning,2023-02-20,,user_upload
+1d9d6b6d-8123-47b3-a216-9407fe9a9570,7d7688dc-39d5-4c3e-84cd-66eefef41285,Ashwagandha,,300 mg,in evening,2025-07-18,,user_upload
+1d9d6b6d-8123-47b3-a216-9407fe9a9570,2e05c23f-0be2-4801-9494-902bb8172929,Magnesium Glycinate,,200 mg,at bedtime,2024-01-16,,user_upload
+552f92fd-885a-4dba-b4ac-b3dff3d4ff74,26e54c84-86d2-49c3-9608-cca3787570c4,Lisinopril,206765,10 mg,once daily,2023-09-27,,user_upload
+552f92fd-885a-4dba-b4ac-b3dff3d4ff74,116aafea-c26f-4c42-bffc-5133a5a5267a,Atorvastatin,83367,20 mg,once daily,2023-02-24,,user_upload
+552f92fd-885a-4dba-b4ac-b3dff3d4ff74,aaac5cb0-43d1-4a79-a236-bbb05282b6c0,Metformin,860975,500 mg,twice daily,2023-09-15,,user_upload
+552f92fd-885a-4dba-b4ac-b3dff3d4ff74,b6530fcb-d855-4690-a889-7e4248bfd7f6,Metformin,860975,500 mg,twice daily,2024-08-14,,user_upload
+b4924014-0969-447c-a96d-91619cf0fd07,0154c8f1-cf32-444a-8f07-7c4c1d8d89ed,Vitamin D3,,4000 IU,once daily,2023-03-21,,user_upload
+b4924014-0969-447c-a96d-91619cf0fd07,3f37cfd0-de60-47fa-b16a-978daa1cfa39,Omega-3 Fish Oil,,1200 mg,once daily,2025-03-14,,user_upload
+b4924014-0969-447c-a96d-91619cf0fd07,70936f82-6c24-4a5f-aecf-d5997c1df445,Vitamin D3,,4000 IU,once daily,2023-02-23,,user_upload
+5506db72-ca18-47b5-9c5e-48900ae26e99,7405947f-8767-4da5-9b59-56402f328dbf,Magnesium Glycinate,,200 mg,at bedtime,2024-04-06,,user_upload
+5506db72-ca18-47b5-9c5e-48900ae26e99,e5f98ccd-d3e7-48c6-adc8-9bfeacec53f5,Coenzyme Q10,,100 mg,once daily,2024-03-23,,user_upload
+e2cb5589-c0e9-4d5f-85cf-28acae41a8b4,1c08e79f-9701-4339-9410-111b2666a066,Omega-3 Fish Oil,,1200 mg,once daily,2023-07-12,,user_upload
+e2cb5589-c0e9-4d5f-85cf-28acae41a8b4,010852ab-3a76-471f-bbd1-80e4250e35e7,NMN,,250 mg,in morning,2024-09-16,,user_upload
+e2cb5589-c0e9-4d5f-85cf-28acae41a8b4,62b7c3c2-daa6-48d8-8dd8-83599896a275,Vitamin D3,,4000 IU,once daily,2025-02-25,,user_upload
+e2cb5589-c0e9-4d5f-85cf-28acae41a8b4,f642142b-63c0-4f2d-a8c1-ffe1dd60fae7,Coenzyme Q10,,100 mg,once daily,2023-03-21,,user_upload
+e2cb5589-c0e9-4d5f-85cf-28acae41a8b4,24b35c6c-f071-40c2-b14f-8d4cbbe4087c,Vitamin D3,,4000 IU,once daily,2024-01-22,,user_upload
+e6d67898-82d6-4f19-b7ea-4c582dbc635c,406fbb0c-b663-43e5-979a-b61c3a6541cf,Omega-3 Fish Oil,,1200 mg,once daily,2023-09-14,,user_upload
+51bc597d-6cc7-43a2-b94f-d8d1f3c56536,62f709a7-eac8-435b-b0db-564cd5524364,Ashwagandha,,300 mg,in evening,2024-08-07,,user_upload
+51bc597d-6cc7-43a2-b94f-d8d1f3c56536,81395dc4-8ca9-4d2a-81df-e5d151f8d8f1,Coenzyme Q10,,100 mg,once daily,2024-01-06,,user_upload
+34d0eb57-6b17-43e9-b43c-a923bf0673ed,89febb11-0080-4f3b-b878-4d36ea08f3d4,Vitamin D3,,4000 IU,once daily,2025-08-10,,user_upload
+34d0eb57-6b17-43e9-b43c-a923bf0673ed,130159cb-d0e3-49d9-8348-ca8aed106659,Magnesium Glycinate,,200 mg,at bedtime,2024-09-27,,user_upload
+34d0eb57-6b17-43e9-b43c-a923bf0673ed,4a8eccb4-b04b-4658-bc4b-7b69b9bb5eda,Vitamin D3,,4000 IU,once daily,2024-04-02,,user_upload
+34d0eb57-6b17-43e9-b43c-a923bf0673ed,5a3107e6-b4b3-4d63-a6ae-5cbf428098b9,Vitamin D3,,4000 IU,once daily,2025-03-08,,user_upload
+3c97497a-3a79-42c0-8186-bb2ed01cafd8,d41cd7cf-c48d-4470-9325-e64a65b98c52,Magnesium Glycinate,,200 mg,at bedtime,2023-07-07,,user_upload
+3c97497a-3a79-42c0-8186-bb2ed01cafd8,14f3105c-9f36-46fb-808c-3b192863192e,Omega-3 Fish Oil,,1200 mg,once daily,2024-09-19,,user_upload
+d3906d0b-74d5-4cc4-a8a7-d5ac2b4ed820,1e8cbf51-334d-4d01-9c0f-1cbdba5d6e54,NMN,,250 mg,in morning,2025-03-12,,user_upload
+1b7f3e1c-4be0-4fb8-a19b-3021154b7bd6,7815594a-efe6-402e-9d77-501c40e70d79,Ashwagandha,,300 mg,in evening,2023-05-11,,user_upload
+1b7f3e1c-4be0-4fb8-a19b-3021154b7bd6,022e4fa6-0f93-4e7c-8882-f8bd3d4cf3dd,Coenzyme Q10,,100 mg,once daily,2025-04-05,,user_upload
+ff768fa6-c973-46b1-8349-6c477d897429,f174a3c8-0628-4afc-8f3d-a00c20c221fe,Atorvastatin,83367,20 mg,once daily,2023-01-22,,user_upload
+ff768fa6-c973-46b1-8349-6c477d897429,f23d20ea-69ef-4fb2-b8fd-43eebaccfc1c,Coenzyme Q10,,100 mg,once daily,2023-03-15,,user_upload
+ff768fa6-c973-46b1-8349-6c477d897429,944489e6-7d63-41c0-94c7-4e8450660b8d,Atorvastatin,83367,20 mg,once daily,2024-07-16,,user_upload
+ff768fa6-c973-46b1-8349-6c477d897429,cf3a8b91-b58d-414b-8c24-fe87f429472d,Metformin,860975,500 mg,twice daily,2024-12-24,,user_upload
+8437e9fb-f1c4-4290-80f7-60ad66dbdeba,019e945a-bd4d-4e57-9af6-31ead13227ad,Omega-3 Fish Oil,,1200 mg,once daily,2024-08-06,,user_upload
+8437e9fb-f1c4-4290-80f7-60ad66dbdeba,eda67a61-19fa-4bfe-a49e-385080ff9374,Omega-3 Fish Oil,,1200 mg,once daily,2023-10-01,,user_upload
+8437e9fb-f1c4-4290-80f7-60ad66dbdeba,a37f5e67-4022-48a3-a429-46b975ee6d0d,Coenzyme Q10,,100 mg,once daily,2024-04-24,,user_upload
+8437e9fb-f1c4-4290-80f7-60ad66dbdeba,9d749482-cafa-4b39-b70e-870e1e996805,Vitamin D3,,4000 IU,once daily,2023-06-18,,user_upload
+ea31e8a7-0a7a-4042-a5e6-321336bfc68f,f2edd311-5261-46c3-bbe4-9bd1e4990f9e,Omega-3 Fish Oil,,1200 mg,once daily,2024-02-09,,user_upload
+ea31e8a7-0a7a-4042-a5e6-321336bfc68f,da77cd29-e94d-4f36-8ff8-4df782c3e72f,Magnesium Glycinate,,200 mg,at bedtime,2025-05-14,,user_upload
+04f5b6fa-69e5-4db8-bac7-4197954ff700,69bd5b7b-bca3-4204-ad61-be0b40b23ae8,Coenzyme Q10,,100 mg,once daily,2024-06-18,,user_upload
+04f5b6fa-69e5-4db8-bac7-4197954ff700,78d50d64-cc66-4fc2-93d2-ab0d8a2fa4f5,Ashwagandha,,300 mg,in evening,2024-12-12,,user_upload
+04f5b6fa-69e5-4db8-bac7-4197954ff700,338faebc-a14b-46fa-b715-d2dfa1f55ac5,NMN,,250 mg,in morning,2023-05-23,,user_upload
+04f5b6fa-69e5-4db8-bac7-4197954ff700,7248a4c5-f8e2-46ca-b5d2-1fcf03bbc0b9,Omega-3 Fish Oil,,1200 mg,once daily,2023-04-20,,user_upload
+e71b2bd7-fad1-44a2-8675-b6895392813c,6526f2a0-87e0-45b9-bd5f-1f03b6669dde,Metformin,860975,500 mg,twice daily,2023-05-28,,user_upload
+e71b2bd7-fad1-44a2-8675-b6895392813c,d5c8459e-541f-4088-980f-55ecea83966e,Metformin,860975,500 mg,twice daily,2024-07-27,,user_upload
+e71b2bd7-fad1-44a2-8675-b6895392813c,8a1d8df9-bc21-4e7e-8528-21fc287f2637,Coenzyme Q10,,100 mg,once daily,2024-01-16,,user_upload
+e71b2bd7-fad1-44a2-8675-b6895392813c,e3c6d0b5-0600-4485-b4c8-e77b4bc7f80a,Metformin,860975,500 mg,twice daily,2023-12-20,,user_upload
+3df77184-4f69-4608-bc56-b1ec86cf3ed3,06fe2ef7-48ae-47a6-a779-01221834daf5,NMN,,250 mg,in morning,2024-08-29,,user_upload
+da189deb-f47b-499b-a3f1-74520e7210f7,ee65d94a-b3da-4a93-ab43-22dc0e5c9b7e,Atorvastatin,83367,20 mg,once daily,2023-01-16,,user_upload
+da189deb-f47b-499b-a3f1-74520e7210f7,c48ac4d6-d3da-49ba-9363-98cb5e6a1dcd,Coenzyme Q10,,100 mg,once daily,2023-12-10,,user_upload
+da189deb-f47b-499b-a3f1-74520e7210f7,5d43c103-5cee-439f-bd37-c7905033afbc,Lisinopril,206765,10 mg,once daily,2024-12-11,,user_upload
+da189deb-f47b-499b-a3f1-74520e7210f7,e96d6b19-5100-48a7-af5f-f5f4b20b4a20,Lisinopril,206765,10 mg,once daily,2023-10-26,,user_upload
+5e4080e1-f187-45c1-930d-c38db0acd77d,19c6921a-6325-41b4-a707-39a8ebd9a5e4,Metformin,860975,500 mg,twice daily,2024-02-06,,user_upload
+5e4080e1-f187-45c1-930d-c38db0acd77d,0ec39e8a-911b-4903-8c36-f6f1f70dc3fa,Omega-3 Fish Oil,,1200 mg,once daily,2024-11-25,,user_upload
+e5c3153c-5113-4d53-8c5c-71adddd00542,ae95d1b9-3902-431e-8f3d-0f34c7d8453c,NMN,,250 mg,in morning,2024-08-05,,user_upload
+e5c3153c-5113-4d53-8c5c-71adddd00542,66b1bc07-db38-431a-9447-d82b2ada930d,Coenzyme Q10,,100 mg,once daily,2023-02-18,,user_upload
+e5c3153c-5113-4d53-8c5c-71adddd00542,1f08d831-9b62-44d0-9cde-f0c31eb8e903,Ashwagandha,,300 mg,in evening,2023-04-08,,user_upload
+77750ff8-a14a-4a1c-8e2c-37d0b6bef01a,ba1f42c5-2bd1-4060-8926-a35acf15c7e0,Magnesium Glycinate,,200 mg,at bedtime,2025-01-28,,user_upload
+77750ff8-a14a-4a1c-8e2c-37d0b6bef01a,af30883a-3d1f-407e-85cf-bf9c33b4a970,Magnesium Glycinate,,200 mg,at bedtime,2023-02-17,,user_upload
+69110e92-7625-4e98-99b1-ebdeedbd3f4c,b11e8205-6392-4d6a-9087-ebcb833b4e92,Vitamin D3,,4000 IU,once daily,2024-06-29,,user_upload
+69110e92-7625-4e98-99b1-ebdeedbd3f4c,42cee220-03d7-43c8-b9b3-6496ad0d9a20,Coenzyme Q10,,100 mg,once daily,2024-09-09,,user_upload
+64f240bb-6213-44a2-a483-f32ebae6a8f4,26d540af-7e64-4f66-b4b1-ba357f5dec48,Ashwagandha,,300 mg,in evening,2023-09-01,,user_upload
+64f240bb-6213-44a2-a483-f32ebae6a8f4,cfdfdacf-452a-4c03-81d5-5733fd14e38d,Vitamin D3,,4000 IU,once daily,2025-03-30,,user_upload
+64f240bb-6213-44a2-a483-f32ebae6a8f4,bbeecbfd-ca19-48a1-bb69-e0d42b579cac,Vitamin D3,,4000 IU,once daily,2024-03-15,,user_upload
+64f240bb-6213-44a2-a483-f32ebae6a8f4,559712cf-4d83-4c95-a427-85d5e0bcb94f,Ashwagandha,,300 mg,in evening,2024-03-29,,user_upload
+736b7d61-7717-4c23-8a68-0e14090e5c0e,9e4ace9d-d75d-4f51-943e-a91e081e83a8,NMN,,250 mg,in morning,2023-10-17,,user_upload
+e36965bf-4dac-4777-aede-b47ad8dd79df,c4b02767-347e-4639-9494-283e3bc03ec6,Coenzyme Q10,,100 mg,once daily,2024-08-09,,user_upload
+e36965bf-4dac-4777-aede-b47ad8dd79df,0755454c-7fc6-405a-9147-e8180a8863b5,Vitamin D3,,4000 IU,once daily,2023-06-17,,user_upload
+dc361d8a-60bc-431d-abcf-fd43017df540,00888943-b199-410c-8023-dff08ee0efa8,Lisinopril,206765,10 mg,once daily,2025-03-25,,user_upload
+dc361d8a-60bc-431d-abcf-fd43017df540,aec5c74e-6d80-47c7-a2c5-237f59d21a07,Magnesium Glycinate,,200 mg,at bedtime,2024-02-18,,user_upload
+e6b1a8a6-23fe-4348-9993-42ab914fdad2,f5fcb61a-133a-4985-a8d9-b0dcf2787b10,Omega-3 Fish Oil,,1200 mg,once daily,2025-06-15,,user_upload
+e6b1a8a6-23fe-4348-9993-42ab914fdad2,14db1df5-b37f-4d79-9a37-8e263e604544,NMN,,250 mg,in morning,2025-07-30,,user_upload
+0cb60150-cf22-4eee-a294-7d99b0314480,97fad307-fb68-4b36-a6ce-07108cf7fa32,Metformin,860975,500 mg,twice daily,2024-06-21,,user_upload
+0cb60150-cf22-4eee-a294-7d99b0314480,6c39adbb-4661-4f76-9b62-6c1126f62d4f,Ashwagandha,,300 mg,in evening,2024-08-09,,user_upload
+d56e721b-8a51-4af6-a939-898f27492b32,3c6939bc-3bad-43eb-bb68-9b1cbbf7cb00,Ashwagandha,,300 mg,in evening,2025-06-04,,user_upload
+d56e721b-8a51-4af6-a939-898f27492b32,8de8cb5e-c8c3-4ee1-83fe-7f244ba52d0c,Ashwagandha,,300 mg,in evening,2023-10-11,,user_upload
+d56e721b-8a51-4af6-a939-898f27492b32,bb4a32fb-bed4-4390-ba3e-09c60a09b99f,Ashwagandha,,300 mg,in evening,2024-11-09,,user_upload
+d56e721b-8a51-4af6-a939-898f27492b32,f53d67c2-04f9-4c59-92ea-db36ae86068f,Magnesium Glycinate,,200 mg,at bedtime,2023-10-06,,user_upload
+d56e721b-8a51-4af6-a939-898f27492b32,a733c338-c51a-4139-ad64-ea4bce2bfa55,NMN,,250 mg,in morning,2023-07-25,,user_upload
+9bd0720d-2d34-4643-8ba3-28b2e71f8f69,7422a4a1-73d2-4aac-8661-0e55e9a85d0e,Omega-3 Fish Oil,,1200 mg,once daily,2023-10-13,,user_upload
+9bd0720d-2d34-4643-8ba3-28b2e71f8f69,cecda9a0-a55b-4381-ac99-e694d4139863,Ashwagandha,,300 mg,in evening,2024-04-29,,user_upload
+4b9986f2-770e-4f22-8fd6-c45537ce2247,faea5eb2-f6e5-4d63-89fd-a35382ad1422,NMN,,250 mg,in morning,2023-01-25,,user_upload
+4b9986f2-770e-4f22-8fd6-c45537ce2247,1fb427fe-085c-4fe5-ad1e-eb4dbc2c7dc9,NMN,,250 mg,in morning,2024-09-17,,user_upload
+4b9986f2-770e-4f22-8fd6-c45537ce2247,03cf0b0b-84fb-46c8-bd59-23c8b5779c8a,Vitamin D3,,4000 IU,once daily,2025-04-17,,user_upload
+4b9986f2-770e-4f22-8fd6-c45537ce2247,96304fec-a55d-43ab-abc1-3f38ea26f3a5,Ashwagandha,,300 mg,in evening,2024-02-01,,user_upload
+4b9986f2-770e-4f22-8fd6-c45537ce2247,2b7bbd71-3df1-4c05-835a-e7404f553e04,Vitamin D3,,4000 IU,once daily,2024-10-23,,user_upload
+6d8c7f13-0756-42dc-8c80-f516f8942ef0,61b9f6ef-035d-49da-a887-f240874debe3,Coenzyme Q10,,100 mg,once daily,2025-05-23,,user_upload
+6d8c7f13-0756-42dc-8c80-f516f8942ef0,c70a9e35-4b2a-4224-8e6d-26f17b20bb48,NMN,,250 mg,in morning,2023-05-07,,user_upload
+6d8c7f13-0756-42dc-8c80-f516f8942ef0,427e72bc-8741-42fd-8320-874f5400f430,Omega-3 Fish Oil,,1200 mg,once daily,2023-07-10,,user_upload
+6d8c7f13-0756-42dc-8c80-f516f8942ef0,c9d432b7-b946-4393-9d3b-2f3746b08c89,Vitamin D3,,4000 IU,once daily,2023-05-25,,user_upload
+6d8c7f13-0756-42dc-8c80-f516f8942ef0,3bacf0ed-4a6a-4791-9ab1-a7522f580968,Omega-3 Fish Oil,,1200 mg,once daily,2023-11-09,,user_upload
+b7bc66f0-8933-4537-9d91-84169df4a1f9,dfb354da-dbee-474e-90e9-78a9b68fcc3a,Coenzyme Q10,,100 mg,once daily,2024-03-12,,user_upload
+b7bc66f0-8933-4537-9d91-84169df4a1f9,f8945c8b-3aa4-486d-a382-e35bb67ade34,NMN,,250 mg,in morning,2023-08-11,,user_upload
+b7bc66f0-8933-4537-9d91-84169df4a1f9,5972e6dd-3a12-4681-83cc-765184a23d1d,Magnesium Glycinate,,200 mg,at bedtime,2023-06-14,,user_upload
+d323e693-1c89-4c7f-b87e-9011a117de3b,3342f39b-8a0b-4449-a5e6-64a45be49172,Metformin,860975,500 mg,twice daily,2025-03-10,,user_upload
+d323e693-1c89-4c7f-b87e-9011a117de3b,7805e7d4-b7b5-4344-84fa-9a241f8ef3d2,Lisinopril,206765,10 mg,once daily,2024-01-14,,user_upload
+cedf7e81-0411-42d6-b519-12aee5ae37aa,308f1aa8-5293-4eb2-b4dc-00296a0c9542,Omega-3 Fish Oil,,1200 mg,once daily,2024-09-25,,user_upload
+cedf7e81-0411-42d6-b519-12aee5ae37aa,369f3558-a284-468a-834a-903371cbd87e,Vitamin D3,,4000 IU,once daily,2024-04-06,,user_upload
+cedf7e81-0411-42d6-b519-12aee5ae37aa,a9817819-1de1-48e1-a13c-110f6834e41d,Magnesium Glycinate,,200 mg,at bedtime,2024-01-09,,user_upload
+cedf7e81-0411-42d6-b519-12aee5ae37aa,e215b2af-f42e-45b9-bd20-aa0274cbd19d,Magnesium Glycinate,,200 mg,at bedtime,2024-06-30,,user_upload
+1da5fb9e-aa4d-430f-8012-3057d868640b,87a3ba32-416a-48dc-a8ca-a72910f387e7,Magnesium Glycinate,,200 mg,at bedtime,2024-02-15,,user_upload
+1da5fb9e-aa4d-430f-8012-3057d868640b,6fa2aef2-b503-4ab1-855c-44f6ebbc4f34,Magnesium Glycinate,,200 mg,at bedtime,2023-08-16,,user_upload
+1da5fb9e-aa4d-430f-8012-3057d868640b,3329921f-5cae-4ee5-b24e-3b87ac2ee4b9,Omega-3 Fish Oil,,1200 mg,once daily,2024-09-14,,user_upload
+231abfa1-5cc3-481f-b64c-650087466018,61952268-1fdd-434f-be98-b4a03bd5de86,Vitamin D3,,4000 IU,once daily,2024-02-02,,user_upload
+231abfa1-5cc3-481f-b64c-650087466018,4414651d-8fbc-493f-9c75-7d40d6497880,Vitamin D3,,4000 IU,once daily,2024-06-19,,user_upload
+231abfa1-5cc3-481f-b64c-650087466018,eb910910-08e3-407e-b265-3adbda1eb140,Omega-3 Fish Oil,,1200 mg,once daily,2024-04-25,,user_upload
+da4370a9-d92f-47ac-8de4-113dce48752a,c059808e-a7a4-4b29-ba4c-a68524c54aa2,Lisinopril,206765,10 mg,once daily,2024-12-02,,user_upload
+da4370a9-d92f-47ac-8de4-113dce48752a,f58db441-dc11-41d6-b533-ac5e27f2ccf8,Atorvastatin,83367,20 mg,once daily,2024-08-28,,user_upload
+da4370a9-d92f-47ac-8de4-113dce48752a,3e650038-a244-4681-88ff-70654ab07bc8,Metformin,860975,500 mg,twice daily,2023-07-07,,user_upload
+da4370a9-d92f-47ac-8de4-113dce48752a,f0108823-85d5-43fe-9867-9de42b03999e,Metformin,860975,500 mg,twice daily,2024-04-04,,user_upload
+0a9e13c8-8963-4893-bc9c-da372d62c8b7,35abe293-7f9d-4d5d-83d9-416f8ba7a486,Omega-3 Fish Oil,,1200 mg,once daily,2025-04-24,,user_upload
+0a9e13c8-8963-4893-bc9c-da372d62c8b7,5dddde76-10e8-4118-a17a-8bdc7525fab3,Ashwagandha,,300 mg,in evening,2023-01-23,,user_upload
+0a9e13c8-8963-4893-bc9c-da372d62c8b7,685e54d6-4c86-4b3a-a3f9-8a7e7c92688e,Coenzyme Q10,,100 mg,once daily,2023-07-03,,user_upload
+0a9e13c8-8963-4893-bc9c-da372d62c8b7,87809f2c-1eeb-4239-92ec-1ea4bb43399c,Magnesium Glycinate,,200 mg,at bedtime,2025-03-25,,user_upload
+aaf72159-74e3-4126-9e36-ed3edc13869a,f5e24b55-a0af-459d-bc5f-e837b6e7ff53,Magnesium Glycinate,,200 mg,at bedtime,2024-03-14,,user_upload
+aaf72159-74e3-4126-9e36-ed3edc13869a,f015739a-92c4-4350-9be9-1008b27bde4e,Coenzyme Q10,,100 mg,once daily,2024-11-29,,user_upload
+415e5e8e-bb9d-4f78-9018-d29ad83188f3,0929f1b6-e7c9-46f0-b8fa-e14e8a9965d7,Coenzyme Q10,,100 mg,once daily,2024-07-09,,user_upload
+415e5e8e-bb9d-4f78-9018-d29ad83188f3,176ffbf9-a3c2-400e-bd88-92da0e505774,Ashwagandha,,300 mg,in evening,2024-02-16,,user_upload
+2fb171a8-2950-4385-b5f3-221a83da6533,857dc906-542b-425e-8409-1cdaa0cd900d,Metformin,860975,500 mg,twice daily,2024-06-22,,user_upload
+2fb171a8-2950-4385-b5f3-221a83da6533,e9d2349f-66b6-4889-9d0d-d8efefa889b5,Ashwagandha,,300 mg,in evening,2023-06-03,,user_upload
+a76e429b-adaa-4710-8f32-f815df49d704,583f4c05-3128-4c6a-97a6-dba380f64b2e,Omega-3 Fish Oil,,1200 mg,once daily,2024-07-08,,user_upload
+a76e429b-adaa-4710-8f32-f815df49d704,aee50673-361d-4b4d-91ac-ff9c737d79a1,NMN,,250 mg,in morning,2024-04-21,,user_upload
+4e44d432-75c6-418f-be41-67a3b767dd41,bc0d72fa-13f0-4a0b-843c-6bb6808e84d0,Coenzyme Q10,,100 mg,once daily,2025-06-07,,user_upload
+8d640d04-4e32-4c7e-a455-061a4ef6f662,975c22c6-e792-4fa3-974d-b81444cb03d8,Omega-3 Fish Oil,,1200 mg,once daily,2023-12-22,,user_upload
+8d640d04-4e32-4c7e-a455-061a4ef6f662,255e32b1-06f5-415a-a2d4-28b4399659e1,Lisinopril,206765,10 mg,once daily,2025-04-21,,user_upload
+8d640d04-4e32-4c7e-a455-061a4ef6f662,e02d01fc-8024-4a78-b7a9-62c15a69ae09,NMN,,250 mg,in morning,2023-05-13,,user_upload
+8d640d04-4e32-4c7e-a455-061a4ef6f662,18319f0a-60a3-4d51-857d-d6668d6ee6a5,Vitamin D3,,4000 IU,once daily,2024-11-11,,user_upload
+06dc2027-c9e7-4c8f-8dd5-6c630501d537,08788a53-9e7d-43a7-9f73-4d1ce7eb7dff,Ashwagandha,,300 mg,in evening,2024-08-21,,user_upload
+fbbfbbca-d4d9-4ab8-b099-cb089ac72f76,a5e2e149-15b9-4e64-aaa4-32e4f2cdfc18,Atorvastatin,83367,20 mg,once daily,2024-11-14,,user_upload
+fbbfbbca-d4d9-4ab8-b099-cb089ac72f76,28bc35fb-1744-40f2-884c-67bef47fc50b,Metformin,860975,500 mg,twice daily,2024-03-03,,user_upload
+2770219c-4380-437e-9d7e-29c2f22697bc,e0781803-98ac-4e4e-914d-c4107938b938,Coenzyme Q10,,100 mg,once daily,2023-05-29,,user_upload
+1284484a-67d5-4c4b-8dc8-0763bd3969ce,ef8c82f3-4839-45f4-b23b-6398c3a35a1b,Ashwagandha,,300 mg,in evening,2025-04-12,,user_upload
+1284484a-67d5-4c4b-8dc8-0763bd3969ce,0944d5dc-683d-4de8-93f7-74838af267c3,Omega-3 Fish Oil,,1200 mg,once daily,2024-06-19,,user_upload
+3baa9f45-0995-42f2-9467-7be276a3dbd9,df429738-06c1-4f6a-90ac-96c696ebdfea,Atorvastatin,83367,20 mg,once daily,2024-03-07,,user_upload
+3baa9f45-0995-42f2-9467-7be276a3dbd9,bcfc12ab-ea74-48ce-8d80-85b9fcb47c8d,Atorvastatin,83367,20 mg,once daily,2024-11-08,,user_upload
+4d99a519-748c-41bd-867a-e75760115efb,2a0710dc-dc15-4900-bc34-7a7f39683bef,Omega-3 Fish Oil,,1200 mg,once daily,2024-08-05,,user_upload
+60a722a3-ec67-49e1-bbb9-7b1e4825bf6e,3afc46b4-8a9b-4f44-b1ff-3669ed6569b9,Ashwagandha,,300 mg,in evening,2023-06-04,,user_upload
+60a722a3-ec67-49e1-bbb9-7b1e4825bf6e,bbaed8f3-f364-477b-a6b5-0323bc4736a5,Coenzyme Q10,,100 mg,once daily,2025-01-19,,user_upload
+60a722a3-ec67-49e1-bbb9-7b1e4825bf6e,3c5d292a-6799-45fe-b897-2fd25e57363d,Omega-3 Fish Oil,,1200 mg,once daily,2023-11-18,,user_upload
+60a722a3-ec67-49e1-bbb9-7b1e4825bf6e,39b0e695-ba5a-4753-af16-63e80c3e5df1,Magnesium Glycinate,,200 mg,at bedtime,2024-06-01,,user_upload
+9c6d2a85-c886-4695-887a-0adaa6adf49c,d2732bda-e356-4f1a-8d35-543b31dfb255,Magnesium Glycinate,,200 mg,at bedtime,2024-12-16,,user_upload
+9c6d2a85-c886-4695-887a-0adaa6adf49c,060b3f15-94db-432c-996b-8d0a727fc73e,Coenzyme Q10,,100 mg,once daily,2023-08-13,,user_upload
+9c6d2a85-c886-4695-887a-0adaa6adf49c,0601bf9c-ecd4-4fc4-a4c4-faafa06209fd,Coenzyme Q10,,100 mg,once daily,2024-04-19,,user_upload
+9c6d2a85-c886-4695-887a-0adaa6adf49c,92c1eec2-f583-4958-a5a1-6e34052b32f1,Magnesium Glycinate,,200 mg,at bedtime,2024-08-21,,user_upload
+9c6d2a85-c886-4695-887a-0adaa6adf49c,939b2854-8c0c-4f15-94c5-678fd7828fd5,Magnesium Glycinate,,200 mg,at bedtime,2024-10-04,,user_upload
+b7e42f3c-a473-44a8-b7e5-ff5fbf3c060d,3e1a0280-f6ae-4f1a-883e-79a04f49a622,Omega-3 Fish Oil,,1200 mg,once daily,2025-01-15,,user_upload
+b7e42f3c-a473-44a8-b7e5-ff5fbf3c060d,24078130-785d-44ee-ba95-caaa0ef8206f,Coenzyme Q10,,100 mg,once daily,2024-03-05,,user_upload
+e7c2a7b2-263a-4eda-ac1b-60cc1f8835bf,f42058e2-edbc-4c69-bec0-3ad467503a61,Metformin,860975,500 mg,twice daily,2024-01-06,,user_upload
+a40c3f19-66e8-4673-b785-cca11572ad35,f9634ff7-e1a2-49e6-80ff-9b0db7e65b86,Lisinopril,206765,10 mg,once daily,2023-08-13,,user_upload
+a40c3f19-66e8-4673-b785-cca11572ad35,7d726c5b-f048-49ef-a73f-8e6b51f2ff0c,Metformin,860975,500 mg,twice daily,2025-02-22,,user_upload
+e7689092-f427-40f1-932e-5fa8029eec35,ace63d51-b8aa-41d3-a996-83e3ffbb026c,Coenzyme Q10,,100 mg,once daily,2024-06-25,,user_upload
+e7689092-f427-40f1-932e-5fa8029eec35,d8329eb5-dfc0-4a0b-923a-c3b0193f6b28,Magnesium Glycinate,,200 mg,at bedtime,2023-04-25,,user_upload
+e7689092-f427-40f1-932e-5fa8029eec35,17252f68-34ac-4803-8715-e81fbd6bb589,Omega-3 Fish Oil,,1200 mg,once daily,2025-02-16,,user_upload
+e7689092-f427-40f1-932e-5fa8029eec35,863f9b3b-bdce-4215-a3b1-c2fed93a14ef,Vitamin D3,,4000 IU,once daily,2023-07-26,,user_upload
+33313a18-a623-43ca-ba97-b236c227770a,b5b1a4b1-9790-45a5-93fe-8a1cb8c95235,Ashwagandha,,300 mg,in evening,2024-05-01,,user_upload
+33313a18-a623-43ca-ba97-b236c227770a,b454aba3-c1e0-4d45-b399-028c43e4a984,Omega-3 Fish Oil,,1200 mg,once daily,2025-03-18,,user_upload
+33313a18-a623-43ca-ba97-b236c227770a,e64b7814-1b95-4ec4-b924-ebd0e3c899e7,Vitamin D3,,4000 IU,once daily,2023-05-09,,user_upload
+33313a18-a623-43ca-ba97-b236c227770a,8330c718-d4bd-4f70-a17a-0bad04dcf34a,NMN,,250 mg,in morning,2024-01-26,,user_upload
+f5c5d9ce-f371-42d3-a291-6c8d5821daa1,cea2aaba-cfca-40c1-8ae5-f65095282f71,Omega-3 Fish Oil,,1200 mg,once daily,2023-02-07,,user_upload
+f5c5d9ce-f371-42d3-a291-6c8d5821daa1,5af036f8-4a05-465d-97b0-8d17c08a6d9d,NMN,,250 mg,in morning,2023-10-02,,user_upload
+8e0a4f68-6f99-4ee0-9705-900a1ce33594,45fdddfd-f258-4156-8c46-74c83c7e729b,Omega-3 Fish Oil,,1200 mg,once daily,2023-11-26,,user_upload
+8e0a4f68-6f99-4ee0-9705-900a1ce33594,782c2828-9155-4f46-b61e-257f63c1fc70,Coenzyme Q10,,100 mg,once daily,2025-02-27,,user_upload
+8e0a4f68-6f99-4ee0-9705-900a1ce33594,d66612a4-fb76-4bda-9c4b-65a9e9fc20b4,Coenzyme Q10,,100 mg,once daily,2025-03-04,,user_upload
+8e0a4f68-6f99-4ee0-9705-900a1ce33594,1a2604c2-001b-4a38-930b-f7d63692b421,Magnesium Glycinate,,200 mg,at bedtime,2024-08-17,,user_upload
+8e0a4f68-6f99-4ee0-9705-900a1ce33594,bb5ebe11-3ca8-42a9-b8c3-afd89ed6ed13,Magnesium Glycinate,,200 mg,at bedtime,2024-11-15,,user_upload
+1c00e6fd-27c9-4df9-8c46-ca56c7e82bdf,12809be9-f193-4ccc-8a9f-0dfc66c4b61d,Coenzyme Q10,,100 mg,once daily,2023-09-01,,user_upload
+c042dd76-e886-4f23-a7d8-618d63e50c45,721562bc-6d39-428a-b7ea-0fdfb3eb51b4,NMN,,250 mg,in morning,2024-03-18,,user_upload
+c042dd76-e886-4f23-a7d8-618d63e50c45,277b1693-566f-4e3e-8c96-954fa0e02113,Vitamin D3,,4000 IU,once daily,2024-04-22,,user_upload
+c042dd76-e886-4f23-a7d8-618d63e50c45,93bd8d78-9a22-4649-9979-56b489b41b34,Vitamin D3,,4000 IU,once daily,2024-12-29,,user_upload
+c042dd76-e886-4f23-a7d8-618d63e50c45,823c90d5-f801-4f65-9f88-329a856f8858,Omega-3 Fish Oil,,1200 mg,once daily,2023-08-24,,user_upload
+c042dd76-e886-4f23-a7d8-618d63e50c45,9678a2de-909c-463a-aec9-b726ccc419f4,Magnesium Glycinate,,200 mg,at bedtime,2023-08-15,,user_upload
+5bf2be45-ffaa-4bf6-b0f3-8461ca2fcf96,4b383906-6947-4f57-9466-1bee4768056c,NMN,,250 mg,in morning,2023-03-31,,user_upload
+5bf2be45-ffaa-4bf6-b0f3-8461ca2fcf96,915a717b-2e58-486e-b2df-157ef3ed8001,Magnesium Glycinate,,200 mg,at bedtime,2023-04-08,,user_upload
+5bf2be45-ffaa-4bf6-b0f3-8461ca2fcf96,1e4a23e2-99b4-4d4d-85cf-5c570fb50cc2,Omega-3 Fish Oil,,1200 mg,once daily,2023-01-17,,user_upload
+5bf2be45-ffaa-4bf6-b0f3-8461ca2fcf96,e2d79bab-9fd2-4679-b5c8-e97b5d37077f,Omega-3 Fish Oil,,1200 mg,once daily,2023-09-17,,user_upload
+8a1b8d09-5442-4be0-9ae8-5bc8330de246,f1cd61d1-68b6-4eda-a769-e82b99364c6f,Omega-3 Fish Oil,,1200 mg,once daily,2025-04-25,,user_upload
+8a1b8d09-5442-4be0-9ae8-5bc8330de246,85c49902-6289-46cc-aeba-e1d13ef2cc56,Magnesium Glycinate,,200 mg,at bedtime,2023-11-20,,user_upload
+158cf146-00c5-40c4-8feb-1e2da5dba6b1,cd59ee13-4dd7-4f23-866b-9d0d1a524b99,Vitamin D3,,4000 IU,once daily,2024-11-10,,user_upload
+158cf146-00c5-40c4-8feb-1e2da5dba6b1,ef6990ef-d168-4071-8962-10ad6dcadb6d,Ashwagandha,,300 mg,in evening,2025-03-14,,user_upload
+24ebf691-536a-49c5-a0be-4d30fe2252ab,846441a8-d65f-461c-ba63-b58b5e142768,Vitamin D3,,4000 IU,once daily,2023-02-05,,user_upload
+a1d77ac1-4771-43c8-8a1b-24c33af08a3c,0c2bbdc9-2dff-4621-ac0a-2f6d3b9f0709,Vitamin D3,,4000 IU,once daily,2023-06-09,,user_upload
+a1d77ac1-4771-43c8-8a1b-24c33af08a3c,77cb4a54-6625-431b-9f83-6bfb2ce171df,Magnesium Glycinate,,200 mg,at bedtime,2024-01-23,,user_upload
+58bf5478-4360-43be-8dd6-47b4147bc366,75c56a54-f55a-429d-a5ae-821a720b1e8d,Vitamin D3,,4000 IU,once daily,2023-02-17,,user_upload
+a80f6df3-6b22-4416-80bc-ca0f91cd00d3,29759a5a-67f9-4126-9780-0a89b8805a59,NMN,,250 mg,in morning,2023-10-29,,user_upload
+a6880aec-e309-4bcb-a038-469d1ed9e262,2d35f453-78b9-42fa-bd6d-3edd962406d7,Ashwagandha,,300 mg,in evening,2025-01-16,,user_upload
+a6880aec-e309-4bcb-a038-469d1ed9e262,1c21cddd-a172-4902-8875-f26bfa1e5483,Atorvastatin,83367,20 mg,once daily,2024-03-21,,user_upload
+c384b33d-14d5-4e17-831f-f511dad3ff9d,e819186d-8440-4ca6-a396-7771d50bfe15,Atorvastatin,83367,20 mg,once daily,2025-06-29,,user_upload
+0da400b6-6855-45cc-8d6f-1f605a91631f,0e7090fb-a052-4632-9396-ea9a09e80dea,Coenzyme Q10,,100 mg,once daily,2025-07-10,,user_upload
+0da400b6-6855-45cc-8d6f-1f605a91631f,abd6266a-ef16-4dba-8589-d8388361e589,NMN,,250 mg,in morning,2024-06-26,,user_upload
+0da400b6-6855-45cc-8d6f-1f605a91631f,dddd1ad9-94b6-4fdb-8e12-7ef8597cecb2,NMN,,250 mg,in morning,2025-04-09,,user_upload
+76598c41-872c-4c4f-ad2b-92c1d9521dcf,16b0148c-d333-4b51-b9da-90af6aaf1f3d,Omega-3 Fish Oil,,1200 mg,once daily,2024-03-04,,user_upload
+76598c41-872c-4c4f-ad2b-92c1d9521dcf,34cfea0b-015c-408f-bbbb-7514189e0174,Coenzyme Q10,,100 mg,once daily,2024-04-26,,user_upload
+76598c41-872c-4c4f-ad2b-92c1d9521dcf,314de1f2-0077-44b4-aace-4796704038db,NMN,,250 mg,in morning,2023-07-31,,user_upload
+57258455-d8be-409d-a55b-be6255fc9246,b028254a-16b0-4e41-adfd-16f6509e689f,Coenzyme Q10,,100 mg,once daily,2025-05-28,,user_upload
+57258455-d8be-409d-a55b-be6255fc9246,c0b62a88-8192-4e04-af39-0366b26afb62,Omega-3 Fish Oil,,1200 mg,once daily,2023-07-23,,user_upload
+253c4a22-6539-4c94-a24c-376911a20b95,e7bf3d70-abb4-48c6-9027-a3049061c4ee,Coenzyme Q10,,100 mg,once daily,2025-05-06,,user_upload
+253c4a22-6539-4c94-a24c-376911a20b95,e4a8de60-9acf-4183-8779-fc226ba56331,Omega-3 Fish Oil,,1200 mg,once daily,2023-09-11,,user_upload
+253c4a22-6539-4c94-a24c-376911a20b95,94c54ac7-013b-40f0-b62e-f1a722b5c369,Vitamin D3,,4000 IU,once daily,2023-12-01,,user_upload
+253c4a22-6539-4c94-a24c-376911a20b95,f7bf4ad5-5995-44cd-8b19-482aae70b41a,Coenzyme Q10,,100 mg,once daily,2024-12-25,,user_upload
+253c4a22-6539-4c94-a24c-376911a20b95,c11f3a09-6a94-49e7-957f-b615ebebf2c0,NMN,,250 mg,in morning,2023-10-24,,user_upload
+9e7a82ae-2a22-421c-87d5-85b45865b1ae,3ceb54c7-b39f-45cf-86ae-d4a0d87d6c76,NMN,,250 mg,in morning,2024-06-16,,user_upload
+9e7a82ae-2a22-421c-87d5-85b45865b1ae,8879bcc8-451b-47be-a030-f029d10a1c51,Coenzyme Q10,,100 mg,once daily,2024-02-26,,user_upload
+9e7a82ae-2a22-421c-87d5-85b45865b1ae,0fd4bc37-1048-47c3-ad9e-7fee7cc0c388,Magnesium Glycinate,,200 mg,at bedtime,2024-07-02,,user_upload
+9e7a82ae-2a22-421c-87d5-85b45865b1ae,1374d036-983f-434c-b5d0-2a2b5b748590,Coenzyme Q10,,100 mg,once daily,2023-02-09,,user_upload
+bc3d121f-f145-4ae4-a404-1e83116bede7,5c945c7b-d2fd-47a4-8f51-5acabd00853b,Vitamin D3,,4000 IU,once daily,2025-04-30,,user_upload
+bc3d121f-f145-4ae4-a404-1e83116bede7,fdde02a3-f4af-49bc-ae14-312e9f3cc941,Ashwagandha,,300 mg,in evening,2025-01-28,,user_upload
+bc3d121f-f145-4ae4-a404-1e83116bede7,1960a1b2-758f-45cd-b309-e36070c20db6,NMN,,250 mg,in morning,2023-04-24,,user_upload
+bc3d121f-f145-4ae4-a404-1e83116bede7,d8437844-1fff-4776-b4b9-4e7fb41d6701,Omega-3 Fish Oil,,1200 mg,once daily,2023-08-07,,user_upload
+bc3d121f-f145-4ae4-a404-1e83116bede7,79bb8b36-45e0-4e11-8a19-daf56df38fee,Magnesium Glycinate,,200 mg,at bedtime,2024-09-04,,user_upload
+ebcd1727-34a0-481c-8eee-b66a08ccbfc1,bbc1afc2-0deb-4524-9050-1106c8e0bcb8,NMN,,250 mg,in morning,2025-04-09,,user_upload
+ebcd1727-34a0-481c-8eee-b66a08ccbfc1,deb85843-1702-4db9-9d0b-abe2b269522d,NMN,,250 mg,in morning,2024-01-12,,user_upload
+be806f14-e02a-49c0-bf7d-2f3127d9bbda,5716df14-2c0c-4277-aba8-5f5df7d78250,Magnesium Glycinate,,200 mg,at bedtime,2025-06-10,,user_upload
+be806f14-e02a-49c0-bf7d-2f3127d9bbda,053ce308-63af-4730-b613-8816098671d1,Ashwagandha,,300 mg,in evening,2024-12-13,,user_upload
+23ffc359-3949-4e2f-9a75-c49dba3d5bba,eb624159-8155-406f-bd2e-35db85c6478e,Atorvastatin,83367,20 mg,once daily,2025-02-21,,user_upload
+23ffc359-3949-4e2f-9a75-c49dba3d5bba,d6e3fa13-f6d9-46ad-8e49-decc6c0cbf8b,Metformin,860975,500 mg,twice daily,2024-07-09,,user_upload
+f75e3c5e-e52f-44a0-b0ca-8191e4e0e656,6e70bf3a-e2cb-4bc9-a2ef-5101bd338e5f,Magnesium Glycinate,,200 mg,at bedtime,2023-09-24,,user_upload
+f75e3c5e-e52f-44a0-b0ca-8191e4e0e656,883ce926-1d49-4b5e-99bb-5eab4e079547,Magnesium Glycinate,,200 mg,at bedtime,2024-08-22,,user_upload
+f75e3c5e-e52f-44a0-b0ca-8191e4e0e656,de1d6058-11d4-47b4-a7de-7f5d226a47eb,Vitamin D3,,4000 IU,once daily,2025-03-07,,user_upload
+4c9ab7f8-a8f4-41ad-a08c-37d939bba7bd,996cb899-00c4-42e3-b45c-1d4af25afbf4,Lisinopril,206765,10 mg,once daily,2023-11-12,,user_upload
+4c9ab7f8-a8f4-41ad-a08c-37d939bba7bd,7292d4ef-17d8-4b07-999d-9a2a07562ee2,Omega-3 Fish Oil,,1200 mg,once daily,2025-08-04,,user_upload
+4c9ab7f8-a8f4-41ad-a08c-37d939bba7bd,406a3d7a-b39a-485e-89ef-b7e5401532a4,Lisinopril,206765,10 mg,once daily,2025-03-24,,user_upload
+ad783c59-3fd0-4197-a4b3-3b1eeedf4e8b,62954fc9-5466-4db4-a513-9bf88d81ae75,Vitamin D3,,4000 IU,once daily,2025-05-11,,user_upload
+ad783c59-3fd0-4197-a4b3-3b1eeedf4e8b,1f4b4393-c558-4ac7-bdd0-a4835778c62d,NMN,,250 mg,in morning,2025-04-12,,user_upload
+ad783c59-3fd0-4197-a4b3-3b1eeedf4e8b,4e770c12-f15a-4ca7-ae5d-20b0e70cae2f,Vitamin D3,,4000 IU,once daily,2025-07-16,,user_upload
+ff6d0e4e-d677-4a0a-b2b0-e655298a88eb,41f600c1-02b3-486c-8c35-2f636e083b53,NMN,,250 mg,in morning,2023-12-25,,user_upload
+ff6d0e4e-d677-4a0a-b2b0-e655298a88eb,a2e44b2f-cd1d-486a-8c8f-0858e1534682,NMN,,250 mg,in morning,2024-07-05,,user_upload
+49675be1-8754-4352-b49a-535ee146f39c,f2fd4de1-0d1b-4646-b3f4-89cf7bbee460,NMN,,250 mg,in morning,2025-06-05,,user_upload
+1ccafae0-8199-44cb-9ec7-d055d1242132,aee6286c-c4a8-424f-aa28-f925fded9f16,Coenzyme Q10,,100 mg,once daily,2024-12-23,,user_upload
+1ccafae0-8199-44cb-9ec7-d055d1242132,fd2328c8-0562-4e2e-b5f7-649ff5861a74,Atorvastatin,83367,20 mg,once daily,2025-01-06,,user_upload
+1ccafae0-8199-44cb-9ec7-d055d1242132,235fd20e-628b-4470-9f1b-e27416ae6559,Lisinopril,206765,10 mg,once daily,2024-10-08,,user_upload
+78e238b2-eb8f-45ad-80d2-2be9e9072615,b9620e71-d10f-4bb0-a436-7f11ba0735e9,Coenzyme Q10,,100 mg,once daily,2024-04-26,,user_upload
+78e238b2-eb8f-45ad-80d2-2be9e9072615,2cfd935b-e58b-421c-8ac4-0da5d6ad5750,NMN,,250 mg,in morning,2024-12-15,,user_upload
+78e238b2-eb8f-45ad-80d2-2be9e9072615,395637f2-3dbd-4b5c-b0bc-e0bc979b60c4,Vitamin D3,,4000 IU,once daily,2023-12-10,,user_upload
+6533d113-d6d2-4c22-b859-fe74d1ac2941,d5dbf2cd-d078-4330-872b-e35d7b35b355,Coenzyme Q10,,100 mg,once daily,2023-11-06,,user_upload
+6533d113-d6d2-4c22-b859-fe74d1ac2941,40faf36e-a1cc-42a2-abdf-849cadcb8b60,Ashwagandha,,300 mg,in evening,2024-05-30,,user_upload
+bb5e3c63-5197-47a7-b115-e0e653d24e16,08a26642-70e9-4164-96b6-4aa2c74012ae,Coenzyme Q10,,100 mg,once daily,2024-10-09,,user_upload
+bb5e3c63-5197-47a7-b115-e0e653d24e16,b124cfa2-605d-4e64-a50c-bc5c81153cc4,Coenzyme Q10,,100 mg,once daily,2023-08-13,,user_upload
+bb5e3c63-5197-47a7-b115-e0e653d24e16,478c6142-ce33-4892-9a76-ca85a1eaa03b,Coenzyme Q10,,100 mg,once daily,2025-04-03,,user_upload
+3a54a6cb-aacb-4d0c-bb9f-854aa8744d68,d1c52251-0482-4648-92dd-9289069f24e4,Ashwagandha,,300 mg,in evening,2024-10-26,,user_upload
+3a54a6cb-aacb-4d0c-bb9f-854aa8744d68,25fb0f45-d65e-4682-be45-29e66ad3635d,Ashwagandha,,300 mg,in evening,2024-09-20,,user_upload
+3a54a6cb-aacb-4d0c-bb9f-854aa8744d68,a4a3740a-0aa2-4d0d-b51a-2655816b3185,Magnesium Glycinate,,200 mg,at bedtime,2023-06-12,,user_upload
+3a54a6cb-aacb-4d0c-bb9f-854aa8744d68,ea9b9568-6c6d-42ca-a00b-682e7ccbd14e,Omega-3 Fish Oil,,1200 mg,once daily,2023-09-26,,user_upload
+7b6a3594-b393-47ae-8f47-9e1962d968d7,cf9797fa-13e1-43ca-9af2-4cdba5f60373,Omega-3 Fish Oil,,1200 mg,once daily,2023-11-05,,user_upload
+7b6a3594-b393-47ae-8f47-9e1962d968d7,3f5d748e-f84f-4340-939b-570f3eb9c80b,Magnesium Glycinate,,200 mg,at bedtime,2023-10-23,,user_upload
+1a8803c1-9808-49a0-a64a-fb8c9f1d0c08,6a5a0dea-a430-4fbf-b7d3-e32c65948538,Coenzyme Q10,,100 mg,once daily,2024-05-05,,user_upload
+1a8803c1-9808-49a0-a64a-fb8c9f1d0c08,cd3948bc-b5df-4592-b079-35f39fa5a6db,Coenzyme Q10,,100 mg,once daily,2023-08-01,,user_upload
+1a8803c1-9808-49a0-a64a-fb8c9f1d0c08,fcd925e7-f059-4a50-af48-3659450c8eac,Coenzyme Q10,,100 mg,once daily,2023-05-25,,user_upload
+b0786cdd-21b8-4d34-b243-4845854c1c75,60f750a1-901e-46f1-8e79-f281d3ca1487,Lisinopril,206765,10 mg,once daily,2023-06-23,,user_upload
+b0786cdd-21b8-4d34-b243-4845854c1c75,4ed36594-b10d-4a99-8db3-7e1a913fb7a7,Atorvastatin,83367,20 mg,once daily,2023-12-31,,user_upload
+b0786cdd-21b8-4d34-b243-4845854c1c75,d590f82b-6d6c-47b6-bfe1-c439b255261b,Omega-3 Fish Oil,,1200 mg,once daily,2025-07-13,,user_upload
+b0786cdd-21b8-4d34-b243-4845854c1c75,dc453f41-c5be-4d44-acb0-625abb7faf7d,Atorvastatin,83367,20 mg,once daily,2025-08-10,,user_upload
+b1580879-fbdc-4c18-b214-cd82814b2ed7,8ce8f8bf-e497-4077-ae7f-05253feeca43,Omega-3 Fish Oil,,1200 mg,once daily,2023-11-03,,user_upload
+b1580879-fbdc-4c18-b214-cd82814b2ed7,2134d32a-a6b4-4099-9cdd-95c9776c142c,Omega-3 Fish Oil,,1200 mg,once daily,2025-02-27,,user_upload
+b1580879-fbdc-4c18-b214-cd82814b2ed7,acb44cd9-a5d5-4372-b99e-529cb4dcd21a,Magnesium Glycinate,,200 mg,at bedtime,2025-03-21,,user_upload
+1689d9ef-3fcf-49e6-9033-e72488b74772,dab7d280-c256-4053-8359-40dab58fd0fe,NMN,,250 mg,in morning,2024-02-06,,user_upload
+1689d9ef-3fcf-49e6-9033-e72488b74772,5f540402-dc1e-44a4-ba20-9789e02a8cac,Magnesium Glycinate,,200 mg,at bedtime,2024-02-15,,user_upload
+1689d9ef-3fcf-49e6-9033-e72488b74772,79f6f83e-f9df-4111-8907-113a275a346a,Magnesium Glycinate,,200 mg,at bedtime,2023-09-10,,user_upload
+1689d9ef-3fcf-49e6-9033-e72488b74772,040f7735-0389-4fd5-8d2c-4195379895d4,Magnesium Glycinate,,200 mg,at bedtime,2024-10-20,,user_upload
+bfe29623-d373-42d8-a2fb-9fc232994df1,1bb4fa35-4dd9-49b9-9fdf-340b21078ec8,Coenzyme Q10,,100 mg,once daily,2023-06-15,,user_upload
+bfe29623-d373-42d8-a2fb-9fc232994df1,4a8aa670-5823-47d0-8df4-25146ec8cc69,Vitamin D3,,4000 IU,once daily,2023-09-30,,user_upload
+bfe29623-d373-42d8-a2fb-9fc232994df1,c177eb3a-90ac-4dd1-8caa-fac93b7a3466,NMN,,250 mg,in morning,2024-04-02,,user_upload
+14bd2bcb-ce0a-48a0-8b9e-600d39873046,62159f81-53c7-4846-b3c1-fe602853b1aa,Atorvastatin,83367,20 mg,once daily,2025-06-28,,user_upload
+14bd2bcb-ce0a-48a0-8b9e-600d39873046,2e08502a-426f-4103-9d08-75db0abb3ae8,Atorvastatin,83367,20 mg,once daily,2023-12-17,,user_upload
+14bd2bcb-ce0a-48a0-8b9e-600d39873046,bc3d8e45-96a1-4157-badb-77a29bee9823,Vitamin D3,,4000 IU,once daily,2025-01-21,,user_upload
+14bd2bcb-ce0a-48a0-8b9e-600d39873046,8a59af94-d248-4d21-b652-8f94a28bc68a,NMN,,250 mg,in morning,2025-04-02,,user_upload
+7cca4abe-3a6d-42ab-a8c2-c5c3828166b9,d8c25656-9048-4832-99ce-fd4c1380364a,Metformin,860975,500 mg,twice daily,2023-12-18,,user_upload
+77ebab26-4dcd-44f7-8730-ae812d4b2c7a,5d6e78b3-1fe4-4b48-bc70-31b234e637e3,Ashwagandha,,300 mg,in evening,2024-03-06,,user_upload
+77ebab26-4dcd-44f7-8730-ae812d4b2c7a,dbaf9e5c-7e34-4756-bcac-17777aab8d56,NMN,,250 mg,in morning,2024-02-07,,user_upload
+77ebab26-4dcd-44f7-8730-ae812d4b2c7a,d0c4b67b-71e1-4f55-932d-5812d8d93858,Vitamin D3,,4000 IU,once daily,2023-05-05,,user_upload
+77ebab26-4dcd-44f7-8730-ae812d4b2c7a,7adff9ff-a193-4cfc-af83-f92f114bf7e2,Vitamin D3,,4000 IU,once daily,2025-02-01,,user_upload
+77ebab26-4dcd-44f7-8730-ae812d4b2c7a,4b752f78-76ec-49f9-a60c-3735c96cfc6e,Ashwagandha,,300 mg,in evening,2024-08-17,,user_upload
+d0cf023a-ff04-4a16-b62c-23988110fbe9,d758cf8d-bf39-4c7f-91d3-7217242aed0e,Vitamin D3,,4000 IU,once daily,2023-03-26,,user_upload
+d0cf023a-ff04-4a16-b62c-23988110fbe9,bf24402b-a6b7-46db-a8c1-1ffc1f3f3b73,Coenzyme Q10,,100 mg,once daily,2024-11-27,,user_upload
+d0cf023a-ff04-4a16-b62c-23988110fbe9,b42fe734-9c3d-41a2-89a5-c64606e36f83,Coenzyme Q10,,100 mg,once daily,2024-08-14,,user_upload
+0f195ba3-ef22-488a-b561-93cefdd7340a,99175185-5636-4706-8591-aac4bf3ecedb,Coenzyme Q10,,100 mg,once daily,2024-12-16,,user_upload
+0f195ba3-ef22-488a-b561-93cefdd7340a,b4bcdaf0-5038-4683-84e8-9c012034abf1,Coenzyme Q10,,100 mg,once daily,2024-04-25,,user_upload
+d1c16da4-6bac-44f1-85d6-e2f4120dbee9,d7cf038e-0e07-4ef2-ace0-893bef610b11,Atorvastatin,83367,20 mg,once daily,2025-05-06,,user_upload
+d1c16da4-6bac-44f1-85d6-e2f4120dbee9,41a6abcb-7e01-439a-97de-309e9d7cf768,Atorvastatin,83367,20 mg,once daily,2024-03-14,,user_upload
+edc13557-f07c-4e25-b64b-38b1f62b9874,357bc421-4eb8-46dd-99dd-3a4735bdff0e,Vitamin D3,,4000 IU,once daily,2023-03-21,,user_upload
+edc13557-f07c-4e25-b64b-38b1f62b9874,3f0294fa-a1fb-454d-b98f-9321cdb03fbb,Ashwagandha,,300 mg,in evening,2024-09-24,,user_upload
+edc13557-f07c-4e25-b64b-38b1f62b9874,ba936296-a7f9-4c1b-b4a0-c93a907bd98e,Magnesium Glycinate,,200 mg,at bedtime,2024-05-23,,user_upload
+edc13557-f07c-4e25-b64b-38b1f62b9874,ed0fee16-3a7b-4cf9-9c91-5e6cfffbcd66,NMN,,250 mg,in morning,2024-01-26,,user_upload
+bc4b8636-6b05-422c-91cf-b396ff8973da,cdeed2ce-246d-4706-969a-39016885b946,Vitamin D3,,4000 IU,once daily,2025-05-23,,user_upload
+bc4b8636-6b05-422c-91cf-b396ff8973da,6f4de1c6-bf8a-4426-b2f3-720a973bcb33,Coenzyme Q10,,100 mg,once daily,2023-05-08,,user_upload
+bc4b8636-6b05-422c-91cf-b396ff8973da,b8aa6350-940a-476b-9c46-9c05dabb5dfe,Coenzyme Q10,,100 mg,once daily,2025-02-27,,user_upload
+b6a1a023-b88a-477b-a0c3-791eea6cdc2b,829e7340-54e3-4ad8-b580-e4851a5f7a7b,NMN,,250 mg,in morning,2025-01-22,,user_upload
+b6a1a023-b88a-477b-a0c3-791eea6cdc2b,e2236ead-30a2-4b7e-9e27-0cc393ea8046,Magnesium Glycinate,,200 mg,at bedtime,2024-08-14,,user_upload
+977c33fe-9f09-4ba1-be6e-e0d67380dafa,62fd1910-72a9-417e-86c7-0ebec73e3893,NMN,,250 mg,in morning,2023-07-13,,user_upload
+977c33fe-9f09-4ba1-be6e-e0d67380dafa,5637001c-d44f-4deb-bf7d-d99986f5b0de,NMN,,250 mg,in morning,2023-05-30,,user_upload
+779e445b-1ec3-47a5-a35e-a1f0775f520b,a60d3574-213d-423c-8406-698652501e5b,Vitamin D3,,4000 IU,once daily,2024-09-01,,user_upload
+779e445b-1ec3-47a5-a35e-a1f0775f520b,420ca4da-9959-4095-b29a-883ef6630e54,Magnesium Glycinate,,200 mg,at bedtime,2023-04-20,,user_upload
+779e445b-1ec3-47a5-a35e-a1f0775f520b,b25a09a4-b7d2-4427-8a8c-18881411af30,Coenzyme Q10,,100 mg,once daily,2023-06-12,,user_upload
+779e445b-1ec3-47a5-a35e-a1f0775f520b,f4dd9e16-b69a-4a11-92cd-73609c48f927,Omega-3 Fish Oil,,1200 mg,once daily,2023-11-15,,user_upload
+2952f9b8-16a3-4cfa-a1e9-a96251b1879c,199a9b64-dd6e-4451-8555-ad4341f91dad,Magnesium Glycinate,,200 mg,at bedtime,2025-03-31,,user_upload
+511e1a05-f4dc-4396-b3c3-5249a6612f31,f7ae60c6-64a7-41df-ad33-acc5bc9c48ce,Ashwagandha,,300 mg,in evening,2023-02-27,,user_upload
+511e1a05-f4dc-4396-b3c3-5249a6612f31,8ff4e8de-776e-4869-8d0b-f0d42ffeea02,Coenzyme Q10,,100 mg,once daily,2024-05-29,,user_upload
+511e1a05-f4dc-4396-b3c3-5249a6612f31,a5086e2c-f85c-4998-b2f3-ff3f18012b79,NMN,,250 mg,in morning,2024-05-14,,user_upload
+65d8c36b-f6a8-4d9f-93be-54b7eaf542f6,3f256635-f3b0-46a8-846a-3afdcda3811f,Metformin,860975,500 mg,twice daily,2024-07-14,,user_upload
+65d8c36b-f6a8-4d9f-93be-54b7eaf542f6,a0666cd1-4fc6-43f5-b935-43e3c8acfa48,Ashwagandha,,300 mg,in evening,2024-08-05,,user_upload
+f9fbbc6b-fd70-4ac8-a733-a3627ce4210e,d5b35c80-1bf4-4efc-9859-7f5a3f58683e,Metformin,860975,500 mg,twice daily,2023-02-04,,user_upload
+50e0d9d8-ff4a-49d6-8485-7179c08a1b5e,5a86dc37-3116-4f31-8abe-f3e878f71630,Ashwagandha,,300 mg,in evening,2024-03-03,,user_upload
+50e0d9d8-ff4a-49d6-8485-7179c08a1b5e,ef11a867-7feb-4f33-8c80-44501aba0ef7,Vitamin D3,,4000 IU,once daily,2025-02-17,,user_upload
+f133c73a-05d7-4e6e-8214-794fc89e71ff,b8cecc7a-1273-480c-b6d6-14ed0d47a2f7,Ashwagandha,,300 mg,in evening,2024-11-08,,user_upload
+f133c73a-05d7-4e6e-8214-794fc89e71ff,63ec3cff-6de1-48bc-8aa1-3cbcb81ed42f,Vitamin D3,,4000 IU,once daily,2023-05-08,,user_upload
+f133c73a-05d7-4e6e-8214-794fc89e71ff,ed6fff97-be75-4bdf-967c-a920526872a6,Vitamin D3,,4000 IU,once daily,2025-04-14,,user_upload
+96ec004e-707b-426a-9ecb-ca3e801f64d5,ff29ddfe-06fb-4e4d-b4f6-5b9e357cffa7,Lisinopril,206765,10 mg,once daily,2025-05-27,,user_upload
+96ec004e-707b-426a-9ecb-ca3e801f64d5,eee64a7d-b640-4f03-9b63-41a6698c7b96,Coenzyme Q10,,100 mg,once daily,2023-05-21,,user_upload
+96ec004e-707b-426a-9ecb-ca3e801f64d5,01821566-4373-4aac-bb6d-0d48842c0bb6,NMN,,250 mg,in morning,2025-03-02,,user_upload
+96ec004e-707b-426a-9ecb-ca3e801f64d5,543890cd-1f32-4ec0-9a86-f9c08f29e2d2,Lisinopril,206765,10 mg,once daily,2024-08-01,,user_upload
+102fd5dc-b35c-4228-ae00-124040d973c3,cf335041-4822-4a6d-b4e7-af2a3b2ce7dd,Vitamin D3,,4000 IU,once daily,2023-05-05,,user_upload
+102fd5dc-b35c-4228-ae00-124040d973c3,1c1ed081-e26a-4f9c-842e-9293acb6527f,Omega-3 Fish Oil,,1200 mg,once daily,2023-06-04,,user_upload
+102fd5dc-b35c-4228-ae00-124040d973c3,e00ea671-483e-4e15-ae42-44eca8791404,Omega-3 Fish Oil,,1200 mg,once daily,2023-07-02,,user_upload
+102fd5dc-b35c-4228-ae00-124040d973c3,4e4a4f68-33d1-401c-bd43-0a0cc89ce917,Vitamin D3,,4000 IU,once daily,2023-10-15,,user_upload
+ad029f1b-b0cd-4000-ab6c-bfcde43f8e01,77f8f21a-4c2d-4191-88d9-a7b18ac79a8f,NMN,,250 mg,in morning,2023-08-27,,user_upload
+ad029f1b-b0cd-4000-ab6c-bfcde43f8e01,3b69563b-29d2-41ba-8903-442919a44bb8,NMN,,250 mg,in morning,2023-12-22,,user_upload
+ad029f1b-b0cd-4000-ab6c-bfcde43f8e01,b9b47e66-6061-4878-8eab-eeee7c950104,Magnesium Glycinate,,200 mg,at bedtime,2025-02-26,,user_upload
+73664049-362b-405b-b4d3-543e3f7b5d50,986bdab5-bcfb-4ea7-9570-f041a01f038e,Ashwagandha,,300 mg,in evening,2024-01-15,,user_upload
+73664049-362b-405b-b4d3-543e3f7b5d50,a7db00a4-8596-4bda-baab-827863efc31c,Coenzyme Q10,,100 mg,once daily,2024-03-27,,user_upload
+73664049-362b-405b-b4d3-543e3f7b5d50,a89d1d3e-73a3-4539-a563-fc86c5a0b76c,NMN,,250 mg,in morning,2023-10-13,,user_upload
+7fe30c8d-435a-452a-94f6-1b268790cf22,720074c6-257d-4dde-9e33-de4bfa1abecc,Vitamin D3,,4000 IU,once daily,2025-05-28,,user_upload
+7fe30c8d-435a-452a-94f6-1b268790cf22,0293d5c1-9171-40c3-9160-e4dec674572e,Magnesium Glycinate,,200 mg,at bedtime,2024-04-04,,user_upload
+7fe30c8d-435a-452a-94f6-1b268790cf22,794ca10a-8306-4d4a-bda2-d19e6599d502,Magnesium Glycinate,,200 mg,at bedtime,2023-11-21,,user_upload
+3af88792-5afd-436e-afd7-f3c9e5f0522d,38f7bd93-39a6-4b59-b003-af0c51c49579,NMN,,250 mg,in morning,2023-10-21,,user_upload
+3af88792-5afd-436e-afd7-f3c9e5f0522d,04cb9742-dffa-4430-8c97-d1bcad4b66d1,NMN,,250 mg,in morning,2024-04-17,,user_upload
+3af88792-5afd-436e-afd7-f3c9e5f0522d,3fac3823-7bd1-4f82-9825-6bffd2ea0769,Vitamin D3,,4000 IU,once daily,2023-11-01,,user_upload
+3af88792-5afd-436e-afd7-f3c9e5f0522d,eae4a58e-a56a-4a4a-8e7d-fc139e09370f,NMN,,250 mg,in morning,2025-05-04,,user_upload
+3af88792-5afd-436e-afd7-f3c9e5f0522d,6347c8f0-519f-401e-aade-b0af340c27c3,Ashwagandha,,300 mg,in evening,2024-03-03,,user_upload
+15521040-a420-424a-88f8-4fa46e538ff6,eb624c4a-796b-44c0-a48f-7b3aaf76e9f0,Coenzyme Q10,,100 mg,once daily,2024-04-04,,user_upload
+15521040-a420-424a-88f8-4fa46e538ff6,a3d76944-a4a7-4d5c-b9aa-40bc8677a50a,Magnesium Glycinate,,200 mg,at bedtime,2023-02-12,,user_upload
+cfa1305c-9cd1-4300-a40a-5c961bfe1fd8,b7700c7a-5fdf-4010-afc3-cc0a748ee08f,Ashwagandha,,300 mg,in evening,2024-01-05,,user_upload
+cfa1305c-9cd1-4300-a40a-5c961bfe1fd8,2a02fa39-d854-4fcd-9012-e62f9e242637,NMN,,250 mg,in morning,2025-04-22,,user_upload
+cfa1305c-9cd1-4300-a40a-5c961bfe1fd8,ed0c842a-5713-40ee-9fb4-db8af15a34a3,NMN,,250 mg,in morning,2025-03-10,,user_upload
+cfa1305c-9cd1-4300-a40a-5c961bfe1fd8,15f846d3-323f-4e0e-8d5c-a46ea6dc5859,Vitamin D3,,4000 IU,once daily,2025-02-26,,user_upload
+e822bc34-653c-400f-847b-076dfc5c05d9,b0bdc125-94ac-4238-ab8f-4929a3e62eb5,Magnesium Glycinate,,200 mg,at bedtime,2023-08-26,,user_upload
+e822bc34-653c-400f-847b-076dfc5c05d9,14a93e05-6fb2-4db8-922f-dea7dc69a97d,Ashwagandha,,300 mg,in evening,2025-01-30,,user_upload
+e822bc34-653c-400f-847b-076dfc5c05d9,4df09ca8-8ff4-4259-beb6-f5339a1904a6,NMN,,250 mg,in morning,2024-11-29,,user_upload
+e822bc34-653c-400f-847b-076dfc5c05d9,4e42224b-f5f9-4b51-ac14-e7429ffd224e,Ashwagandha,,300 mg,in evening,2023-01-25,,user_upload
+9311cf2a-b8c7-4905-b0bb-bd9e2c5ae65a,aa3d21ee-72db-4f28-bf6c-64d2dddc8e2d,Coenzyme Q10,,100 mg,once daily,2024-12-06,,user_upload
+9311cf2a-b8c7-4905-b0bb-bd9e2c5ae65a,0551922a-95fc-4372-96e1-9133b820a5c9,Ashwagandha,,300 mg,in evening,2025-05-02,,user_upload
+9311cf2a-b8c7-4905-b0bb-bd9e2c5ae65a,e04b66ff-b082-43e4-aab2-64b46bfd3166,Metformin,860975,500 mg,twice daily,2024-06-20,,user_upload
+9311cf2a-b8c7-4905-b0bb-bd9e2c5ae65a,fc3d2fae-ce81-4e4c-b6fe-2841aee5537a,Atorvastatin,83367,20 mg,once daily,2023-09-27,,user_upload
+c9823d5d-b189-4af2-91db-203d99c1301a,ce70d0b2-53b5-4571-85b9-c21928625e38,Magnesium Glycinate,,200 mg,at bedtime,2025-04-18,,user_upload
+c9823d5d-b189-4af2-91db-203d99c1301a,3e82fe46-84d2-468d-85cc-b1f047066f07,Atorvastatin,83367,20 mg,once daily,2023-09-02,,user_upload
+111df68f-f486-48fd-bf43-faf2d1a8e486,51b0649f-43d3-4cad-8b5e-cc152477dba4,Coenzyme Q10,,100 mg,once daily,2023-05-09,,user_upload
+111df68f-f486-48fd-bf43-faf2d1a8e486,831a177b-e6dd-4b99-9180-951a80f41aed,Omega-3 Fish Oil,,1200 mg,once daily,2024-02-29,,user_upload
+111df68f-f486-48fd-bf43-faf2d1a8e486,1731ad94-8f3c-4b5f-823c-65772436bf00,Vitamin D3,,4000 IU,once daily,2025-05-25,,user_upload
+d0ddeab9-3e87-41a7-9e91-1b394411cccc,44bc3574-f5a2-488b-bc21-9c1be253bf0c,Metformin,860975,500 mg,twice daily,2023-11-25,,user_upload
+cdb3a83b-2ccf-46e3-afa8-6cd0fcdd1f10,726a932e-6bf1-4db8-8539-f3f07679a108,Magnesium Glycinate,,200 mg,at bedtime,2023-06-15,,user_upload
+cdb3a83b-2ccf-46e3-afa8-6cd0fcdd1f10,37ecda2f-3a47-4819-b410-9f190f4d7b81,Ashwagandha,,300 mg,in evening,2023-06-18,,user_upload
+e730e71f-156d-4357-b84e-988cdb84f6d3,5109b2b1-2cf9-4e22-985b-14e6a25dc54e,Ashwagandha,,300 mg,in evening,2023-05-29,,user_upload
+e730e71f-156d-4357-b84e-988cdb84f6d3,d3bb1b4a-c07c-488f-9c0e-66493c7285e8,Vitamin D3,,4000 IU,once daily,2023-04-08,,user_upload
+e730e71f-156d-4357-b84e-988cdb84f6d3,14406b20-2adf-49fa-a2f7-2107df4a74bd,Magnesium Glycinate,,200 mg,at bedtime,2025-04-19,,user_upload
+e730e71f-156d-4357-b84e-988cdb84f6d3,d6274a3e-055a-4f4e-9b3a-332251f7735f,Vitamin D3,,4000 IU,once daily,2025-08-05,,user_upload
+44492bf0-fd1d-4c9c-b5ab-973dfe882715,d9ec2edf-6dda-4887-833c-42a90c857b1d,Magnesium Glycinate,,200 mg,at bedtime,2023-05-11,,user_upload
+29222c23-361c-42c6-aede-ad2d6c536bcc,ea5eea49-3947-46dc-b27c-bd327c749bd1,Magnesium Glycinate,,200 mg,at bedtime,2023-09-09,,user_upload
+29222c23-361c-42c6-aede-ad2d6c536bcc,7e963b2d-8edc-48c5-ab9b-fa6285803487,Omega-3 Fish Oil,,1200 mg,once daily,2024-04-22,,user_upload
+29222c23-361c-42c6-aede-ad2d6c536bcc,00b2ed0b-7790-4dd1-b118-598485f99d8a,Coenzyme Q10,,100 mg,once daily,2024-12-08,,user_upload
+29222c23-361c-42c6-aede-ad2d6c536bcc,c6abab14-7b1c-484c-bf41-3e3505c31610,Coenzyme Q10,,100 mg,once daily,2025-01-02,,user_upload
+763a55b8-f82c-45f0-8543-e501adc581b7,3ecaad0f-d94c-4469-902e-c62ed7c0f99a,Vitamin D3,,4000 IU,once daily,2024-04-11,,user_upload
+763a55b8-f82c-45f0-8543-e501adc581b7,39ef0369-a387-4c95-b489-74161c40b3fc,Ashwagandha,,300 mg,in evening,2023-03-14,,user_upload
+763a55b8-f82c-45f0-8543-e501adc581b7,0db99210-e354-4972-aa5e-464ab1393bd7,Vitamin D3,,4000 IU,once daily,2025-04-27,,user_upload
+763a55b8-f82c-45f0-8543-e501adc581b7,3a0ec9a9-bfdf-4c37-a23e-71459342aff3,Magnesium Glycinate,,200 mg,at bedtime,2025-06-07,,user_upload
+20d5a04c-19db-4426-b5b2-e9cdc3a04531,503011eb-2d86-455b-8029-c9217c091599,Omega-3 Fish Oil,,1200 mg,once daily,2023-08-10,,user_upload
+20d5a04c-19db-4426-b5b2-e9cdc3a04531,99716f0d-f731-4df1-bf6b-d2e6b47460df,Omega-3 Fish Oil,,1200 mg,once daily,2023-09-22,,user_upload
+20d5a04c-19db-4426-b5b2-e9cdc3a04531,41638b3f-9e8d-489d-9055-5bd03ef574c9,NMN,,250 mg,in morning,2025-06-07,,user_upload
+8e683c6d-5f8b-480f-9ca0-eeedf9a36919,c67ebb97-d351-46f8-9ec9-59206dd72cc2,Ashwagandha,,300 mg,in evening,2025-05-20,,user_upload
+191ad89c-e12f-4c43-9df3-6c2ef70643f8,f2c80f80-1092-44eb-8787-735f8b6052d9,Ashwagandha,,300 mg,in evening,2024-12-23,,user_upload
+ae4964ab-3c03-4870-9060-13102e0bb862,df90b822-9ccd-41e5-aeb0-4122ffb52e83,Atorvastatin,83367,20 mg,once daily,2025-07-23,,user_upload
+fea4099c-e2fd-476b-a39c-62353c5dd5c6,99b073bc-56ca-4ee5-8f84-d0a8faea36c3,Ashwagandha,,300 mg,in evening,2025-07-21,,user_upload
+fea4099c-e2fd-476b-a39c-62353c5dd5c6,c1f96441-caab-4906-a9fc-a1f4d0573c10,Vitamin D3,,4000 IU,once daily,2024-11-20,,user_upload
+bac6b9e8-a677-486c-8396-f6a7a91e1454,d18d31ce-600d-474e-a1f1-20a076256daf,Magnesium Glycinate,,200 mg,at bedtime,2024-07-12,,user_upload
+a2a4b116-886d-4b74-b404-188e5a9684d6,f095dac5-726f-4cba-993a-8c7f8e099ce5,NMN,,250 mg,in morning,2024-08-12,,user_upload
+01048425-da01-4de1-8473-d15716ea8b23,d33dcc87-1ffa-4f3a-b0c7-506bc8834893,Ashwagandha,,300 mg,in evening,2023-04-22,,user_upload
+01048425-da01-4de1-8473-d15716ea8b23,03800ab3-023b-4ba2-85a0-9a863a028c49,Magnesium Glycinate,,200 mg,at bedtime,2024-01-23,,user_upload
+27fbf4ac-4123-4e91-b7ef-0d2ba0c2f391,5bde9404-0b47-4685-a71d-b1ee7764bdc7,Coenzyme Q10,,100 mg,once daily,2025-06-04,,user_upload
+27fbf4ac-4123-4e91-b7ef-0d2ba0c2f391,1817684c-0a0b-4fef-8a69-ee1d4c86c431,Magnesium Glycinate,,200 mg,at bedtime,2023-09-14,,user_upload
+27fbf4ac-4123-4e91-b7ef-0d2ba0c2f391,429f361c-d305-48b5-94ce-c69ac96d45f5,Magnesium Glycinate,,200 mg,at bedtime,2023-07-01,,user_upload
+baee55e9-c14c-426a-83bd-9a6d1241c76d,062ace91-220f-4bd8-8fbc-aba88f3db0d4,Metformin,860975,500 mg,twice daily,2025-04-28,,user_upload
+40cf40cb-7909-4c7f-a635-ec085ff07d06,c0458944-00ee-4d59-b8a9-2df83293e159,Vitamin D3,,4000 IU,once daily,2024-02-07,,user_upload
+29780270-8a5b-42dd-866e-1a71ba258556,69323189-bc56-47fa-b715-32a164882a73,Omega-3 Fish Oil,,1200 mg,once daily,2024-07-31,,user_upload
+223f6946-6cf7-4f49-ae65-f4a1dcdbe7fe,70038feb-e0e7-4ac4-b360-be8faf1634f8,Metformin,860975,500 mg,twice daily,2024-07-29,,user_upload
+669568da-cea0-4083-b776-64d36c799f4a,faa4bf97-300a-4a5f-91a3-fb9f5451e5fd,Omega-3 Fish Oil,,1200 mg,once daily,2024-02-05,,user_upload
+669568da-cea0-4083-b776-64d36c799f4a,9015560c-c9ce-4321-ae1c-448644f9e022,Coenzyme Q10,,100 mg,once daily,2023-11-15,,user_upload
+669568da-cea0-4083-b776-64d36c799f4a,1aa365ad-5c52-4e2c-9580-3eac68f93b70,Magnesium Glycinate,,200 mg,at bedtime,2023-06-12,,user_upload
+66f31b2b-982f-436c-a244-fa335ad2c016,b44589f2-cc43-4a04-894d-90c4a2fb3234,Coenzyme Q10,,100 mg,once daily,2024-09-15,,user_upload
+66f31b2b-982f-436c-a244-fa335ad2c016,26c8bc88-ceed-44bf-9adf-f76f11a6d483,Coenzyme Q10,,100 mg,once daily,2023-07-13,,user_upload
+66f31b2b-982f-436c-a244-fa335ad2c016,fef31066-6a94-4ab0-b3ef-637ac2cb3b3c,Omega-3 Fish Oil,,1200 mg,once daily,2023-06-04,,user_upload
+7f9180c5-ddde-4d09-8930-a73e1877946b,7352efdc-2849-4e1e-8618-2a9eca13e96b,Vitamin D3,,4000 IU,once daily,2023-06-19,,user_upload
+7f9180c5-ddde-4d09-8930-a73e1877946b,1983fd13-b87c-42c9-890a-0731811ea6c9,Ashwagandha,,300 mg,in evening,2025-07-09,,user_upload
+7f9180c5-ddde-4d09-8930-a73e1877946b,f2daaf5f-7d73-4870-8353-8335d916b659,Omega-3 Fish Oil,,1200 mg,once daily,2023-07-24,,user_upload
+7f9180c5-ddde-4d09-8930-a73e1877946b,64a79970-ad53-447f-92de-f4ed958f8185,Omega-3 Fish Oil,,1200 mg,once daily,2023-08-03,,user_upload
+7f9180c5-ddde-4d09-8930-a73e1877946b,d27f46c6-005a-4e17-9dd8-2cff7754839d,Ashwagandha,,300 mg,in evening,2023-02-10,,user_upload
+a7a4143b-c671-470d-918a-495560cc7ba5,72d0497d-1522-4e35-8708-335023f9b2e2,Metformin,860975,500 mg,twice daily,2023-04-22,,user_upload
+a7a4143b-c671-470d-918a-495560cc7ba5,1b3c11bd-180f-4bd2-99c4-cb7fcf3bcf9d,Ashwagandha,,300 mg,in evening,2025-07-23,,user_upload
+a7a4143b-c671-470d-918a-495560cc7ba5,84cc6d48-6b62-4912-98e1-d3c3ca4a8cab,Metformin,860975,500 mg,twice daily,2024-05-21,,user_upload
+a7a4143b-c671-470d-918a-495560cc7ba5,1d46f619-f388-46a5-9981-aaa999369f1f,Vitamin D3,,4000 IU,once daily,2024-02-03,,user_upload
+25a91a7e-ca92-4b2d-9da2-fe451131f57d,ef4264be-8c01-4961-ae71-878c507bdfc8,Coenzyme Q10,,100 mg,once daily,2023-06-10,,user_upload
+4023ba6d-3690-4d88-afd2-5eb876c57ced,6e4f8ab9-2930-4f4e-8d7b-8260f3cba744,Omega-3 Fish Oil,,1200 mg,once daily,2024-11-25,,user_upload
+4023ba6d-3690-4d88-afd2-5eb876c57ced,884e3208-d5f4-489d-8145-340bdfc0e4c3,Coenzyme Q10,,100 mg,once daily,2025-04-29,,user_upload
+4023ba6d-3690-4d88-afd2-5eb876c57ced,21ede4bd-6e42-4fac-8d7b-664999cbce0c,Magnesium Glycinate,,200 mg,at bedtime,2025-05-05,,user_upload
+4023ba6d-3690-4d88-afd2-5eb876c57ced,1c83c882-5493-4bc3-a4aa-9fd7b7c43025,NMN,,250 mg,in morning,2025-04-01,,user_upload
+39b47c8f-6061-48e5-9cbe-54e4575f3d01,2f128a5a-4e6c-4eeb-914e-932f4ea21981,Magnesium Glycinate,,200 mg,at bedtime,2023-10-01,,user_upload
+39b47c8f-6061-48e5-9cbe-54e4575f3d01,b81f3c97-2184-4069-a395-87ae74b42336,Lisinopril,206765,10 mg,once daily,2023-04-04,,user_upload
+54eaadae-72bb-43ff-8734-ac0000bfd35a,3a615eb8-878a-4915-8f9a-25069cceaa6f,NMN,,250 mg,in morning,2023-11-10,,user_upload
+54eaadae-72bb-43ff-8734-ac0000bfd35a,b782359a-0184-4da9-93e5-8999847ce247,Atorvastatin,83367,20 mg,once daily,2023-05-01,,user_upload
+54eaadae-72bb-43ff-8734-ac0000bfd35a,9ab8f467-fce7-41ed-a15d-b9cc0b1e585d,Lisinopril,206765,10 mg,once daily,2023-05-01,,user_upload
+54eaadae-72bb-43ff-8734-ac0000bfd35a,2b959089-90d0-46cd-9aac-651afa72f1b4,Atorvastatin,83367,20 mg,once daily,2023-10-25,,user_upload
+2203563d-12fd-4f19-b1ef-eae6405b72fa,fdf0e0ab-3638-46e3-a9df-e241bd914dbd,Vitamin D3,,4000 IU,once daily,2023-12-15,,user_upload
+52d433a0-dea5-4298-b06b-27ffee5d1b25,52fb3cb0-bacd-4309-a966-bcc29f6c77ef,Vitamin D3,,4000 IU,once daily,2025-04-26,,user_upload
+52d433a0-dea5-4298-b06b-27ffee5d1b25,dcb6be95-00fb-4bc5-bff8-e4db8097bc57,Ashwagandha,,300 mg,in evening,2023-05-12,,user_upload
+52d433a0-dea5-4298-b06b-27ffee5d1b25,b9fb607c-ec93-4f98-8abe-5a2a7f47f46e,Omega-3 Fish Oil,,1200 mg,once daily,2024-11-27,,user_upload
+3f911ca6-3b31-4be0-a6b5-3370cbeafaa7,aece0a43-37b1-44d2-9874-39bff39f7574,NMN,,250 mg,in morning,2024-03-22,,user_upload
+3e709c4c-c0aa-472e-a56d-32281428e585,2c6da41e-f38b-4a1c-bcd7-aa8a7a214786,Vitamin D3,,4000 IU,once daily,2024-02-26,,user_upload
+3e709c4c-c0aa-472e-a56d-32281428e585,a91f4b91-8f81-4fdb-8e79-5948ea603a06,Coenzyme Q10,,100 mg,once daily,2023-03-23,,user_upload
+3e709c4c-c0aa-472e-a56d-32281428e585,78c7968d-f352-48f8-bef1-a30c49ead6c6,Coenzyme Q10,,100 mg,once daily,2025-01-08,,user_upload
+3e709c4c-c0aa-472e-a56d-32281428e585,b4c00746-60be-4a9e-9967-17e9e5a4eef8,NMN,,250 mg,in morning,2023-10-15,,user_upload
+53510058-b786-4b51-bf32-fd0184be8b2c,e7efaa85-3299-4eea-b630-1aeb484fa683,Coenzyme Q10,,100 mg,once daily,2023-02-13,,user_upload
+53510058-b786-4b51-bf32-fd0184be8b2c,9386b0e6-021c-4015-8236-cb35fb15ecbc,Vitamin D3,,4000 IU,once daily,2023-06-01,,user_upload
+53510058-b786-4b51-bf32-fd0184be8b2c,c68d3d38-1e41-46d3-a95a-112b1a4686aa,NMN,,250 mg,in morning,2024-01-20,,user_upload
+53510058-b786-4b51-bf32-fd0184be8b2c,4bb41969-f524-477d-98ec-d1d2d7981eca,Magnesium Glycinate,,200 mg,at bedtime,2023-10-13,,user_upload
+2d1646d0-dbb8-478f-9ead-04b8be9422cd,ece3fb8f-d7b9-498c-bdec-1982c4e0edeb,Omega-3 Fish Oil,,1200 mg,once daily,2025-04-03,,user_upload
+2d1646d0-dbb8-478f-9ead-04b8be9422cd,d41c18fc-17d5-4829-b439-499f41791b69,Omega-3 Fish Oil,,1200 mg,once daily,2024-11-09,,user_upload
+2d1646d0-dbb8-478f-9ead-04b8be9422cd,dffff988-45e7-4676-89ea-3127173e5970,Coenzyme Q10,,100 mg,once daily,2025-07-12,,user_upload
+2d1646d0-dbb8-478f-9ead-04b8be9422cd,e0ca0662-97cf-4054-8c9b-a387bd936500,Vitamin D3,,4000 IU,once daily,2023-06-09,,user_upload
+2d1646d0-dbb8-478f-9ead-04b8be9422cd,70635320-c567-463b-a2f9-01bcb7fc9c63,Magnesium Glycinate,,200 mg,at bedtime,2025-03-24,,user_upload
+b0343be8-205b-4405-a537-a609b2847bc8,f8a1c755-0e07-4729-919c-71728cad1333,Omega-3 Fish Oil,,1200 mg,once daily,2023-10-14,,user_upload
+b0343be8-205b-4405-a537-a609b2847bc8,8c230d65-666c-4e24-8562-afb83bf5d15d,Coenzyme Q10,,100 mg,once daily,2025-02-13,,user_upload
+3caffe36-ce12-4e7d-8b6d-c1e707f1ba2a,b97ceb35-faf5-4ea9-89b8-2c43220a9f75,Magnesium Glycinate,,200 mg,at bedtime,2023-03-12,,user_upload
+3caffe36-ce12-4e7d-8b6d-c1e707f1ba2a,39fc9d1c-dfad-4a83-849e-9ac94fcaf50d,Magnesium Glycinate,,200 mg,at bedtime,2024-01-09,,user_upload
+a609f091-23c7-4c09-ab56-a04426033dd7,e1de84f9-c18d-4f50-a451-e6d3d9f9681c,Magnesium Glycinate,,200 mg,at bedtime,2023-09-23,,user_upload
+7c6c391e-15b1-4b52-af31-f75b47779d50,35c84483-55ce-4a28-8a0f-6ec5333e7412,Coenzyme Q10,,100 mg,once daily,2023-02-22,,user_upload
+7c6c391e-15b1-4b52-af31-f75b47779d50,6ad0cd5a-0e1f-4f50-91fd-93030ec3c7dc,Vitamin D3,,4000 IU,once daily,2024-08-11,,user_upload
+e4b9e43c-e748-408d-a1ff-f5fe6957c37f,789cbaf1-72d0-4537-bcdc-2cbef795f638,Magnesium Glycinate,,200 mg,at bedtime,2023-10-03,,user_upload
+e4b9e43c-e748-408d-a1ff-f5fe6957c37f,97138658-baff-4e8b-9f8a-7480af99054e,Coenzyme Q10,,100 mg,once daily,2023-05-04,,user_upload
+49dccf93-da44-42ef-921e-3c2b7c1f8419,fdfa7c59-e2de-4a74-82b4-053cf9225269,Ashwagandha,,300 mg,in evening,2024-06-23,,user_upload
+49dccf93-da44-42ef-921e-3c2b7c1f8419,96a1a282-faed-43e9-9631-e4afe9310d6e,Atorvastatin,83367,20 mg,once daily,2025-06-22,,user_upload
+2a9a7808-b64d-4207-8bee-667c2f6ed0a3,b9743237-206f-4bb6-a768-f899a4512d3b,Coenzyme Q10,,100 mg,once daily,2023-03-07,,user_upload
+2a9a7808-b64d-4207-8bee-667c2f6ed0a3,4abd314e-51e0-415c-9559-e884d3ff556a,Magnesium Glycinate,,200 mg,at bedtime,2023-01-26,,user_upload
+2a9a7808-b64d-4207-8bee-667c2f6ed0a3,5e3a5c95-745e-47b5-bc67-6aaacc63a0ab,Ashwagandha,,300 mg,in evening,2024-03-29,,user_upload
+2a9a7808-b64d-4207-8bee-667c2f6ed0a3,b734276c-c362-400c-9de0-c5c0db809aad,Vitamin D3,,4000 IU,once daily,2024-06-15,,user_upload
+d81a3d62-df3b-41a5-84ad-c663c0746619,db4747df-f2c3-45a3-81e3-d6d5b1e887df,Coenzyme Q10,,100 mg,once daily,2023-04-21,,user_upload
+d81a3d62-df3b-41a5-84ad-c663c0746619,6c337506-0849-4c98-b905-940c74dae8af,Omega-3 Fish Oil,,1200 mg,once daily,2023-05-30,,user_upload
+d81a3d62-df3b-41a5-84ad-c663c0746619,3639051d-0b27-4589-a77f-2deb925474a3,Vitamin D3,,4000 IU,once daily,2025-02-23,,user_upload
+d81a3d62-df3b-41a5-84ad-c663c0746619,d66895ac-244e-4b60-9a5b-666f43fa04c2,Coenzyme Q10,,100 mg,once daily,2023-02-28,,user_upload
+d81a3d62-df3b-41a5-84ad-c663c0746619,29501bf0-e2ce-4b21-8430-bf2a60dae457,Vitamin D3,,4000 IU,once daily,2023-08-31,,user_upload
+481d90cf-cf35-4350-b8da-086cf12543e8,9448bc5a-95ea-4539-b547-723dae2c315e,NMN,,250 mg,in morning,2024-02-21,,user_upload
+481d90cf-cf35-4350-b8da-086cf12543e8,18a4fc56-e55b-402a-bda0-822b58e7c79b,Magnesium Glycinate,,200 mg,at bedtime,2024-10-08,,user_upload
+481d90cf-cf35-4350-b8da-086cf12543e8,ed5c2bca-cb8a-4a7c-81e3-99ecf8234fc9,Magnesium Glycinate,,200 mg,at bedtime,2025-02-07,,user_upload
+cc006201-9f2f-4835-b4d4-926e829119e4,3c322141-a0b2-4194-94a5-f35f9d2668c7,Omega-3 Fish Oil,,1200 mg,once daily,2023-08-25,,user_upload
+cc006201-9f2f-4835-b4d4-926e829119e4,8652f3b8-226f-4366-a73e-9a932fda6ab8,Coenzyme Q10,,100 mg,once daily,2023-10-18,,user_upload
+cc006201-9f2f-4835-b4d4-926e829119e4,0e3b3298-8b16-415d-bdda-8a47cbd1a0eb,Vitamin D3,,4000 IU,once daily,2024-07-27,,user_upload
+cc006201-9f2f-4835-b4d4-926e829119e4,540934bf-96c1-4f0f-a820-8c16080b3a85,Omega-3 Fish Oil,,1200 mg,once daily,2024-06-19,,user_upload
+cc006201-9f2f-4835-b4d4-926e829119e4,43c3be86-b9bd-4d61-b715-49a13b6d3c5b,Magnesium Glycinate,,200 mg,at bedtime,2024-11-09,,user_upload
+61404b07-5196-4244-862d-688a228b9732,0e700bc1-6f4b-482f-b6dc-8e64848582d0,Vitamin D3,,4000 IU,once daily,2023-03-22,,user_upload
+61404b07-5196-4244-862d-688a228b9732,8475ba8f-c0f5-4a98-959e-afd4b8a8d2ac,Ashwagandha,,300 mg,in evening,2024-07-25,,user_upload
+61404b07-5196-4244-862d-688a228b9732,850d8a21-ba5f-404b-a534-012408cca941,NMN,,250 mg,in morning,2023-05-17,,user_upload
+61404b07-5196-4244-862d-688a228b9732,b9be3bcb-6e4c-4e36-bdb3-2ced6c80aa0c,Omega-3 Fish Oil,,1200 mg,once daily,2025-06-01,,user_upload
+bf0d7d19-0ba7-4a53-8b93-1296764a2aed,18cca7e6-7f36-4d0b-9510-a461b47274a5,Ashwagandha,,300 mg,in evening,2025-03-16,,user_upload
+bf0d7d19-0ba7-4a53-8b93-1296764a2aed,2791a6fd-68c4-455b-aac1-2245a1603332,Vitamin D3,,4000 IU,once daily,2024-06-14,,user_upload
+5bfc0904-4d81-44bd-8ab6-8ef565fe7e32,0a06eb19-7376-4dd3-9b28-d36228f186e7,Omega-3 Fish Oil,,1200 mg,once daily,2024-03-15,,user_upload
+5bfc0904-4d81-44bd-8ab6-8ef565fe7e32,c743ee15-6b70-4c58-a787-d4364aa4ca39,Vitamin D3,,4000 IU,once daily,2023-08-13,,user_upload
+5bfc0904-4d81-44bd-8ab6-8ef565fe7e32,448783b5-6a76-4e1a-a9a1-0a0ffce9249e,Vitamin D3,,4000 IU,once daily,2023-10-23,,user_upload
+5bfc0904-4d81-44bd-8ab6-8ef565fe7e32,66accc38-34f9-4ce7-8124-2b446d5c90df,NMN,,250 mg,in morning,2025-05-26,,user_upload
+4a3518d8-8281-4cb2-934e-7a7c814008f1,62be8a49-df6b-4312-a33b-541fc83476d9,Magnesium Glycinate,,200 mg,at bedtime,2023-05-30,,user_upload
+4a3518d8-8281-4cb2-934e-7a7c814008f1,3a3b8909-b718-43e0-8878-a4df8c391489,Lisinopril,206765,10 mg,once daily,2025-01-03,,user_upload
+4a3518d8-8281-4cb2-934e-7a7c814008f1,cb3ef784-be94-4ed6-a5f9-39fe5345e76a,Vitamin D3,,4000 IU,once daily,2023-10-02,,user_upload
+4a3518d8-8281-4cb2-934e-7a7c814008f1,122d527a-3948-4669-a469-6e9e5dfc07aa,Magnesium Glycinate,,200 mg,at bedtime,2023-12-01,,user_upload
+ac58e29b-64c5-42b1-9ebb-fc9e5a13a3dd,df7c1d7d-e936-4c56-9e7b-57655f07c608,Omega-3 Fish Oil,,1200 mg,once daily,2023-04-28,,user_upload
+ac58e29b-64c5-42b1-9ebb-fc9e5a13a3dd,b130b943-6b10-4f04-a6ae-1cd254e903c9,Vitamin D3,,4000 IU,once daily,2023-09-10,,user_upload
+ac58e29b-64c5-42b1-9ebb-fc9e5a13a3dd,9dbb5dc8-704c-4f34-89f7-19e1fe1b86fc,Vitamin D3,,4000 IU,once daily,2025-06-12,,user_upload
+ac58e29b-64c5-42b1-9ebb-fc9e5a13a3dd,d7cbdffc-6bd3-4cb3-8b02-f532831821f7,Vitamin D3,,4000 IU,once daily,2023-11-14,,user_upload
+9c82f450-4322-4ecf-866e-6ee83b9157ee,97eebaa3-f64b-4dc3-a9b1-066d77653bc9,Lisinopril,206765,10 mg,once daily,2024-06-23,,user_upload
+9c82f450-4322-4ecf-866e-6ee83b9157ee,ebc7e953-093c-4626-9455-c5f40d253106,Ashwagandha,,300 mg,in evening,2025-06-23,,user_upload
+a3c61aeb-abd0-42f1-b1b1-7482ef0096bd,dcd7ee38-57fc-4107-ad4d-3c6e8da942af,Coenzyme Q10,,100 mg,once daily,2024-10-22,,user_upload
+555456ed-4ac1-434a-befe-f462c45befe6,a56190a8-276f-4425-b83e-5c37a1f6b847,Lisinopril,206765,10 mg,once daily,2025-04-12,,user_upload
+555456ed-4ac1-434a-befe-f462c45befe6,18767410-1c39-429f-86e0-5f6efc3bcca8,Omega-3 Fish Oil,,1200 mg,once daily,2025-04-06,,user_upload
+39a4a065-2b90-4087-b833-2052651b1077,207cfd5e-f130-4e21-aba9-c60318b2a83b,Vitamin D3,,4000 IU,once daily,2025-07-15,,user_upload
+90e85797-88dd-4b3b-a12e-cc037e04e66b,7e1b30b6-34ae-4fc9-a78f-43ee25fdb391,Coenzyme Q10,,100 mg,once daily,2025-01-25,,user_upload
+90e85797-88dd-4b3b-a12e-cc037e04e66b,bf0ad95d-f6f0-4d0e-bb69-8739f3644152,Magnesium Glycinate,,200 mg,at bedtime,2024-07-18,,user_upload
+91820a9f-bde9-4116-a63e-3550a5f44323,741b717d-ca42-4233-ab68-c33665b8bb3d,Coenzyme Q10,,100 mg,once daily,2023-11-28,,user_upload
+4ad11316-b1e8-4ed3-b7f1-31b17d573304,9df82a92-8a20-4493-b439-ca712429799b,Magnesium Glycinate,,200 mg,at bedtime,2025-03-04,,user_upload
+2491185b-c689-4e2d-b113-efb6b396937f,62b3e0d7-a3cd-489f-b9c2-2b2cdcc82f12,Metformin,860975,500 mg,twice daily,2023-01-17,,user_upload
+2491185b-c689-4e2d-b113-efb6b396937f,16cdfbf0-ac60-4f8b-ada0-955957166f78,Metformin,860975,500 mg,twice daily,2023-03-25,,user_upload
+7ab7e505-f63e-4991-b360-fea693fb5745,be7bd294-f6ef-4a2b-82fd-0ebeaaea2048,NMN,,250 mg,in morning,2024-05-04,,user_upload
+7ab7e505-f63e-4991-b360-fea693fb5745,4115454b-d9a0-4777-b58e-7b5260f2e363,Atorvastatin,83367,20 mg,once daily,2023-08-09,,user_upload
+7ab7e505-f63e-4991-b360-fea693fb5745,7ebac779-73f5-44b8-9830-fce4f064ec96,Metformin,860975,500 mg,twice daily,2024-05-30,,user_upload
+e6491f6c-5ead-406d-b9d4-6d02bf57bb9f,86c996ed-47a5-4f03-b275-4d05df323526,Ashwagandha,,300 mg,in evening,2024-06-17,,user_upload
+e6491f6c-5ead-406d-b9d4-6d02bf57bb9f,a6b6cc7d-44d3-4054-ba39-54640138790e,Coenzyme Q10,,100 mg,once daily,2023-10-28,,user_upload
+478054c7-ef1a-439a-9f03-78f0dc69466f,ce54f2f2-8060-457d-a353-1bfdbe16bdb5,Vitamin D3,,4000 IU,once daily,2023-10-19,,user_upload
+478054c7-ef1a-439a-9f03-78f0dc69466f,c6deb859-ef73-45e4-81ed-a31dcfc1d129,Vitamin D3,,4000 IU,once daily,2023-02-12,,user_upload
+478054c7-ef1a-439a-9f03-78f0dc69466f,6ac3e766-d7b0-4885-a1f4-fc6613bba194,Omega-3 Fish Oil,,1200 mg,once daily,2024-06-02,,user_upload
+9075d7c1-47f4-4198-8ecc-60e2bc60563e,16cb380e-4893-4dc7-8fdd-6f8daf06d0bb,Ashwagandha,,300 mg,in evening,2024-12-21,,user_upload
+4a2a5b86-6978-430e-a062-1a9bd1f8fc23,c8045ad3-5913-48a5-99a1-6316036e7728,Omega-3 Fish Oil,,1200 mg,once daily,2023-09-05,,user_upload
+4a2a5b86-6978-430e-a062-1a9bd1f8fc23,d6dfbf69-0e5d-4b51-b1ca-fb2aaea5ee30,NMN,,250 mg,in morning,2024-12-17,,user_upload
+34eafd93-318f-48f7-93ee-fc4446e0848f,b56c64ef-2774-40fa-b61b-dd9de00383ac,Coenzyme Q10,,100 mg,once daily,2023-09-21,,user_upload
+34eafd93-318f-48f7-93ee-fc4446e0848f,2610575b-2080-466b-92f2-1b0f993c9749,NMN,,250 mg,in morning,2024-08-28,,user_upload
+34eafd93-318f-48f7-93ee-fc4446e0848f,eb995843-5245-464e-beab-fda65483aaae,Omega-3 Fish Oil,,1200 mg,once daily,2025-04-21,,user_upload
+34eafd93-318f-48f7-93ee-fc4446e0848f,3c12da3d-cc76-462b-b842-c344b0ae1f44,Omega-3 Fish Oil,,1200 mg,once daily,2024-06-17,,user_upload
+d26d49d7-ca04-497c-95f7-400a9d273119,6c2640d3-c704-49f4-a972-877843b11299,NMN,,250 mg,in morning,2023-07-13,,user_upload
+d26d49d7-ca04-497c-95f7-400a9d273119,5abb043f-079c-4f42-894b-3f668a1c2bb9,NMN,,250 mg,in morning,2025-03-03,,user_upload
+e0fa2930-5a4b-4a5e-8a48-3d4a88bdf1eb,2c5739b6-8e96-44dc-a16d-809a597a46f6,Coenzyme Q10,,100 mg,once daily,2025-03-02,,user_upload
+e0fa2930-5a4b-4a5e-8a48-3d4a88bdf1eb,b76182db-affc-4b08-bae5-8bb9466b62ac,Coenzyme Q10,,100 mg,once daily,2023-10-13,,user_upload
+e0fa2930-5a4b-4a5e-8a48-3d4a88bdf1eb,4d3710e8-ef72-4f1f-8f0c-3316742a4aae,Vitamin D3,,4000 IU,once daily,2023-01-20,,user_upload
+9102c694-d84c-46bc-84e4-419330d8a091,e4508ae6-35dd-424b-aca5-d10866d0a166,NMN,,250 mg,in morning,2023-03-02,,user_upload
+9102c694-d84c-46bc-84e4-419330d8a091,ab5f33b7-c80f-4c0b-ba18-63b1ec5311c1,Omega-3 Fish Oil,,1200 mg,once daily,2023-10-03,,user_upload
+9102c694-d84c-46bc-84e4-419330d8a091,d7a21274-3510-44c4-b24f-d50f0ce9a66c,Coenzyme Q10,,100 mg,once daily,2024-07-26,,user_upload
+2548e604-299d-4349-8f98-56977f6d75b4,97141bc6-213a-4b23-b314-cd9e5ee73de3,NMN,,250 mg,in morning,2024-12-07,,user_upload
+2548e604-299d-4349-8f98-56977f6d75b4,1fc86aac-df64-4535-a4f9-3d5d62083dcf,NMN,,250 mg,in morning,2023-12-29,,user_upload
+2548e604-299d-4349-8f98-56977f6d75b4,f9e26acf-ba78-4689-beff-451020d1d833,NMN,,250 mg,in morning,2025-05-17,,user_upload
+72d74d20-b03d-4ec1-b364-39edae3ef6de,3aab3447-cc25-4c51-b955-c57d3019abd9,Ashwagandha,,300 mg,in evening,2023-09-22,,user_upload
+72d74d20-b03d-4ec1-b364-39edae3ef6de,61b99e15-2eac-4ea1-91d8-91d87bb585b6,Ashwagandha,,300 mg,in evening,2023-07-30,,user_upload
+14a73291-0fd3-42b5-98bf-7a14ba7b7f03,369a5f7a-5229-447a-a711-b48f1c24cca6,Vitamin D3,,4000 IU,once daily,2025-08-03,,user_upload
+14a73291-0fd3-42b5-98bf-7a14ba7b7f03,3b7460ac-cd0e-4c6b-90d8-d23594b33149,Omega-3 Fish Oil,,1200 mg,once daily,2024-03-31,,user_upload
+14a73291-0fd3-42b5-98bf-7a14ba7b7f03,6a64d902-bf1c-454e-9b41-16f90c970916,Magnesium Glycinate,,200 mg,at bedtime,2023-06-20,,user_upload
+14a73291-0fd3-42b5-98bf-7a14ba7b7f03,54f6749f-d57f-41b6-af2d-42ddc706a262,Magnesium Glycinate,,200 mg,at bedtime,2024-06-25,,user_upload
+b594d7a3-dc74-4a59-bcf7-c9d0269ed896,42c56ad8-a8d5-4100-a677-1fc4dd12b3df,Magnesium Glycinate,,200 mg,at bedtime,2024-06-03,,user_upload
+84ac46b6-fd50-4fbb-a7d6-a93dc323b920,7dd0cb58-2b4d-443d-a3d7-c57b28d77ec3,NMN,,250 mg,in morning,2024-02-19,,user_upload
+84ac46b6-fd50-4fbb-a7d6-a93dc323b920,d4f8d599-da91-40bb-bc3b-5cb049c78d73,NMN,,250 mg,in morning,2024-11-11,,user_upload
+84ac46b6-fd50-4fbb-a7d6-a93dc323b920,0c2ce6e8-0106-4c0b-899b-1d4cbc165e76,Magnesium Glycinate,,200 mg,at bedtime,2025-06-17,,user_upload
+83f37dc0-1e86-48be-a93a-ab9e10cb0075,a1100184-20b0-48fe-9c7f-7a09b22cd5c6,Ashwagandha,,300 mg,in evening,2023-10-01,,user_upload
+83f37dc0-1e86-48be-a93a-ab9e10cb0075,2ba53aa3-28bb-4964-9b12-644a320144d3,Ashwagandha,,300 mg,in evening,2023-11-28,,user_upload
+83f37dc0-1e86-48be-a93a-ab9e10cb0075,c656bbbd-b72f-4f0f-8ffa-c044e0b790c9,Lisinopril,206765,10 mg,once daily,2025-01-02,,user_upload
+83f37dc0-1e86-48be-a93a-ab9e10cb0075,62dadf12-525a-4633-9a6d-ffeaedb22303,Atorvastatin,83367,20 mg,once daily,2023-03-18,,user_upload
+618d2019-3f61-40b4-9f7d-5ee1c4ec713b,babec905-5371-4418-84ff-6a3cd63889da,Omega-3 Fish Oil,,1200 mg,once daily,2023-03-21,,user_upload
+618d2019-3f61-40b4-9f7d-5ee1c4ec713b,948432c3-7ba3-4a81-911b-6b48d6bc9295,Atorvastatin,83367,20 mg,once daily,2024-08-19,,user_upload
+618d2019-3f61-40b4-9f7d-5ee1c4ec713b,a261d436-ebd7-45e9-b6ec-16a700c843cb,Lisinopril,206765,10 mg,once daily,2025-01-28,,user_upload
+618d2019-3f61-40b4-9f7d-5ee1c4ec713b,d207a3b5-dc92-4c46-9d99-f28d4897eca5,Omega-3 Fish Oil,,1200 mg,once daily,2023-06-02,,user_upload
+9f5fd303-3b19-4542-855a-40175b9db7d3,1265ae24-50ea-4c22-bb8f-36e9d10bbdc0,Omega-3 Fish Oil,,1200 mg,once daily,2025-01-19,,user_upload
+9f5fd303-3b19-4542-855a-40175b9db7d3,2b3b5681-5d1d-464b-b66c-7e6b45f5e5ca,NMN,,250 mg,in morning,2023-07-04,,user_upload
+8fa79033-1b6c-4313-accc-389eb32c6c03,a507888f-66e9-45eb-b78f-7b0229d8e79a,Ashwagandha,,300 mg,in evening,2025-07-28,,user_upload
+3e3f548f-2373-4ed6-84b0-8700ab02cf9c,b55600fb-42a4-4f7a-ad15-1e1f817bf641,Lisinopril,206765,10 mg,once daily,2023-11-16,,user_upload
+3e3f548f-2373-4ed6-84b0-8700ab02cf9c,71734e5c-4b21-43ce-95c0-b0e97cc7d9cd,NMN,,250 mg,in morning,2023-08-25,,user_upload
+378fb8a5-3340-42b4-b207-569458ebcf0a,8eaa4d27-03ae-4f93-86ac-b23cca67e91b,NMN,,250 mg,in morning,2023-07-16,,user_upload
+378fb8a5-3340-42b4-b207-569458ebcf0a,8747d80b-1949-4335-a0cc-3e92c70c6758,NMN,,250 mg,in morning,2024-02-20,,user_upload
+fdd3dd6a-3b75-47f3-9080-e100b5c9f37a,701d7bd3-f681-44d6-a2b4-1f19518c7049,Vitamin D3,,4000 IU,once daily,2024-09-17,,user_upload
+fdd3dd6a-3b75-47f3-9080-e100b5c9f37a,1a0530cf-60ad-48dd-bf08-8ee4f3c82878,Vitamin D3,,4000 IU,once daily,2023-05-31,,user_upload
+fdd3dd6a-3b75-47f3-9080-e100b5c9f37a,912de1fc-beb9-4b31-95bc-e3c36a1ba952,Magnesium Glycinate,,200 mg,at bedtime,2024-05-18,,user_upload
+9dfdeba6-f6b2-43ae-9562-428c31f7d01a,5a9b4df6-06d3-4d14-993e-b21032723e6b,Omega-3 Fish Oil,,1200 mg,once daily,2025-02-22,,user_upload
+9dfdeba6-f6b2-43ae-9562-428c31f7d01a,ca336996-9204-4643-b017-97918f564524,Coenzyme Q10,,100 mg,once daily,2024-08-01,,user_upload
+9dfdeba6-f6b2-43ae-9562-428c31f7d01a,47e7d3eb-f0eb-4e07-9fc5-2f4bd3333874,Vitamin D3,,4000 IU,once daily,2025-02-11,,user_upload
+9dfdeba6-f6b2-43ae-9562-428c31f7d01a,4cd633a7-3822-45ae-b097-05891d44b411,Vitamin D3,,4000 IU,once daily,2024-07-13,,user_upload
+9dfdeba6-f6b2-43ae-9562-428c31f7d01a,39ce88c8-7ca5-485f-98df-0767875ca489,Ashwagandha,,300 mg,in evening,2024-01-31,,user_upload
+60a8bf15-efb8-4800-9682-834a986325b0,7c2d6a28-7e55-498b-b8db-6525844b4c69,Magnesium Glycinate,,200 mg,at bedtime,2023-04-17,,user_upload
+a935c899-b61a-464c-a346-1d3c718abb3e,b009919e-d5ca-4a50-b6b9-9acd552a9d89,Vitamin D3,,4000 IU,once daily,2024-01-29,,user_upload
+a935c899-b61a-464c-a346-1d3c718abb3e,be473f94-a12c-49e9-8b6e-d5b92d9f9a4a,Metformin,860975,500 mg,twice daily,2024-07-19,,user_upload
+a935c899-b61a-464c-a346-1d3c718abb3e,18a171e5-45ce-4529-a4c1-b881af012275,Ashwagandha,,300 mg,in evening,2025-01-19,,user_upload
+a935c899-b61a-464c-a346-1d3c718abb3e,ab221013-68b6-41ff-8aba-5c26684d8cff,Metformin,860975,500 mg,twice daily,2025-03-20,,user_upload
+df881e35-b34d-478c-a12b-bcac64284c43,f3ac3cc8-8c4c-43da-b30a-005781dc304b,Coenzyme Q10,,100 mg,once daily,2024-01-06,,user_upload
+eefc8bfb-d94f-4945-bd78-b295b6096958,c5700d9d-82ef-4081-ae9e-5015c78afee2,NMN,,250 mg,in morning,2024-05-10,,user_upload
+eefc8bfb-d94f-4945-bd78-b295b6096958,ed484daf-42d7-4dc2-ad52-bb7d31def549,Vitamin D3,,4000 IU,once daily,2023-10-02,,user_upload
+4e350a97-14a8-41f8-93e9-cc4fff9e4f93,e794c42e-80bc-4d89-9b2d-4b4a8e8701a1,Magnesium Glycinate,,200 mg,at bedtime,2024-05-19,,user_upload
+4e350a97-14a8-41f8-93e9-cc4fff9e4f93,cf9a2710-b37d-4e72-a7f2-9ceaaa1b2586,Ashwagandha,,300 mg,in evening,2023-11-11,,user_upload
+db19951b-7f0d-458e-b29a-4be0dc89b0f8,5cf30251-13d0-4acd-961f-03687a2733dd,Vitamin D3,,4000 IU,once daily,2024-10-21,,user_upload
+0898e47c-dab0-4c3e-8528-0b756d437820,4633d17d-d6ce-4195-8b33-0862cdf1ec69,NMN,,250 mg,in morning,2023-10-31,,user_upload
+0898e47c-dab0-4c3e-8528-0b756d437820,14e6d92f-c895-4f72-bf8a-f8c1a0b7767f,Coenzyme Q10,,100 mg,once daily,2024-11-24,,user_upload
+0898e47c-dab0-4c3e-8528-0b756d437820,1568c084-91c9-4bdb-be52-132ac7aaae8d,Coenzyme Q10,,100 mg,once daily,2023-03-23,,user_upload
+0898e47c-dab0-4c3e-8528-0b756d437820,e486de5d-7ef7-4d5b-8460-ebf7d6110256,Magnesium Glycinate,,200 mg,at bedtime,2025-02-16,,user_upload
+3fddc043-b45e-4455-a27f-810d4e423abd,20b4ac06-9005-48ed-8c42-c3e67a917f94,Vitamin D3,,4000 IU,once daily,2024-10-04,,user_upload
+3fddc043-b45e-4455-a27f-810d4e423abd,78717202-72d9-4f5b-b38a-ec6482076892,Omega-3 Fish Oil,,1200 mg,once daily,2025-06-13,,user_upload
+98989fec-7906-4dc7-9fe5-d310e5adcb96,0c082b41-93dd-471a-b624-6913795db277,Magnesium Glycinate,,200 mg,at bedtime,2025-07-18,,user_upload
+7e7ac9b1-6c82-45c8-9dba-4e2e35a29123,120982ce-f5e9-4f79-8462-016dde560fba,Atorvastatin,83367,20 mg,once daily,2023-12-12,,user_upload
+7e7ac9b1-6c82-45c8-9dba-4e2e35a29123,9c7a0ef8-92e0-4157-a4b0-abb9b48d3925,Lisinopril,206765,10 mg,once daily,2023-01-20,,user_upload
+780dd0ba-fcf4-4942-a9bf-f242f5fbf826,07708a80-07e6-454e-bc05-0d8065b32a26,Vitamin D3,,4000 IU,once daily,2025-01-22,,user_upload
+c5399e90-e515-43c7-a6eb-6899ec1d0c72,acf01b59-6390-4b8a-a211-b986591c6934,Metformin,860975,500 mg,twice daily,2023-08-05,,user_upload
+c5399e90-e515-43c7-a6eb-6899ec1d0c72,cc9d42b9-0b67-4bec-815b-656e87d6ffc6,Lisinopril,206765,10 mg,once daily,2025-03-25,,user_upload
+c5399e90-e515-43c7-a6eb-6899ec1d0c72,5da165b3-0947-4443-b6a7-168b7cc733de,Lisinopril,206765,10 mg,once daily,2024-02-10,,user_upload
+c5399e90-e515-43c7-a6eb-6899ec1d0c72,7dee590d-97b2-498c-93ff-e06693c7601a,Magnesium Glycinate,,200 mg,at bedtime,2024-08-17,,user_upload
+ec5f9467-2e1e-4e21-b8cb-e9433fe06473,2b149609-123a-4e8e-842c-6cde84812fe6,Vitamin D3,,4000 IU,once daily,2024-04-23,,user_upload
+ec5f9467-2e1e-4e21-b8cb-e9433fe06473,e231d768-69ce-42a8-9e15-358f61973578,Omega-3 Fish Oil,,1200 mg,once daily,2024-04-03,,user_upload
+d7ddbf05-92ed-49e2-a5cb-80c9704eaca3,b8a301b6-8c5d-41b0-8da2-3e686a08c5e0,Magnesium Glycinate,,200 mg,at bedtime,2024-07-10,,user_upload
+d7ddbf05-92ed-49e2-a5cb-80c9704eaca3,7b9277dd-9f6d-4c54-b72b-9d42acc441d0,Ashwagandha,,300 mg,in evening,2024-09-21,,user_upload
+3e8155f4-09ce-464c-b1e0-09c99a662960,4c5aed64-7271-43c2-ab3f-843e4c94300e,Omega-3 Fish Oil,,1200 mg,once daily,2024-12-13,,user_upload
+3e8155f4-09ce-464c-b1e0-09c99a662960,919b86f1-7924-48d0-b533-568e54cb546e,NMN,,250 mg,in morning,2025-08-09,,user_upload
+3e8155f4-09ce-464c-b1e0-09c99a662960,e29b069c-3cd1-4720-8676-1f1ef6a6921e,Vitamin D3,,4000 IU,once daily,2025-06-07,,user_upload
+4ecb4a57-8202-443f-b939-52d03fa37266,9271b5b7-860c-40cd-ab7a-a8155ff42dd0,Omega-3 Fish Oil,,1200 mg,once daily,2023-04-02,,user_upload
+4ecb4a57-8202-443f-b939-52d03fa37266,def23e3d-3a99-45a7-a045-38a433d63211,Coenzyme Q10,,100 mg,once daily,2024-05-07,,user_upload
+4ecb4a57-8202-443f-b939-52d03fa37266,8fa3d46f-f181-46dc-b603-c68f09f1d1c4,Vitamin D3,,4000 IU,once daily,2023-05-06,,user_upload
+4ecb4a57-8202-443f-b939-52d03fa37266,bb25ae48-5bf1-45b3-8c84-c3bc4961c1e1,Magnesium Glycinate,,200 mg,at bedtime,2024-09-13,,user_upload
+a4aee8f5-d6dd-42a0-a15d-fe7b1a8051d9,f7260bc1-6aec-4e4d-939e-fb608d240bfa,NMN,,250 mg,in morning,2025-05-14,,user_upload
+a4aee8f5-d6dd-42a0-a15d-fe7b1a8051d9,ac25e7a6-37df-4446-a66b-1a6f603af6fd,Omega-3 Fish Oil,,1200 mg,once daily,2023-09-11,,user_upload
+a4aee8f5-d6dd-42a0-a15d-fe7b1a8051d9,a30a2630-e924-4141-a0c3-4b67b513bf3d,NMN,,250 mg,in morning,2024-08-29,,user_upload
+32d2f17c-e173-48b4-96aa-617369ed38bc,3bda6c6c-56ef-48e9-923a-f178080346c8,Coenzyme Q10,,100 mg,once daily,2025-04-12,,user_upload
+32d2f17c-e173-48b4-96aa-617369ed38bc,3ed173de-bbb8-470c-8aa7-27c70cb7481d,NMN,,250 mg,in morning,2024-12-25,,user_upload
+82db9b76-0aaa-4dbc-a370-69e5fc769471,37139d88-816b-4c0a-b59c-dc316d96102c,NMN,,250 mg,in morning,2023-08-29,,user_upload
+82db9b76-0aaa-4dbc-a370-69e5fc769471,25af4adb-937f-40ad-a147-c6309441c9ed,Vitamin D3,,4000 IU,once daily,2024-11-15,,user_upload
+983fb8e8-17cb-4dc3-acb3-a6ff97466338,155fdd38-e057-408c-aba9-a4231d5ed91a,Ashwagandha,,300 mg,in evening,2025-02-27,,user_upload
+f1ae56c1-4f7b-4978-b549-ed146a8d146d,1f3eadbc-e13d-4aa8-99a6-6746e48f6e14,Metformin,860975,500 mg,twice daily,2023-10-14,,user_upload
+f1ae56c1-4f7b-4978-b549-ed146a8d146d,7dd6f2d4-7003-4c65-a837-97b71764a9ec,Lisinopril,206765,10 mg,once daily,2024-01-16,,user_upload
+f1ae56c1-4f7b-4978-b549-ed146a8d146d,341deff9-acd2-48aa-a964-1dc29792316a,Atorvastatin,83367,20 mg,once daily,2024-07-23,,user_upload
+0b356cd9-c4c5-40fd-a6d9-cc349bd536d3,9e8b3478-0a6c-4f0a-9696-03bf31ff4a29,Magnesium Glycinate,,200 mg,at bedtime,2024-05-24,,user_upload
+0b356cd9-c4c5-40fd-a6d9-cc349bd536d3,0f03eadf-d53c-4a09-becc-c7ff16316a38,NMN,,250 mg,in morning,2025-01-04,,user_upload
+0b356cd9-c4c5-40fd-a6d9-cc349bd536d3,648ea3aa-ad07-45af-abec-b73fbd6fb654,NMN,,250 mg,in morning,2024-04-08,,user_upload
+2024e670-ac6b-4381-ba2e-05a875b51741,7411471f-3a29-42cd-a40e-095b37d3ee50,Omega-3 Fish Oil,,1200 mg,once daily,2024-05-26,,user_upload
+cd9b4bb2-a8aa-458e-8c8f-508b04b506a5,7f4c4afa-f53e-4bdf-9095-991222b76391,Ashwagandha,,300 mg,in evening,2024-06-30,,user_upload
+89223d70-dd26-47a7-8a90-41bfaae8b799,fc68c120-0aa6-41dc-8c45-95ef4fdcece1,Coenzyme Q10,,100 mg,once daily,2024-07-01,,user_upload
+89223d70-dd26-47a7-8a90-41bfaae8b799,e47e251a-ab1c-47d1-b93a-5c221481b5ce,Magnesium Glycinate,,200 mg,at bedtime,2025-02-28,,user_upload
+3f0b5c88-1059-4b5c-af88-04ce21219efe,01db9288-6264-4abf-b1fc-53398e315ccc,Metformin,860975,500 mg,twice daily,2023-02-01,,user_upload
+3f0b5c88-1059-4b5c-af88-04ce21219efe,7bc7861d-c93f-4774-88ba-efc6728bbb92,Atorvastatin,83367,20 mg,once daily,2024-12-04,,user_upload
+3f0b5c88-1059-4b5c-af88-04ce21219efe,018df564-8add-4318-b105-411c6592f160,Coenzyme Q10,,100 mg,once daily,2024-08-07,,user_upload
+0a646023-dc6c-45e3-a616-200a6fb841dd,562e48e7-e98e-4b09-b030-0cd805ca8511,Magnesium Glycinate,,200 mg,at bedtime,2024-09-22,,user_upload
+0a646023-dc6c-45e3-a616-200a6fb841dd,f8f32a39-ef44-45b0-b270-27fd71f62c60,Magnesium Glycinate,,200 mg,at bedtime,2023-03-28,,user_upload
+12fccc0a-7dc3-4ca1-b2e9-3e3de60500b2,fb393526-bc83-4cb1-9ca1-8f9a01632a54,Magnesium Glycinate,,200 mg,at bedtime,2024-05-22,,user_upload
+354bcaeb-d0d8-4b38-8edd-1d49e8fbe6a1,f4cb768a-a12f-4821-b3e5-76a0a34c423a,Magnesium Glycinate,,200 mg,at bedtime,2023-06-18,,user_upload
+b883e461-8f83-439c-bb7d-811a8f71382e,1e49b3bc-2c34-4c21-8f51-07ddb733754c,Vitamin D3,,4000 IU,once daily,2025-07-01,,user_upload
+b883e461-8f83-439c-bb7d-811a8f71382e,b9aa23a4-3e98-4547-98c7-bbfb1882ddc1,Vitamin D3,,4000 IU,once daily,2024-02-11,,user_upload
+b883e461-8f83-439c-bb7d-811a8f71382e,1d2726c8-e0b7-4267-a5b0-cbc462e4b699,Magnesium Glycinate,,200 mg,at bedtime,2023-01-22,,user_upload
+b883e461-8f83-439c-bb7d-811a8f71382e,4032fdb4-aa06-40b1-8110-1ca9bb3fcc37,NMN,,250 mg,in morning,2025-07-14,,user_upload
+a1784277-f93c-4eb9-85f4-aab6e82c4437,1b1538db-818d-4951-9650-41b2dbd6cc67,Coenzyme Q10,,100 mg,once daily,2025-01-12,,user_upload
+a1784277-f93c-4eb9-85f4-aab6e82c4437,aede67b7-30dd-4dfc-a459-02f59dc3515b,Ashwagandha,,300 mg,in evening,2024-08-29,,user_upload
+c8aa4eec-62ad-435f-828e-de9413b5575a,a8751f1b-7035-44e3-9369-8373f144c343,Vitamin D3,,4000 IU,once daily,2024-08-12,,user_upload
+c8aa4eec-62ad-435f-828e-de9413b5575a,0341f2b8-cb02-4ff5-a81d-6eedf2af58a3,Coenzyme Q10,,100 mg,once daily,2024-11-10,,user_upload
+9f7a878f-5de3-4e3b-9854-1e6a91b854c6,95d3fdeb-c1fe-4bb1-bf66-c5c222f5c95c,Omega-3 Fish Oil,,1200 mg,once daily,2025-02-04,,user_upload
+9f7a878f-5de3-4e3b-9854-1e6a91b854c6,eccacfdb-f994-438c-abf4-619100e409c7,Magnesium Glycinate,,200 mg,at bedtime,2023-09-04,,user_upload
+9f7a878f-5de3-4e3b-9854-1e6a91b854c6,87eeacd0-3616-4800-a4b6-97d672fca731,Omega-3 Fish Oil,,1200 mg,once daily,2024-04-10,,user_upload
+9f7a878f-5de3-4e3b-9854-1e6a91b854c6,b043dba5-a124-4cc1-82ef-8a32429f1556,NMN,,250 mg,in morning,2024-05-08,,user_upload
+c15d37bd-acc2-42dd-8f18-52a368662021,39d9b32d-06fc-4b63-b50e-ba662f23d232,NMN,,250 mg,in morning,2023-10-06,,user_upload
+c15d37bd-acc2-42dd-8f18-52a368662021,4e756540-c41b-4523-a3c2-2df394fcb06e,Omega-3 Fish Oil,,1200 mg,once daily,2023-01-15,,user_upload
+c15d37bd-acc2-42dd-8f18-52a368662021,60e1d0fa-4181-4b4e-accb-bea1147a4f0c,NMN,,250 mg,in morning,2023-02-13,,user_upload
+c15d37bd-acc2-42dd-8f18-52a368662021,bf1cfc96-cebb-4c5f-be14-d200accc514f,Magnesium Glycinate,,200 mg,at bedtime,2024-12-07,,user_upload
+c15d37bd-acc2-42dd-8f18-52a368662021,e3f7b407-03ab-469b-a1c3-c0e2495c4aa9,NMN,,250 mg,in morning,2025-03-23,,user_upload
+3d9e9601-64e1-4ecb-a222-c8169420faab,5a034f94-9522-43d8-b84b-f07995cbf6f4,Magnesium Glycinate,,200 mg,at bedtime,2025-02-09,,user_upload
+75e656f4-d678-4456-b6ab-cd5d68ebab85,6f9ea6fd-ea3c-4c1e-8a44-3389d815709d,Vitamin D3,,4000 IU,once daily,2023-03-01,,user_upload
+75e656f4-d678-4456-b6ab-cd5d68ebab85,ed128fd2-af36-4af1-944c-64482629540c,Ashwagandha,,300 mg,in evening,2024-02-18,,user_upload
+75e656f4-d678-4456-b6ab-cd5d68ebab85,afe632a6-3959-4ad1-97e6-71810108738b,Coenzyme Q10,,100 mg,once daily,2023-06-08,,user_upload
+340b104a-5ba5-494c-adc6-939808bb8b37,a3d8f862-2da8-4a50-a7fa-39819eeb4f02,Magnesium Glycinate,,200 mg,at bedtime,2024-06-17,,user_upload
+340b104a-5ba5-494c-adc6-939808bb8b37,aca15952-b839-43ee-88eb-521462bad08b,NMN,,250 mg,in morning,2023-07-10,,user_upload
+4de26d91-5bf6-4a76-80e0-605d54e51b3b,c011327c-39e4-4bb9-a3a0-6db7f4f9e407,Atorvastatin,83367,20 mg,once daily,2025-04-22,,user_upload
+4de26d91-5bf6-4a76-80e0-605d54e51b3b,817bb980-9615-4eda-9538-e99fa740401b,Metformin,860975,500 mg,twice daily,2023-01-25,,user_upload
+4de26d91-5bf6-4a76-80e0-605d54e51b3b,b6d29f5f-3837-4614-bed3-0d423f2de742,Lisinopril,206765,10 mg,once daily,2024-11-13,,user_upload
+4de26d91-5bf6-4a76-80e0-605d54e51b3b,afe23eea-277c-494f-b1e6-d56d657a9e8c,Ashwagandha,,300 mg,in evening,2024-02-15,,user_upload
+397e010d-3eda-4f33-a4ff-d835e6a48c3b,2c900c9a-d392-4e4c-97d0-3220a3860855,Vitamin D3,,4000 IU,once daily,2024-05-10,,user_upload
+397e010d-3eda-4f33-a4ff-d835e6a48c3b,a5010586-debf-4fba-b235-240e2b49c9a6,Omega-3 Fish Oil,,1200 mg,once daily,2023-04-20,,user_upload
+397e010d-3eda-4f33-a4ff-d835e6a48c3b,1887c390-61f4-4be6-9428-173bf1f73a6a,Magnesium Glycinate,,200 mg,at bedtime,2024-10-20,,user_upload
+a7639262-6fde-4f6f-8df9-cd17646c472e,e7d41a61-1105-414e-9d04-b44b2ac9e6d5,Magnesium Glycinate,,200 mg,at bedtime,2024-09-27,,user_upload
+a7639262-6fde-4f6f-8df9-cd17646c472e,20dafc70-1956-4222-a4f9-05c26a54b945,Coenzyme Q10,,100 mg,once daily,2024-05-03,,user_upload
+a7639262-6fde-4f6f-8df9-cd17646c472e,4f82f362-4a75-4971-8c0c-0ee4051ed206,Coenzyme Q10,,100 mg,once daily,2024-02-19,,user_upload
+38e293d7-fa85-4dec-ae63-ac858c61360a,8b427787-ef22-4267-a4ab-ea0dfc318130,Vitamin D3,,4000 IU,once daily,2025-01-13,,user_upload
+cbe8a1bd-47ca-4f6d-afa0-e28516df7030,f5b981c1-a1ad-4081-b8e9-74552442157c,Atorvastatin,83367,20 mg,once daily,2024-05-20,,user_upload
+cbe8a1bd-47ca-4f6d-afa0-e28516df7030,62650d40-b01d-452e-8537-0bdf807acfd3,NMN,,250 mg,in morning,2023-05-14,,user_upload
+17ece646-037b-4802-8532-a04339f3a71a,38856ae2-233c-4d19-93fd-d528eca999bb,Ashwagandha,,300 mg,in evening,2023-11-17,,user_upload
+5e164f11-b8ab-4f10-a6d0-ed221efe4de5,3386356e-b2a1-4fa4-9c76-353fee97c7ec,Omega-3 Fish Oil,,1200 mg,once daily,2025-02-10,,user_upload
+2d2c167b-9d4c-4181-9eff-5e8f2f4021ef,6a7ee252-a2f7-4160-864a-8576aed00466,Vitamin D3,,4000 IU,once daily,2024-01-21,,user_upload
+2d2c167b-9d4c-4181-9eff-5e8f2f4021ef,a1fae1ea-d6e6-4337-88bf-4910d27745f8,Coenzyme Q10,,100 mg,once daily,2023-03-19,,user_upload
+2d2c167b-9d4c-4181-9eff-5e8f2f4021ef,00899cd8-f67d-4bf9-93c8-d4419ad87121,Magnesium Glycinate,,200 mg,at bedtime,2024-10-19,,user_upload
+2d2c167b-9d4c-4181-9eff-5e8f2f4021ef,bd563337-49fd-420d-afec-aab989ebbccd,Vitamin D3,,4000 IU,once daily,2025-01-30,,user_upload
+ee183802-2f99-4d35-ab53-4c02b519a8f7,e32b4767-4187-4907-a78e-5ea0f6cd3289,Coenzyme Q10,,100 mg,once daily,2023-06-11,,user_upload
+ee183802-2f99-4d35-ab53-4c02b519a8f7,707e47ae-c1d0-4d39-aff3-1030279348fc,Magnesium Glycinate,,200 mg,at bedtime,2023-11-15,,user_upload
+5d04b6b8-aec2-4e04-8a00-4c29faad2071,7c9a7feb-c167-451b-9910-ea81518a72ff,Magnesium Glycinate,,200 mg,at bedtime,2024-10-18,,user_upload
+5d04b6b8-aec2-4e04-8a00-4c29faad2071,bbcb8ea4-35a8-4319-a18a-1f4cbd91cc29,Vitamin D3,,4000 IU,once daily,2025-05-15,,user_upload
+2d565119-dc7d-4156-8a83-1b4aea89d65b,7dc2bc10-6bdd-4fcb-9702-8feb1d43db4b,NMN,,250 mg,in morning,2023-05-25,,user_upload
+2d565119-dc7d-4156-8a83-1b4aea89d65b,50bd0511-5341-44ca-a839-23dcb724f4e6,Magnesium Glycinate,,200 mg,at bedtime,2025-02-23,,user_upload
+2d565119-dc7d-4156-8a83-1b4aea89d65b,13e0a8e1-76bf-4dec-95f5-3de84765c8aa,NMN,,250 mg,in morning,2025-05-08,,user_upload
+d151e14d-c505-43b9-94f1-2cc22f132a00,27e86b93-440c-4473-a858-ec7d51f48504,Coenzyme Q10,,100 mg,once daily,2024-08-14,,user_upload
+d151e14d-c505-43b9-94f1-2cc22f132a00,0685b3a7-d9c7-4f00-a992-8f96306db5f4,NMN,,250 mg,in morning,2023-12-09,,user_upload
+68554ca5-bb41-4070-b9c0-4c50632cf6fa,0472b100-fde2-48b3-9b7c-2918ac4481a2,Ashwagandha,,300 mg,in evening,2024-08-17,,user_upload
+68554ca5-bb41-4070-b9c0-4c50632cf6fa,88bb0664-65e6-4b0c-86ec-19aa59b5e7cd,NMN,,250 mg,in morning,2023-03-03,,user_upload
+68554ca5-bb41-4070-b9c0-4c50632cf6fa,0f82b26a-05ad-4db8-a605-74ad6f804225,Vitamin D3,,4000 IU,once daily,2023-08-06,,user_upload
+27fae562-d7ec-46d5-909b-b774d78892bb,0d5afa46-0831-44b4-a0b0-09cb8090928c,Omega-3 Fish Oil,,1200 mg,once daily,2023-07-13,,user_upload
+c1a3ec1c-4cd4-4e1b-bff7-933189794c9e,f01afcf7-4aaf-466c-ad88-a90774392e9b,Atorvastatin,83367,20 mg,once daily,2023-05-08,,user_upload
+3859ebd7-3ddc-49a8-9eae-541c1eba1333,8a9252e9-af30-411a-94e0-e797d7ec62b6,Vitamin D3,,4000 IU,once daily,2023-08-04,,user_upload
+3859ebd7-3ddc-49a8-9eae-541c1eba1333,6e4560f4-e611-43ea-afee-13b185313606,Lisinopril,206765,10 mg,once daily,2024-07-30,,user_upload
+3859ebd7-3ddc-49a8-9eae-541c1eba1333,31133637-fee6-4713-958e-41ba79cfa489,NMN,,250 mg,in morning,2023-04-09,,user_upload
+b8a62cdb-0f75-47aa-ac28-f97740288b4b,42effbb8-3eaf-4eac-9e86-27e8fe0f927f,Ashwagandha,,300 mg,in evening,2023-04-21,,user_upload
+dce31a15-5bba-46a1-bb9b-14a21fa319bf,27c48b93-65e7-468a-a1e1-9e7b625763e8,Vitamin D3,,4000 IU,once daily,2023-06-20,,user_upload
+dce31a15-5bba-46a1-bb9b-14a21fa319bf,47b944e9-74d8-4e89-8903-3ef0b5af4ff2,Coenzyme Q10,,100 mg,once daily,2023-05-06,,user_upload
+dce31a15-5bba-46a1-bb9b-14a21fa319bf,8c4b6cfd-a01c-4434-bd36-8013e3c7b281,NMN,,250 mg,in morning,2024-10-18,,user_upload
+0d5ceb67-62bb-4dfd-bf91-b2f233e70c13,d09a9c3c-52d4-4fdb-b6b5-5dd3c43ce14d,Magnesium Glycinate,,200 mg,at bedtime,2024-04-17,,user_upload
+0d5ceb67-62bb-4dfd-bf91-b2f233e70c13,3f766b5c-6b7d-45e1-9887-845a3f0aab3c,Vitamin D3,,4000 IU,once daily,2025-03-20,,user_upload
+90ec8236-d443-471c-8470-0ec9d34f44b6,3773f2e8-e66d-4f6c-a95d-b7af757dfe38,Magnesium Glycinate,,200 mg,at bedtime,2024-05-23,,user_upload
+90ec8236-d443-471c-8470-0ec9d34f44b6,c6a3f6f2-7fb4-485c-9a66-0832537d0da3,Omega-3 Fish Oil,,1200 mg,once daily,2024-12-22,,user_upload
+90ec8236-d443-471c-8470-0ec9d34f44b6,70ad5424-e78a-4150-a705-e584fc6fc060,Coenzyme Q10,,100 mg,once daily,2024-08-17,,user_upload
+792c1773-65e5-4877-8dc8-bd116a3d66f2,799f15f8-b18a-43fd-a24a-2d44a67fdea5,Omega-3 Fish Oil,,1200 mg,once daily,2023-04-09,,user_upload
+2ceab0ac-f03b-489f-82f3-35103c02bb40,e242661e-249d-4dfc-86b1-f82ac6572f0c,Vitamin D3,,4000 IU,once daily,2024-05-01,,user_upload
+2ceab0ac-f03b-489f-82f3-35103c02bb40,be6a056a-95be-43da-b8a4-4a8cbdc15f70,Magnesium Glycinate,,200 mg,at bedtime,2024-12-14,,user_upload
+2ceab0ac-f03b-489f-82f3-35103c02bb40,4d1afb90-1828-4aeb-8aff-f30844163c6c,Coenzyme Q10,,100 mg,once daily,2023-01-23,,user_upload
+2ceab0ac-f03b-489f-82f3-35103c02bb40,645dddf3-7352-4443-bced-f2975ff58504,Magnesium Glycinate,,200 mg,at bedtime,2023-10-19,,user_upload
+b485da6d-efa4-42a5-a121-c3fdb98eef93,866d033a-56b7-40fb-98fc-c3e63ffba6ea,NMN,,250 mg,in morning,2023-02-25,,user_upload
+b485da6d-efa4-42a5-a121-c3fdb98eef93,9d702a3c-4481-4782-b983-769ea805686c,Ashwagandha,,300 mg,in evening,2023-05-06,,user_upload
+b485da6d-efa4-42a5-a121-c3fdb98eef93,1c04e1ca-8f0a-4175-a451-507d8766e408,Omega-3 Fish Oil,,1200 mg,once daily,2024-08-22,,user_upload
+b485da6d-efa4-42a5-a121-c3fdb98eef93,9b267f80-09d9-4bac-88d5-d9525873ed05,Magnesium Glycinate,,200 mg,at bedtime,2024-06-26,,user_upload
+8f5d4574-c15f-4b52-b2b1-344dba478201,dfc94ea9-ce89-4d3e-b8f5-3528ae497a41,Vitamin D3,,4000 IU,once daily,2023-09-23,,user_upload
+8f5d4574-c15f-4b52-b2b1-344dba478201,190db2fb-695b-4f86-a6a9-e3a3364e7db6,Magnesium Glycinate,,200 mg,at bedtime,2025-04-04,,user_upload
+8f5d4574-c15f-4b52-b2b1-344dba478201,8ce84aa7-ec4f-4cf3-96ff-e7c45788cf25,Coenzyme Q10,,100 mg,once daily,2023-03-12,,user_upload
+8f5d4574-c15f-4b52-b2b1-344dba478201,b59c8571-85f2-46e1-93db-692f6bac3762,NMN,,250 mg,in morning,2023-06-26,,user_upload
+214ad735-3288-4d7f-88d1-b584dc7f71ea,af6bd677-e3ba-4b19-ab18-4f484712305f,Vitamin D3,,4000 IU,once daily,2023-06-08,,user_upload
+893bdf58-5b4b-4b4d-b03f-1466ef4cefc0,21f12ba8-7a66-4822-815b-c8e8c89ce99c,Ashwagandha,,300 mg,in evening,2025-02-09,,user_upload
+893bdf58-5b4b-4b4d-b03f-1466ef4cefc0,eb9dd398-ef11-4f51-8b23-9018d9021474,Lisinopril,206765,10 mg,once daily,2024-08-09,,user_upload
+893bdf58-5b4b-4b4d-b03f-1466ef4cefc0,7a075766-0636-487b-9fb4-273e34f47fa2,Metformin,860975,500 mg,twice daily,2024-12-17,,user_upload
+893bdf58-5b4b-4b4d-b03f-1466ef4cefc0,56729867-81b0-4100-98aa-172377b9806f,Metformin,860975,500 mg,twice daily,2024-05-24,,user_upload
+37b6dfc3-f715-46ae-aece-f5ab5e72e7bc,5e40b414-f3b8-4ae0-8ffc-4b83d46a88fa,Metformin,860975,500 mg,twice daily,2024-03-15,,user_upload
+37b6dfc3-f715-46ae-aece-f5ab5e72e7bc,7217430e-0304-455c-a5c4-206fbc932564,NMN,,250 mg,in morning,2024-08-01,,user_upload
+37b6dfc3-f715-46ae-aece-f5ab5e72e7bc,775af675-7862-48d4-8e01-622e0a765ba4,Metformin,860975,500 mg,twice daily,2023-04-09,,user_upload
+37b6dfc3-f715-46ae-aece-f5ab5e72e7bc,aab89582-3064-436d-bdbf-f7f69b370db6,Omega-3 Fish Oil,,1200 mg,once daily,2023-12-03,,user_upload
+d11e13fd-0579-4fea-b05a-72bf8b668302,72c87bbf-7576-4080-99df-ed744e5901c2,Ashwagandha,,300 mg,in evening,2025-05-09,,user_upload
+d11e13fd-0579-4fea-b05a-72bf8b668302,729c28ed-7c18-4ffd-aa7f-381b3a5d2af2,Omega-3 Fish Oil,,1200 mg,once daily,2024-06-10,,user_upload
+d11e13fd-0579-4fea-b05a-72bf8b668302,0ee1c3df-3792-4a1d-9769-f8f2c22049b1,Metformin,860975,500 mg,twice daily,2023-03-22,,user_upload
+eb3c1ff5-bf87-4428-8bd8-3441349d3235,9a0f2d41-072e-4a7e-8342-50054d33b397,Magnesium Glycinate,,200 mg,at bedtime,2024-10-18,,user_upload
+2d0bb214-7a5c-4850-8969-bb939ff89757,da14ec91-9952-451c-9bb0-8703d50a4193,NMN,,250 mg,in morning,2025-04-01,,user_upload
+2d0bb214-7a5c-4850-8969-bb939ff89757,cb49513b-ae2e-40be-a765-878136c18d5d,Vitamin D3,,4000 IU,once daily,2024-04-08,,user_upload
+2d0bb214-7a5c-4850-8969-bb939ff89757,ae2df49b-04a3-46b9-a66b-296e36067d71,Coenzyme Q10,,100 mg,once daily,2024-09-23,,user_upload
+dcee1ccb-9265-48ac-b8f7-1ce88831e59f,d5918c75-20ce-4fa2-a97d-aa526d2b0e3b,Ashwagandha,,300 mg,in evening,2025-01-21,,user_upload
+dcee1ccb-9265-48ac-b8f7-1ce88831e59f,c49db856-67f6-4e98-8677-68a58a4f09d3,Coenzyme Q10,,100 mg,once daily,2025-04-27,,user_upload
+dcee1ccb-9265-48ac-b8f7-1ce88831e59f,cda1c130-3d6e-4886-bb2e-56e1ebc898a3,Coenzyme Q10,,100 mg,once daily,2024-01-04,,user_upload
+dcee1ccb-9265-48ac-b8f7-1ce88831e59f,7ccd11af-8077-4e50-ac63-c7dd1d09e891,NMN,,250 mg,in morning,2025-01-29,,user_upload
+e6e0f8ad-11f6-401c-8437-2e40677e9442,7e7ae886-e373-46c9-ab0b-815dc95b1bff,Omega-3 Fish Oil,,1200 mg,once daily,2024-05-01,,user_upload
+e6e0f8ad-11f6-401c-8437-2e40677e9442,a94e8ec8-fe0f-43c9-b22d-88289ec5ee35,Coenzyme Q10,,100 mg,once daily,2023-05-10,,user_upload
+e6e0f8ad-11f6-401c-8437-2e40677e9442,e7d3ffae-0357-41ee-866b-8e5e53060b81,Vitamin D3,,4000 IU,once daily,2023-05-23,,user_upload
+e6e0f8ad-11f6-401c-8437-2e40677e9442,24abf32a-7386-4938-9b07-9f9c081a0359,Vitamin D3,,4000 IU,once daily,2024-11-22,,user_upload
+4f3cf69b-82ac-4c65-8439-b212997554c7,301a23b4-edb7-40bb-8689-974e32d8596c,Magnesium Glycinate,,200 mg,at bedtime,2024-04-02,,user_upload
+4f3cf69b-82ac-4c65-8439-b212997554c7,73bc67a0-827c-4987-88d0-bce531cf8091,NMN,,250 mg,in morning,2023-03-15,,user_upload
+6349ba2a-6e8c-4a9a-8756-eb938d13b5b7,638cf71a-f118-465d-a7fd-d4d8d9cc0437,Lisinopril,206765,10 mg,once daily,2023-10-19,,user_upload
+6349ba2a-6e8c-4a9a-8756-eb938d13b5b7,41967504-6ccc-48c3-87da-319b08fc7d23,Omega-3 Fish Oil,,1200 mg,once daily,2024-06-04,,user_upload
+6349ba2a-6e8c-4a9a-8756-eb938d13b5b7,1920a0af-c7b6-42ba-8e4a-ea4b3c244e3b,Atorvastatin,83367,20 mg,once daily,2025-05-09,,user_upload
+6349ba2a-6e8c-4a9a-8756-eb938d13b5b7,08c52d57-5b2b-48e0-a969-3a161ef3de15,Atorvastatin,83367,20 mg,once daily,2025-06-30,,user_upload
+b7ba8b3b-b604-40fc-8d66-d66e8f280cef,eb4828ec-6c4b-4250-ab28-0c6ee18575c9,Coenzyme Q10,,100 mg,once daily,2024-05-16,,user_upload
+b7ba8b3b-b604-40fc-8d66-d66e8f280cef,aac3c0f4-1fde-466f-ab7c-4aea6c61c7a2,NMN,,250 mg,in morning,2023-07-26,,user_upload
+b7ba8b3b-b604-40fc-8d66-d66e8f280cef,371a59fb-4c37-425d-a33c-6ee57f1934d5,Magnesium Glycinate,,200 mg,at bedtime,2024-04-07,,user_upload
+d42ef757-da91-42e1-a97b-73a3a725cf19,9573e8ce-5698-41fd-b7d7-1e598667c5c2,Vitamin D3,,4000 IU,once daily,2024-04-11,,user_upload
+d42ef757-da91-42e1-a97b-73a3a725cf19,4c231086-2ebc-4dac-b4a8-25a358850727,Omega-3 Fish Oil,,1200 mg,once daily,2023-10-31,,user_upload
+d42ef757-da91-42e1-a97b-73a3a725cf19,d3c34ef9-1cfb-4d40-baf9-41f0047435ef,NMN,,250 mg,in morning,2023-04-24,,user_upload
+d42ef757-da91-42e1-a97b-73a3a725cf19,be13c024-936b-408f-9aec-26024b345192,Coenzyme Q10,,100 mg,once daily,2024-01-25,,user_upload
+d42ef757-da91-42e1-a97b-73a3a725cf19,160aba59-12ea-438d-a19f-17bc370b3e8a,Vitamin D3,,4000 IU,once daily,2025-05-02,,user_upload
+0abf4111-4d32-46ab-a33f-3decb2477471,92f4bbfa-3b0d-450f-a842-134dd3a90226,Atorvastatin,83367,20 mg,once daily,2025-05-02,,user_upload
+3560d298-a929-42dc-8614-9fbdc188e81f,731f585e-aaa6-45c3-9abc-d21b542e859a,Vitamin D3,,4000 IU,once daily,2024-10-08,,user_upload
+3560d298-a929-42dc-8614-9fbdc188e81f,514f4e8d-8213-4433-8ae0-71e7250ada0c,Vitamin D3,,4000 IU,once daily,2024-06-02,,user_upload
+3560d298-a929-42dc-8614-9fbdc188e81f,3b8b5fe8-c957-46db-bbfd-7a5593574451,Magnesium Glycinate,,200 mg,at bedtime,2024-12-12,,user_upload
+6c9dc0a6-8cd9-484c-8967-7b7d0d0370fe,627b647f-bded-48f0-b784-e8f4f57e3f5a,Omega-3 Fish Oil,,1200 mg,once daily,2023-02-24,,user_upload
+6c9dc0a6-8cd9-484c-8967-7b7d0d0370fe,97d896f3-a7df-44d0-8e69-bb982b19db0b,NMN,,250 mg,in morning,2023-06-21,,user_upload
+6c9dc0a6-8cd9-484c-8967-7b7d0d0370fe,cdb0af35-ea42-4350-aed6-9491fdb61c03,Ashwagandha,,300 mg,in evening,2023-04-23,,user_upload
+73234413-d65e-422e-8c05-91b852d126b1,b74b40d4-55eb-45ac-9cb0-9b0ff7fd320d,Metformin,860975,500 mg,twice daily,2024-05-21,,user_upload
+09662f9e-6e79-4384-b9ee-9f0201a177a9,9e6680f0-c3d8-4907-8642-ef4180635c53,Metformin,860975,500 mg,twice daily,2023-02-15,,user_upload
+09662f9e-6e79-4384-b9ee-9f0201a177a9,b9f8690d-f713-4c02-aea1-2aa36cb771ea,Magnesium Glycinate,,200 mg,at bedtime,2024-06-20,,user_upload
+09662f9e-6e79-4384-b9ee-9f0201a177a9,a6d0ff28-1629-4403-b62d-517f24bd4c8e,Metformin,860975,500 mg,twice daily,2024-12-10,,user_upload
+09662f9e-6e79-4384-b9ee-9f0201a177a9,3ccd898f-654a-45b0-b9fe-08939c9f6d9f,Metformin,860975,500 mg,twice daily,2024-07-10,,user_upload
+30809bf6-c7c5-40dc-a91b-8d720f35a5c7,1f3b536c-c79e-4787-8cf4-2923b3659284,Magnesium Glycinate,,200 mg,at bedtime,2024-08-01,,user_upload
+30809bf6-c7c5-40dc-a91b-8d720f35a5c7,de47be20-9d52-46bc-b412-edc2eea4129d,Omega-3 Fish Oil,,1200 mg,once daily,2024-12-19,,user_upload
+30809bf6-c7c5-40dc-a91b-8d720f35a5c7,6ac2fd4f-8fa9-4e69-9fea-59ca27c7fba9,Omega-3 Fish Oil,,1200 mg,once daily,2025-07-30,,user_upload
+4cd90fff-f3b4-4578-8214-6318d3243be6,41b57034-4d75-4a2a-84f6-9010db6acdb2,Coenzyme Q10,,100 mg,once daily,2025-06-12,,user_upload
+4cd90fff-f3b4-4578-8214-6318d3243be6,c41a2134-47bd-444d-a627-c03266db9bfe,Magnesium Glycinate,,200 mg,at bedtime,2024-10-23,,user_upload
+b00837a2-0631-41ed-9a5c-3dbc6d06874f,6d565830-4794-4b61-bedb-73b466648087,Lisinopril,206765,10 mg,once daily,2025-06-14,,user_upload
+f74284dd-0aef-4a7e-89d0-1e4da579689e,893da3ea-dca2-451d-a1e3-078ca803d945,Vitamin D3,,4000 IU,once daily,2024-09-23,,user_upload
+f74284dd-0aef-4a7e-89d0-1e4da579689e,642c21dd-2ab6-4e83-b1fe-d862c05407e8,Omega-3 Fish Oil,,1200 mg,once daily,2025-04-06,,user_upload
+f74284dd-0aef-4a7e-89d0-1e4da579689e,4362b384-046c-4a2d-9428-90f3905ff718,Omega-3 Fish Oil,,1200 mg,once daily,2024-08-16,,user_upload
+d9341add-9c5b-4d41-ba50-fa130e20de94,9b3074ad-fc9b-4558-b711-a58a22505a90,Ashwagandha,,300 mg,in evening,2023-02-23,,user_upload
+d9341add-9c5b-4d41-ba50-fa130e20de94,40614cf6-9922-447b-b48b-39bbebde6159,Coenzyme Q10,,100 mg,once daily,2023-08-12,,user_upload
+b2a92319-5b3b-41bd-a94b-bee964a4bcfa,20677967-5cb7-4818-9971-1808f2764171,Vitamin D3,,4000 IU,once daily,2024-08-03,,user_upload
+b2a92319-5b3b-41bd-a94b-bee964a4bcfa,f9e2e177-afac-4e1d-90ef-7d7822d48263,Vitamin D3,,4000 IU,once daily,2024-03-18,,user_upload
+b2a92319-5b3b-41bd-a94b-bee964a4bcfa,16e1986b-d585-42b4-a45e-e1438cc8ec95,Vitamin D3,,4000 IU,once daily,2025-02-27,,user_upload
+b2a92319-5b3b-41bd-a94b-bee964a4bcfa,08dc11c6-f7b3-4ac2-bc04-b1ec058f5c67,Vitamin D3,,4000 IU,once daily,2025-06-29,,user_upload
+0ee62199-8d87-4238-b45e-28f2d87d7fb1,ac6d20b6-cef1-4d03-85e4-c2c4ff29980c,Vitamin D3,,4000 IU,once daily,2024-08-17,,user_upload
+0ee62199-8d87-4238-b45e-28f2d87d7fb1,a4583c06-df3a-465e-878f-fc9722b8f030,NMN,,250 mg,in morning,2024-11-15,,user_upload
+960540be-30c3-43cd-bf08-2ee2d8bf03ad,2580c68b-f27b-40dd-8d21-65b15ec039f9,NMN,,250 mg,in morning,2024-03-23,,user_upload
+960540be-30c3-43cd-bf08-2ee2d8bf03ad,faef26c4-995a-4519-93e5-7b02fc99e619,Coenzyme Q10,,100 mg,once daily,2024-12-24,,user_upload
+9fb5047d-179d-4ba5-aaa6-4a07826db644,74c9ee12-eb1a-4432-9c7a-534e7ddbc6e4,Omega-3 Fish Oil,,1200 mg,once daily,2023-08-14,,user_upload
+b59e7e41-0346-479a-9948-86d1ed181ba1,4f797c74-bc48-48fc-8bef-ca509fa7b1cb,Vitamin D3,,4000 IU,once daily,2025-04-17,,user_upload
+9c8171e6-a90d-480b-934e-b75cf67e98c0,bc4837e8-e43a-40a8-b0f7-3f9dcb3ec92f,Magnesium Glycinate,,200 mg,at bedtime,2024-01-25,,user_upload
+9c8171e6-a90d-480b-934e-b75cf67e98c0,5c99d956-5211-4a9a-b0f5-852fff0940d8,Ashwagandha,,300 mg,in evening,2023-12-27,,user_upload
+9c8171e6-a90d-480b-934e-b75cf67e98c0,fe5086b5-5a59-4075-b25f-35f6c18f8a9e,Vitamin D3,,4000 IU,once daily,2024-12-29,,user_upload
+82b706b7-a9c0-471c-9ce7-1eb776dc8f67,69e96528-30e9-424c-a4c3-fe84c381aeb6,Magnesium Glycinate,,200 mg,at bedtime,2025-07-28,,user_upload
+82b706b7-a9c0-471c-9ce7-1eb776dc8f67,e6f4defd-916b-44bd-9d34-b6d6956c5350,Coenzyme Q10,,100 mg,once daily,2023-02-28,,user_upload
+82b706b7-a9c0-471c-9ce7-1eb776dc8f67,79519c1d-4475-433c-adbe-2ea37134e17f,Omega-3 Fish Oil,,1200 mg,once daily,2023-01-14,,user_upload
+82b706b7-a9c0-471c-9ce7-1eb776dc8f67,091f2555-27f5-408c-ad5f-e56088ca1eaa,Coenzyme Q10,,100 mg,once daily,2025-06-19,,user_upload
+e261e9cb-e88b-4700-9ad6-30b820cd8ede,40de1842-0442-40b8-8259-570ee939aced,NMN,,250 mg,in morning,2025-02-20,,user_upload
+e261e9cb-e88b-4700-9ad6-30b820cd8ede,01fa1bb0-c0c7-4842-b7b2-881a53beff38,Coenzyme Q10,,100 mg,once daily,2023-05-18,,user_upload
+e261e9cb-e88b-4700-9ad6-30b820cd8ede,ba1e500c-f7d6-4106-80e5-7535f3bf3917,NMN,,250 mg,in morning,2023-04-15,,user_upload
+e261e9cb-e88b-4700-9ad6-30b820cd8ede,c75f139f-a658-4d5d-afff-c0d391248116,Vitamin D3,,4000 IU,once daily,2024-06-11,,user_upload
+624d15e3-307d-4ba2-aa6e-8e7f335fd14b,b7291b96-8263-462f-bf29-67f76db113ee,Coenzyme Q10,,100 mg,once daily,2025-04-05,,user_upload
+624d15e3-307d-4ba2-aa6e-8e7f335fd14b,5cbcc946-922a-46f3-8d47-bcbf36e1e702,Vitamin D3,,4000 IU,once daily,2024-06-07,,user_upload
+624d15e3-307d-4ba2-aa6e-8e7f335fd14b,959734e5-42fd-40c1-a1ea-0eebed165d08,Coenzyme Q10,,100 mg,once daily,2024-11-21,,user_upload
+624d15e3-307d-4ba2-aa6e-8e7f335fd14b,08574d10-9f71-4bc1-b1ca-ef68771e7c51,Vitamin D3,,4000 IU,once daily,2024-12-07,,user_upload
+41b06ae9-faa9-4694-854c-d403c4fd89d7,94e4624f-479d-4c88-90f2-9c6b8ee3cf3a,Ashwagandha,,300 mg,in evening,2023-12-26,,user_upload
+41b06ae9-faa9-4694-854c-d403c4fd89d7,5c33cb4b-eac2-4cf1-89c3-bfb1bc57596d,Ashwagandha,,300 mg,in evening,2023-10-28,,user_upload
+41b06ae9-faa9-4694-854c-d403c4fd89d7,a7c0a87f-1ee6-47d5-922e-6d7ee256424f,Magnesium Glycinate,,200 mg,at bedtime,2025-05-17,,user_upload
+41b06ae9-faa9-4694-854c-d403c4fd89d7,f20b0edc-27da-4c58-980c-7c1d1c45f797,NMN,,250 mg,in morning,2024-06-23,,user_upload
+1342fbfb-8cd2-4fb7-ad2f-9305b14eedd0,680045f1-e404-4c82-b291-11fd36e64b7b,Metformin,860975,500 mg,twice daily,2023-01-26,,user_upload
+1342fbfb-8cd2-4fb7-ad2f-9305b14eedd0,1cd2d3c3-cd91-4bbe-b18d-dc506e293ecb,NMN,,250 mg,in morning,2023-02-22,,user_upload
+1342fbfb-8cd2-4fb7-ad2f-9305b14eedd0,8905baa9-1ef3-43d1-a5c0-4ab00d947ae9,Lisinopril,206765,10 mg,once daily,2023-01-28,,user_upload
+aa712be1-c906-4a01-ab5e-344b20d4ae0a,828c8556-a181-4e5e-8515-4e56c2d4994f,Atorvastatin,83367,20 mg,once daily,2025-05-18,,user_upload
+aa712be1-c906-4a01-ab5e-344b20d4ae0a,7405b48e-9704-4e6a-b6b8-e36171a8fd64,Lisinopril,206765,10 mg,once daily,2024-07-30,,user_upload
+97521d44-3c53-49f9-8299-6f73a0104c22,0152a0ce-6089-4bf4-831f-722f42a812e9,Vitamin D3,,4000 IU,once daily,2023-01-20,,user_upload
+a2e70915-5504-4b21-8735-428ee90770ea,cbed33f6-1dbb-48e8-bf5d-a54051d5a03c,Metformin,860975,500 mg,twice daily,2023-05-31,,user_upload
+a2e70915-5504-4b21-8735-428ee90770ea,3950f22c-8cb4-4b34-ae23-4dc05b22c336,Lisinopril,206765,10 mg,once daily,2024-07-07,,user_upload
+540fb2d1-a7ad-40ab-956f-62b394b21d29,d8f1cb2f-19b8-4595-88e1-f573885f8e70,Ashwagandha,,300 mg,in evening,2023-02-17,,user_upload
+540fb2d1-a7ad-40ab-956f-62b394b21d29,3c4691b4-0b94-4d6f-9721-de14eccc4df1,Vitamin D3,,4000 IU,once daily,2023-05-12,,user_upload
+a345f6b0-15d0-4ffe-afd1-8d164878f196,d56e4650-6e54-4edd-9dea-b60633ea1527,Lisinopril,206765,10 mg,once daily,2023-08-13,,user_upload
+a345f6b0-15d0-4ffe-afd1-8d164878f196,2f7e8642-a3e0-4855-8b11-0bc3ae3b4a69,Vitamin D3,,4000 IU,once daily,2023-12-29,,user_upload
+a345f6b0-15d0-4ffe-afd1-8d164878f196,d797a03a-aeec-4d79-9324-f58419e6d274,Metformin,860975,500 mg,twice daily,2024-06-18,,user_upload
+a345f6b0-15d0-4ffe-afd1-8d164878f196,bcada449-2280-49b7-97f3-12d3e04517b3,Vitamin D3,,4000 IU,once daily,2024-04-29,,user_upload
+85c27b2b-3777-4255-a5c9-cb62a33cbc88,69f082ba-927a-4ded-a479-a3e8bd0fd1cc,Lisinopril,206765,10 mg,once daily,2023-05-30,,user_upload
+85c27b2b-3777-4255-a5c9-cb62a33cbc88,f2c666e4-d0f0-4cf2-8ec2-1680b88ef960,Metformin,860975,500 mg,twice daily,2023-02-09,,user_upload
+85c27b2b-3777-4255-a5c9-cb62a33cbc88,dd5a0d58-d5ab-4a9f-a728-c552515ab6d4,Atorvastatin,83367,20 mg,once daily,2025-05-02,,user_upload
+c6b0d607-0a56-4e49-aef3-dd0e9cabea5d,272903ca-f11a-4f8d-b558-773fcc62d014,Atorvastatin,83367,20 mg,once daily,2024-07-28,,user_upload
+8746265c-6392-4f7c-a600-5d4a003a8c09,5f45d299-c053-400a-aeb9-8d1f8f7436a2,Vitamin D3,,4000 IU,once daily,2023-12-19,,user_upload
+8746265c-6392-4f7c-a600-5d4a003a8c09,f7166baf-371e-449f-86a9-a04ddcc21eb8,Magnesium Glycinate,,200 mg,at bedtime,2023-02-21,,user_upload
+8746265c-6392-4f7c-a600-5d4a003a8c09,4bba877d-12da-4d97-bccd-c185eda93968,Ashwagandha,,300 mg,in evening,2024-03-08,,user_upload
+cef8c3d1-9a1e-4129-a4e5-8f9d2bf4b83a,8400fc2d-d33e-4d2d-908e-7810212ac681,NMN,,250 mg,in morning,2023-08-23,,user_upload
+cef8c3d1-9a1e-4129-a4e5-8f9d2bf4b83a,7c9db0ab-473a-4671-a207-810b8adfcbed,Metformin,860975,500 mg,twice daily,2024-07-26,,user_upload
+cef8c3d1-9a1e-4129-a4e5-8f9d2bf4b83a,80f7ccef-8793-4df8-90db-34c4fa4da267,Coenzyme Q10,,100 mg,once daily,2023-07-04,,user_upload
+cef8c3d1-9a1e-4129-a4e5-8f9d2bf4b83a,6bb00ca1-a9b9-44fb-a9b5-c14a0bec693e,Coenzyme Q10,,100 mg,once daily,2025-04-11,,user_upload
+0aa59f93-7e82-47cb-8546-5bca0164c12c,9185fd9e-dc7e-4224-ac28-e12b4cfa54e7,Vitamin D3,,4000 IU,once daily,2024-06-20,,user_upload
+0aa59f93-7e82-47cb-8546-5bca0164c12c,3e7331be-e581-42aa-b4d4-db873b303f42,Ashwagandha,,300 mg,in evening,2025-07-02,,user_upload
+0aa59f93-7e82-47cb-8546-5bca0164c12c,02bf3e6f-f412-45b9-8865-dc7bfc164729,Ashwagandha,,300 mg,in evening,2025-03-04,,user_upload
+0aa59f93-7e82-47cb-8546-5bca0164c12c,c607feda-fcb1-422e-aafc-27e8594aea54,NMN,,250 mg,in morning,2024-02-27,,user_upload
+8681702d-c73a-4249-95d4-b6f68e3b94a7,02f4f776-2f35-477c-8ef7-eebd51504aab,Ashwagandha,,300 mg,in evening,2024-06-02,,user_upload
+8681702d-c73a-4249-95d4-b6f68e3b94a7,45bd03e3-8f00-4d20-83c9-4e9736282c2a,Omega-3 Fish Oil,,1200 mg,once daily,2023-08-16,,user_upload
+8681702d-c73a-4249-95d4-b6f68e3b94a7,c19edb92-3daf-4d15-be9b-23bc8cc1b7fa,Magnesium Glycinate,,200 mg,at bedtime,2025-06-09,,user_upload
+8681702d-c73a-4249-95d4-b6f68e3b94a7,d8efaa55-44f7-412d-b95e-288c4b8016e3,Ashwagandha,,300 mg,in evening,2025-05-22,,user_upload
+9dd74c2a-18b1-4387-bfad-e0f31dd1fc52,4e815ca7-04a8-46b6-8726-04d5d555bdd6,Omega-3 Fish Oil,,1200 mg,once daily,2025-07-30,,user_upload
+9dd74c2a-18b1-4387-bfad-e0f31dd1fc52,1b5818a4-3fa8-4b24-8f27-da3d6b8991b1,Lisinopril,206765,10 mg,once daily,2024-05-16,,user_upload
+9dd74c2a-18b1-4387-bfad-e0f31dd1fc52,48df5bd7-0ea7-4732-b2c7-58019c187308,Metformin,860975,500 mg,twice daily,2023-07-08,,user_upload
+9dd74c2a-18b1-4387-bfad-e0f31dd1fc52,e51e2289-b8f1-41ed-8ebe-4d73673bc679,Vitamin D3,,4000 IU,once daily,2024-03-19,,user_upload
+14ec97de-b424-444d-83b6-6606322be084,6aed9fc7-d1b9-49f5-998c-0a72dc1fa7ed,Lisinopril,206765,10 mg,once daily,2024-11-22,,user_upload
+14ec97de-b424-444d-83b6-6606322be084,802ab473-9e49-45ee-b2e6-a44e54de73e8,Lisinopril,206765,10 mg,once daily,2024-03-11,,user_upload
+14ec97de-b424-444d-83b6-6606322be084,c85e7ba7-7418-45bb-8f2c-bb44051d21d9,Magnesium Glycinate,,200 mg,at bedtime,2024-06-15,,user_upload
+37c6b525-7fd4-4c2a-8670-4d33c8da35a2,14c6d1c7-6902-43d3-94a2-b34c0d4e1261,Magnesium Glycinate,,200 mg,at bedtime,2025-06-24,,user_upload
+37c6b525-7fd4-4c2a-8670-4d33c8da35a2,ebfce2f2-9e3b-4103-9227-601ef705ddb1,Omega-3 Fish Oil,,1200 mg,once daily,2025-07-14,,user_upload
+37c6b525-7fd4-4c2a-8670-4d33c8da35a2,5906eb5e-1b26-4bdd-8772-1b9fca53758c,Vitamin D3,,4000 IU,once daily,2024-05-31,,user_upload
+8054b739-67cf-4d63-9509-78df81f292d9,10c8fc6c-c297-467e-86e5-611ed685d7bf,NMN,,250 mg,in morning,2025-05-13,,user_upload
+8054b739-67cf-4d63-9509-78df81f292d9,b93fc37b-c5f7-4f6e-9ff3-4d703b57db97,Ashwagandha,,300 mg,in evening,2025-02-26,,user_upload
+e4d28b30-a2be-43ed-ab68-ef3212121d36,0fb3e6da-6588-4b8b-ba55-72191c6e0873,Magnesium Glycinate,,200 mg,at bedtime,2024-06-08,,user_upload
+e4d28b30-a2be-43ed-ab68-ef3212121d36,36cc1105-389c-4281-9356-399f4842f02d,NMN,,250 mg,in morning,2025-01-10,,user_upload
+7cca0835-e377-41c9-9be3-36b50732bed0,6053c9fa-a8d5-43be-889b-87e2ed9e4025,Lisinopril,206765,10 mg,once daily,2024-12-24,,user_upload
+7cca0835-e377-41c9-9be3-36b50732bed0,12b03cb2-ae4e-4fb8-ba45-fbbbc89112dd,Lisinopril,206765,10 mg,once daily,2023-07-26,,user_upload
+7cca0835-e377-41c9-9be3-36b50732bed0,77038710-c1f3-4c8a-aeba-47499fb644f3,Lisinopril,206765,10 mg,once daily,2024-09-21,,user_upload
+630d29c3-9362-4540-90be-c076e8bd593b,4b1f8749-ceba-40ff-b196-d18115ba4ca6,NMN,,250 mg,in morning,2025-03-22,,user_upload
+630d29c3-9362-4540-90be-c076e8bd593b,6293e744-7bd2-44c0-8038-9572fb4c1994,Ashwagandha,,300 mg,in evening,2024-01-21,,user_upload
+630d29c3-9362-4540-90be-c076e8bd593b,86e5f4a5-2172-481b-a703-dd2ad6464021,Ashwagandha,,300 mg,in evening,2025-07-03,,user_upload
+630d29c3-9362-4540-90be-c076e8bd593b,1d17f83a-f7bd-45e2-b3ad-35f32b27bc6e,Vitamin D3,,4000 IU,once daily,2023-10-17,,user_upload
+c96dbabd-0ba6-4f17-8dc2-5ec82c50fcab,53c24324-270f-4c38-8806-41bd73c58677,Omega-3 Fish Oil,,1200 mg,once daily,2024-11-30,,user_upload
+c96dbabd-0ba6-4f17-8dc2-5ec82c50fcab,6aad0a44-2a1e-437a-88ec-d0c51759807f,Ashwagandha,,300 mg,in evening,2024-12-23,,user_upload
+c96dbabd-0ba6-4f17-8dc2-5ec82c50fcab,376e236e-3a98-42af-ba87-2cb44ad4f743,Magnesium Glycinate,,200 mg,at bedtime,2025-07-23,,user_upload
+c96dbabd-0ba6-4f17-8dc2-5ec82c50fcab,89b121de-d942-4050-9155-7b15784955e7,Omega-3 Fish Oil,,1200 mg,once daily,2024-11-24,,user_upload
+2d3f11c5-9b51-4b19-8b92-9cc5eb1220e1,266fba81-cb14-4a88-91d2-7e6cb2740463,Ashwagandha,,300 mg,in evening,2024-06-19,,user_upload
+2d3f11c5-9b51-4b19-8b92-9cc5eb1220e1,c43f2b10-a26c-4bd8-97b6-69742225ee50,Omega-3 Fish Oil,,1200 mg,once daily,2025-08-01,,user_upload
+2d3f11c5-9b51-4b19-8b92-9cc5eb1220e1,153a961d-c618-49fb-afb6-021da43b7047,Vitamin D3,,4000 IU,once daily,2023-05-28,,user_upload
+73451306-252f-414a-a9cc-bd9c07e4826e,d47a1fa8-2ef9-404b-9dba-3cdeaf841cc0,NMN,,250 mg,in morning,2025-01-16,,user_upload
+73451306-252f-414a-a9cc-bd9c07e4826e,e65e6934-9a66-401c-82a5-965a838834e9,Vitamin D3,,4000 IU,once daily,2025-05-25,,user_upload
+73451306-252f-414a-a9cc-bd9c07e4826e,f2922c16-439a-4009-b493-2c344b030f92,Coenzyme Q10,,100 mg,once daily,2025-05-19,,user_upload
+73451306-252f-414a-a9cc-bd9c07e4826e,5594486a-b28d-40d1-bea8-aada7a588d46,Vitamin D3,,4000 IU,once daily,2023-08-19,,user_upload
+7ad6c5ff-46f1-4e98-9556-cd1380bba030,89d13187-461e-467f-835a-f7c7f30082bb,Magnesium Glycinate,,200 mg,at bedtime,2025-03-16,,user_upload
+8e92e336-b9d7-4151-a079-40f8649a7cd0,ba986b25-dfb3-4919-aced-d569668fc442,Magnesium Glycinate,,200 mg,at bedtime,2024-07-30,,user_upload
+8e92e336-b9d7-4151-a079-40f8649a7cd0,663c30a4-ba46-409d-8623-cd345d93f1df,Magnesium Glycinate,,200 mg,at bedtime,2023-03-23,,user_upload
+8e92e336-b9d7-4151-a079-40f8649a7cd0,1a6b773c-6f51-47ed-a925-981e30c705a4,Vitamin D3,,4000 IU,once daily,2025-03-29,,user_upload
+8e92e336-b9d7-4151-a079-40f8649a7cd0,04a41c55-c4af-4af6-bac7-0a1a16038990,Coenzyme Q10,,100 mg,once daily,2024-03-20,,user_upload
+12cd9150-f8c7-481c-9c8f-717f14560eeb,62dc1729-2dda-4055-a173-a767fda4faed,Atorvastatin,83367,20 mg,once daily,2024-01-11,,user_upload
+12cd9150-f8c7-481c-9c8f-717f14560eeb,6a078357-3d80-41f4-957c-e845c1d2cc22,Magnesium Glycinate,,200 mg,at bedtime,2023-05-19,,user_upload
+597ebe05-7242-4de2-847e-858aee40f77e,7030db49-ecf9-43ab-bc83-c67258e6292a,Omega-3 Fish Oil,,1200 mg,once daily,2024-12-05,,user_upload
+597ebe05-7242-4de2-847e-858aee40f77e,02a7915a-1937-4a97-a9be-f58a21730aa5,Magnesium Glycinate,,200 mg,at bedtime,2023-12-26,,user_upload
+597ebe05-7242-4de2-847e-858aee40f77e,aee52360-e7b5-41b4-b914-f8877a1a8ef5,Magnesium Glycinate,,200 mg,at bedtime,2024-09-15,,user_upload
+6a569c0a-5f3f-4843-99e6-fa9ace5b97e7,28116a7d-b8f7-43a5-aa84-265edc247ba5,Coenzyme Q10,,100 mg,once daily,2023-11-19,,user_upload
+528ff344-7db5-4b05-8f41-2c5b18db67da,80287f3b-2347-4d01-bb56-82a7440ec174,Omega-3 Fish Oil,,1200 mg,once daily,2025-06-13,,user_upload
+528ff344-7db5-4b05-8f41-2c5b18db67da,c51e36de-0668-4f63-b120-a0ccc044ce7f,Coenzyme Q10,,100 mg,once daily,2023-07-13,,user_upload
+528ff344-7db5-4b05-8f41-2c5b18db67da,0e475ba8-5d0f-4f02-a3f7-a509da7a36df,Coenzyme Q10,,100 mg,once daily,2023-03-17,,user_upload
+528ff344-7db5-4b05-8f41-2c5b18db67da,886a0b86-1ddc-4d55-899d-418df4ec2a94,Coenzyme Q10,,100 mg,once daily,2024-09-12,,user_upload
+133e7bfb-9353-4bb0-945b-96b42dcc99be,d7a68f43-bd8a-4312-9ad9-c63763bb571f,Magnesium Glycinate,,200 mg,at bedtime,2023-04-20,,user_upload
+534ba83b-dffd-4389-acfc-181de6e49603,5350f441-b705-4819-95c2-29b62064f8d6,Vitamin D3,,4000 IU,once daily,2024-09-25,,user_upload
+534ba83b-dffd-4389-acfc-181de6e49603,03882408-6631-44d8-ba6e-72ccc06393bb,Vitamin D3,,4000 IU,once daily,2024-06-28,,user_upload
+534ba83b-dffd-4389-acfc-181de6e49603,7cddcb1c-44ea-4616-822c-dc1f455889a3,Magnesium Glycinate,,200 mg,at bedtime,2024-06-03,,user_upload
+534ba83b-dffd-4389-acfc-181de6e49603,4488aab2-037d-490f-98a4-6a8f528fa5dd,Ashwagandha,,300 mg,in evening,2025-03-22,,user_upload
+b15a52bb-0fc1-4dca-a043-008d4f38538b,7055f87b-6cff-43e4-929b-fd0b74462962,Vitamin D3,,4000 IU,once daily,2025-06-04,,user_upload
+b15a52bb-0fc1-4dca-a043-008d4f38538b,794080b1-6d1e-4c23-a554-ba53cb1001d8,NMN,,250 mg,in morning,2024-10-28,,user_upload
+b15a52bb-0fc1-4dca-a043-008d4f38538b,92a92f80-6bf1-4cb5-bf1c-134e57c927c3,Ashwagandha,,300 mg,in evening,2023-03-19,,user_upload
+b15a52bb-0fc1-4dca-a043-008d4f38538b,878b943f-4b6c-4697-9102-c4e2e215adb1,NMN,,250 mg,in morning,2024-05-24,,user_upload
+3cf4c041-5072-4103-b1c2-585c065347fd,abb14669-9982-4c23-be50-8ff0cc9ae8de,Vitamin D3,,4000 IU,once daily,2023-05-20,,user_upload
+3cf4c041-5072-4103-b1c2-585c065347fd,0923fe1d-de02-4343-8fb2-481962455ccf,NMN,,250 mg,in morning,2024-08-29,,user_upload
+3cf4c041-5072-4103-b1c2-585c065347fd,affacb30-0db8-46c8-91ac-c71ff6230a8f,Ashwagandha,,300 mg,in evening,2023-04-10,,user_upload
+3cf4c041-5072-4103-b1c2-585c065347fd,0499dcea-3ee6-42df-a5b2-984d5f8883bb,Omega-3 Fish Oil,,1200 mg,once daily,2024-07-13,,user_upload
+8bb8cf5e-2474-45d3-b984-82aa973d4d3a,606844a5-35f1-462e-9138-0bbce9f2db90,Ashwagandha,,300 mg,in evening,2023-10-15,,user_upload
+8bb8cf5e-2474-45d3-b984-82aa973d4d3a,28d14b42-3ffd-4d08-af13-a5808e32fa05,Metformin,860975,500 mg,twice daily,2024-11-29,,user_upload
+8bb8cf5e-2474-45d3-b984-82aa973d4d3a,5a95aa7a-435a-4540-93dd-9ad62007b66d,Lisinopril,206765,10 mg,once daily,2023-07-10,,user_upload
+8bb8cf5e-2474-45d3-b984-82aa973d4d3a,cd05d596-c183-4fba-b98c-93fa6b304f78,Vitamin D3,,4000 IU,once daily,2025-07-22,,user_upload
+adf29b87-c33c-456c-ac53-6e75a77e4244,c83a59c2-9b63-41f1-a933-8073413a0e08,Omega-3 Fish Oil,,1200 mg,once daily,2024-10-21,,user_upload
+adf29b87-c33c-456c-ac53-6e75a77e4244,5d4422fd-88a9-42d7-be5a-ab5a8b661004,NMN,,250 mg,in morning,2023-08-22,,user_upload
+e6c88980-fff1-4977-bffb-b5100b072a52,a6410f86-8a3c-4156-afc7-5de69128a6ea,Omega-3 Fish Oil,,1200 mg,once daily,2024-08-18,,user_upload
+e6c88980-fff1-4977-bffb-b5100b072a52,bd69a13a-41ac-45e8-8576-6a535644bc83,Vitamin D3,,4000 IU,once daily,2023-04-20,,user_upload
+e6c88980-fff1-4977-bffb-b5100b072a52,ae83b3f6-64a2-4694-8941-aab9d8365454,Vitamin D3,,4000 IU,once daily,2024-01-26,,user_upload
+e6c88980-fff1-4977-bffb-b5100b072a52,0cdedf71-1231-4fb6-a6b9-7483172268df,Omega-3 Fish Oil,,1200 mg,once daily,2023-12-03,,user_upload
+e6c88980-fff1-4977-bffb-b5100b072a52,acc16601-bfcc-46db-8677-0ea06b730657,Coenzyme Q10,,100 mg,once daily,2024-05-27,,user_upload
+fa6e5258-d692-4628-8c64-cb576502de56,bf23325e-faee-4dc8-93c9-3ee3753a7a97,Metformin,860975,500 mg,twice daily,2025-01-27,,user_upload
+fa6e5258-d692-4628-8c64-cb576502de56,df28ebe0-a315-4ebf-8e9a-768fa6685a8a,Metformin,860975,500 mg,twice daily,2025-06-22,,user_upload
+64abe473-3e9c-45f1-906a-5590a0fcfc1e,4c933dcb-4a40-4419-8403-790ae5d4d95b,Lisinopril,206765,10 mg,once daily,2024-11-30,,user_upload
+c4328335-d908-4adf-b583-3c5c5e594f0b,64ea049a-baf8-4fa5-a185-6f621e71db48,Vitamin D3,,4000 IU,once daily,2023-07-01,,user_upload
+e478b977-5069-4ccc-b614-06754f703613,ad2b454c-94f2-4a07-b7dd-8762102097b2,Coenzyme Q10,,100 mg,once daily,2025-04-20,,user_upload
+e478b977-5069-4ccc-b614-06754f703613,f75dd5cf-4a01-424b-8d57-37f6c0b0399c,Omega-3 Fish Oil,,1200 mg,once daily,2024-01-21,,user_upload
+4146ef2d-1c50-449d-9655-1b32a447f74d,434f3efb-e84e-40fb-b1fb-bd2fc1f0339d,Atorvastatin,83367,20 mg,once daily,2023-08-20,,user_upload
+ed0c80c7-26b9-411c-a1e1-3bff87aa3ed6,68abb36c-e0e7-44db-a5df-e5c889053b31,Vitamin D3,,4000 IU,once daily,2023-07-01,,user_upload
+ed0c80c7-26b9-411c-a1e1-3bff87aa3ed6,d1162d5e-1801-4348-80e6-fa26670989c7,Magnesium Glycinate,,200 mg,at bedtime,2024-10-02,,user_upload
+ed0c80c7-26b9-411c-a1e1-3bff87aa3ed6,a8a170ac-0c6d-4b86-90d9-ab336c7e80ff,Magnesium Glycinate,,200 mg,at bedtime,2023-02-11,,user_upload
+6d4d6ad7-c293-4357-aaab-2404c3fe749c,a1871b1b-9370-40a0-a72f-0047da9950e0,Coenzyme Q10,,100 mg,once daily,2025-07-12,,user_upload
+6d4d6ad7-c293-4357-aaab-2404c3fe749c,82737a63-0c48-4d72-b367-1d7d0b0dcba0,Omega-3 Fish Oil,,1200 mg,once daily,2024-06-02,,user_upload
+6d4d6ad7-c293-4357-aaab-2404c3fe749c,e54ecf0a-71cb-41d9-9ab9-ff3d351fa91d,Magnesium Glycinate,,200 mg,at bedtime,2025-06-04,,user_upload
+63481a90-8236-4d37-ab46-ed3afceb840e,e6b33d4b-7f78-4f98-a1f8-8033918eecf2,Omega-3 Fish Oil,,1200 mg,once daily,2025-01-01,,user_upload
+a48d8ff3-a976-4b25-a430-6f8f159627e4,de8fd470-7496-4606-a9ff-a170fe3b7feb,Vitamin D3,,4000 IU,once daily,2024-01-29,,user_upload
+a48d8ff3-a976-4b25-a430-6f8f159627e4,8aa1ef8e-6dea-457f-a086-3695825bdda0,Ashwagandha,,300 mg,in evening,2025-04-08,,user_upload
+a48d8ff3-a976-4b25-a430-6f8f159627e4,a12d396f-010f-45c4-9f04-72b263a1a005,Ashwagandha,,300 mg,in evening,2025-04-26,,user_upload
+98c2ddc9-edc7-4574-acf6-2587489a8a35,f90ddcaa-8035-44d9-88b4-08c6f8b6d6e1,Vitamin D3,,4000 IU,once daily,2023-01-15,,user_upload
+98c2ddc9-edc7-4574-acf6-2587489a8a35,3fd6d10e-a1d8-4da0-86b6-21d4c82352f4,Omega-3 Fish Oil,,1200 mg,once daily,2025-06-10,,user_upload
+bfcec70b-ec93-4f28-b7ab-bb93f4387f0e,fdc881ce-bb8b-41f7-94b9-67482a21273a,NMN,,250 mg,in morning,2023-08-03,,user_upload
+bfcec70b-ec93-4f28-b7ab-bb93f4387f0e,c6fbe7ee-7819-4f08-ac8f-9eb0fe34bb95,Omega-3 Fish Oil,,1200 mg,once daily,2025-02-19,,user_upload
+2bb47dad-0322-41ba-906e-5d1421d05445,93fbf33d-5027-4acd-8ddc-f58d901beb61,Omega-3 Fish Oil,,1200 mg,once daily,2023-10-01,,user_upload
+2bb47dad-0322-41ba-906e-5d1421d05445,8e6b3e73-0ba5-47e6-9520-3daafe97c612,Magnesium Glycinate,,200 mg,at bedtime,2023-03-16,,user_upload
+2bb47dad-0322-41ba-906e-5d1421d05445,3f875bbb-365f-46c1-9e84-2d034a5a05d2,NMN,,250 mg,in morning,2025-02-12,,user_upload
+2bb47dad-0322-41ba-906e-5d1421d05445,dbc6645b-b212-4369-9552-117c9a3c98e3,Ashwagandha,,300 mg,in evening,2025-08-05,,user_upload
+eedbf9e4-16b2-49da-9ca3-c44fe3554f97,27eab2e4-501c-449c-a40a-8d3a641ff622,Omega-3 Fish Oil,,1200 mg,once daily,2024-09-07,,user_upload
+eedbf9e4-16b2-49da-9ca3-c44fe3554f97,b464c47e-bc09-4977-b085-51781bc09b17,Vitamin D3,,4000 IU,once daily,2023-11-26,,user_upload
+eedbf9e4-16b2-49da-9ca3-c44fe3554f97,d1029c44-ed15-4411-b800-97b3d62242f0,NMN,,250 mg,in morning,2024-07-08,,user_upload
+a0c73fca-4a5a-495c-81bb-12fbe63d7dd3,c52f115b-a55d-4d04-ba21-8a3753064c9c,Coenzyme Q10,,100 mg,once daily,2023-06-30,,user_upload
+a0c73fca-4a5a-495c-81bb-12fbe63d7dd3,de79074e-a958-4ed6-ba90-dd4fa43d25ff,Vitamin D3,,4000 IU,once daily,2024-10-21,,user_upload
+e21d6a60-3c55-4420-91f8-a88235ad13f9,c315740f-da1c-428c-83c0-9c87534f9860,Coenzyme Q10,,100 mg,once daily,2023-01-21,,user_upload
+e21d6a60-3c55-4420-91f8-a88235ad13f9,abbda56b-ea58-4c96-b8f8-8ca56d4e251a,Ashwagandha,,300 mg,in evening,2024-11-15,,user_upload
+e21d6a60-3c55-4420-91f8-a88235ad13f9,da7dbeb0-2e53-415d-8727-a4eec142b659,NMN,,250 mg,in morning,2024-04-02,,user_upload
+e21d6a60-3c55-4420-91f8-a88235ad13f9,30ad629a-9449-4d5e-abde-72c5c02ca96d,Magnesium Glycinate,,200 mg,at bedtime,2024-08-21,,user_upload
+21a55811-5876-4987-833f-4dd36457f13f,320e5f53-edab-4f1f-ad8a-1de084a2af47,Vitamin D3,,4000 IU,once daily,2023-10-11,,user_upload
+21a55811-5876-4987-833f-4dd36457f13f,21c0c736-2541-46c3-9578-103284654a5e,Ashwagandha,,300 mg,in evening,2023-01-25,,user_upload
+21a55811-5876-4987-833f-4dd36457f13f,bdd2d3c6-78de-4d7a-bc8d-4044b6505ad5,Omega-3 Fish Oil,,1200 mg,once daily,2024-11-11,,user_upload
+21a55811-5876-4987-833f-4dd36457f13f,68cdb2eb-c5f1-404c-89ff-59f01f003cc9,NMN,,250 mg,in morning,2023-05-16,,user_upload
+5b645b94-2b4c-4ace-8668-050e974c6b43,597df108-0e14-40f8-9980-8dfc123d41f9,Coenzyme Q10,,100 mg,once daily,2025-05-31,,user_upload
+5caf7e2c-d054-4a19-9b55-b26b101d61fd,b8e179f6-7bf0-41e1-9078-b6baf016b4fb,Ashwagandha,,300 mg,in evening,2023-09-24,,user_upload
+5caf7e2c-d054-4a19-9b55-b26b101d61fd,65533d6b-4096-4a0c-a78f-a045c9b0c42d,Atorvastatin,83367,20 mg,once daily,2024-06-07,,user_upload
+40c46611-05d9-47df-88df-9c8ad7a3b7d6,35b174c7-770d-4a70-ba3c-6ecc73aa5a6e,Coenzyme Q10,,100 mg,once daily,2023-02-28,,user_upload
+40c46611-05d9-47df-88df-9c8ad7a3b7d6,b58d44c6-41ea-4d26-8c8f-87178496dc07,Metformin,860975,500 mg,twice daily,2025-04-27,,user_upload
+40c46611-05d9-47df-88df-9c8ad7a3b7d6,f681e889-22ce-4ae9-b9e7-ee42490c4bbb,Ashwagandha,,300 mg,in evening,2024-08-11,,user_upload
+40c46611-05d9-47df-88df-9c8ad7a3b7d6,5a74fd34-c705-40b1-a24b-a594a61c86fd,Coenzyme Q10,,100 mg,once daily,2024-08-11,,user_upload
+b23dd519-e182-4c50-8a7b-649d39794f8d,6be61de8-f1be-471e-ab52-a1e16163b2a5,Coenzyme Q10,,100 mg,once daily,2025-02-20,,user_upload
+b23dd519-e182-4c50-8a7b-649d39794f8d,0dc731ff-fd60-4464-9b0f-ad776ce35f97,Vitamin D3,,4000 IU,once daily,2025-05-10,,user_upload
+b23dd519-e182-4c50-8a7b-649d39794f8d,30ba99ff-c6b2-432c-bda1-c1e897f44522,Coenzyme Q10,,100 mg,once daily,2024-04-04,,user_upload
+b23dd519-e182-4c50-8a7b-649d39794f8d,af7c685e-a732-4276-a6f3-3dd2490719b4,Ashwagandha,,300 mg,in evening,2024-05-15,,user_upload
+b23dd519-e182-4c50-8a7b-649d39794f8d,d79a5a5d-2c68-41ac-b2c8-d0782a452b4e,Magnesium Glycinate,,200 mg,at bedtime,2024-07-02,,user_upload
+a1818e9d-7ed1-4656-bde7-a63172f46c11,782e741e-02a0-41c1-a0b7-e3ffc6a35fff,Omega-3 Fish Oil,,1200 mg,once daily,2024-08-23,,user_upload
+a1818e9d-7ed1-4656-bde7-a63172f46c11,9f6901ca-caef-47c8-99ec-7126890f7efb,Ashwagandha,,300 mg,in evening,2023-06-24,,user_upload
+55c28190-8381-4fdc-9701-26e78af95a49,ca2c9fdc-b29b-4d8e-9419-d2d702779c68,Omega-3 Fish Oil,,1200 mg,once daily,2023-11-15,,user_upload
+951c952d-8e35-464b-8b22-c457403e26cc,1bef7fb8-a2aa-4710-a913-e0c1b7a80660,Omega-3 Fish Oil,,1200 mg,once daily,2023-11-04,,user_upload
+f608901d-ecc2-4d40-9e4a-acfd5ddc7468,d9164a34-68ad-48e1-a185-578dbab08634,Metformin,860975,500 mg,twice daily,2024-04-14,,user_upload
+f608901d-ecc2-4d40-9e4a-acfd5ddc7468,20048101-c8a7-42a8-b270-1b52c6d2887f,Ashwagandha,,300 mg,in evening,2025-08-01,,user_upload
+0ab50494-14e7-4ae6-9fc9-e28d16155bb2,ea7870d8-6bdc-4956-9cb6-8dc3e8407546,Lisinopril,206765,10 mg,once daily,2025-04-23,,user_upload
+0ab50494-14e7-4ae6-9fc9-e28d16155bb2,dba28f3b-eca8-4794-99b9-9f0b3a15f575,Metformin,860975,500 mg,twice daily,2024-03-11,,user_upload
+7a2df0d9-294d-4b3e-953d-27b36b993733,630d2f48-3c26-48a2-92ed-cabd81131540,Ashwagandha,,300 mg,in evening,2025-06-29,,user_upload
+7a2df0d9-294d-4b3e-953d-27b36b993733,35c9a075-888e-4e9d-b755-e8c9fd198de9,Vitamin D3,,4000 IU,once daily,2025-08-02,,user_upload
+7a2df0d9-294d-4b3e-953d-27b36b993733,e205314b-e6fa-4fd5-9ec2-e2901891e451,Coenzyme Q10,,100 mg,once daily,2025-03-24,,user_upload
+ff7edcc2-3da3-46a0-9c9c-0419774a2ae6,a70dae16-5533-4a2d-89f2-77a14939ed6e,Atorvastatin,83367,20 mg,once daily,2024-04-23,,user_upload
+ff7edcc2-3da3-46a0-9c9c-0419774a2ae6,45d3d66a-8b07-4f44-80d1-e516e276b849,Metformin,860975,500 mg,twice daily,2024-07-13,,user_upload
+ff7edcc2-3da3-46a0-9c9c-0419774a2ae6,5e91f73e-6ee2-4cec-bf27-6167d72d6bf7,Lisinopril,206765,10 mg,once daily,2023-04-18,,user_upload
+ff7edcc2-3da3-46a0-9c9c-0419774a2ae6,dbb9f6be-5365-4505-b123-8b9a95f861a1,Omega-3 Fish Oil,,1200 mg,once daily,2025-04-06,,user_upload
+14898fcd-8f2d-4d20-bee8-b16d6590f994,829afeb0-e4e6-4366-9ce5-1b2d4f3b460d,Omega-3 Fish Oil,,1200 mg,once daily,2024-12-23,,user_upload
+14898fcd-8f2d-4d20-bee8-b16d6590f994,05c5cd8d-86a9-4c24-9779-b5ba7c61a489,Vitamin D3,,4000 IU,once daily,2023-08-26,,user_upload
+14898fcd-8f2d-4d20-bee8-b16d6590f994,d8d15c38-6539-4ce6-867b-bee99919f825,Coenzyme Q10,,100 mg,once daily,2023-12-16,,user_upload
+14898fcd-8f2d-4d20-bee8-b16d6590f994,8d53f94b-1cfc-454f-b2c0-2a399bc88c61,Magnesium Glycinate,,200 mg,at bedtime,2025-05-12,,user_upload
+d235023c-4844-4ece-a734-4b5194f27411,66634bf8-ebaa-446e-a12b-f8e7b80de2a8,Omega-3 Fish Oil,,1200 mg,once daily,2025-06-25,,user_upload
+d235023c-4844-4ece-a734-4b5194f27411,cb4b3f68-dff5-40a2-a6a6-651d5100fe74,Omega-3 Fish Oil,,1200 mg,once daily,2024-03-14,,user_upload
+13e43841-66cc-4229-82f3-a85ca0a8b097,e53fbc23-7dd5-48a0-91f4-f79487260d61,Magnesium Glycinate,,200 mg,at bedtime,2025-04-26,,user_upload
+13e43841-66cc-4229-82f3-a85ca0a8b097,11375e04-87dd-47f4-bfd2-db4880f81df5,Coenzyme Q10,,100 mg,once daily,2023-11-14,,user_upload
+0848bbdd-f9fb-45c7-8412-8bb9efed4d70,9d4f9548-477f-4c3e-8a75-5e3d7b1f7346,Vitamin D3,,4000 IU,once daily,2025-02-11,,user_upload
+0848bbdd-f9fb-45c7-8412-8bb9efed4d70,1551812f-9a11-4e3c-9ba2-992f051d18ba,Omega-3 Fish Oil,,1200 mg,once daily,2024-03-04,,user_upload
+0848bbdd-f9fb-45c7-8412-8bb9efed4d70,a09d6f1f-9e02-4675-a1b9-d21803910e4a,NMN,,250 mg,in morning,2023-04-13,,user_upload
+cb53a085-0b99-42d5-819b-ab894a065123,7647b944-0285-4581-931d-d0b570d91b51,Ashwagandha,,300 mg,in evening,2024-04-02,,user_upload
+cb53a085-0b99-42d5-819b-ab894a065123,43f12131-a86e-4bc0-a2e1-deb56666aa70,NMN,,250 mg,in morning,2024-06-05,,user_upload
+0784029c-b3c6-4242-a03a-8d88a5ab7080,9a764404-541d-450f-a016-1d9966a9a244,Lisinopril,206765,10 mg,once daily,2023-03-30,,user_upload
+420a5810-33c3-431d-8142-72d060766638,4b10ac15-76e6-44f8-abff-c0f3c1a8bdfc,Omega-3 Fish Oil,,1200 mg,once daily,2023-06-10,,user_upload
+24802edb-1d70-4908-a2ec-5d41cb40bcfd,6d240967-6e5a-49d1-a16f-209261cf48b9,NMN,,250 mg,in morning,2023-12-25,,user_upload
+24802edb-1d70-4908-a2ec-5d41cb40bcfd,0f9dc10e-da7b-4dfe-956b-b1c80732ad1b,Coenzyme Q10,,100 mg,once daily,2023-12-05,,user_upload
+24802edb-1d70-4908-a2ec-5d41cb40bcfd,4671084d-8c8d-4445-b9e0-8e79b1f2a1d6,Vitamin D3,,4000 IU,once daily,2023-04-02,,user_upload
+24802edb-1d70-4908-a2ec-5d41cb40bcfd,0ba31c65-4362-40ff-8cb2-2ee4f03c3eed,Omega-3 Fish Oil,,1200 mg,once daily,2023-04-15,,user_upload
+03905bf8-d593-4ab8-89c4-30e61578067d,fa94e8a8-1fc3-45e3-a8ba-3b85f14666a3,Vitamin D3,,4000 IU,once daily,2024-11-20,,user_upload
