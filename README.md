@@ -22,7 +22,7 @@ The Phoenix AI system:
 pip install -r requirements.txt
 
 # Create .env file with your OpenAI API key
-echo "OPENAI_API_KEY=your-api-key-here" > .env
+OPENAI_API_KEY="your-api-key-here" -> .env
 ```
 
 ### 2. Get Recommendations
