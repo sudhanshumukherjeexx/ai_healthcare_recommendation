@@ -212,6 +212,51 @@ def extract_user_profile(bundle: DataBundle, user_id: Any) -> Dict[str, Any]:
     profile["signals"] = signals
     return profile
 
+
+def assemble_user_dataframe(bundle: DataBundle, user_id: Any) -> Optional[pd.DataFrame]:
+    """Check all CSV DataFrames for the user_id and return a merged DataFrame of all rows found.
+
+    The merged DataFrame includes a small column `__source` that indicates which original
+    table the row came from. Returns None if the user is not found in any data source.
+    """
+    parts = []
+    src_map = {
+        'pilot_user': bundle.pilot_user,
+        'labs': bundle.labs,
+        'wearable': bundle.wearable,
+        'microbiome': bundle.microbiome,
+        'metabolomics': bundle.metabolomics,
+        'genomics': bundle.genomics,
+        'meds': bundle.meds,
+        'surveys': bundle.surveys,
+    }
+
+    for name, df in src_map.items():
+        if df is None or df.empty:
+            continue
+        # determine key for this dataframe
+        key = bundle.user_key or _find_user_key(df)
+        if not key or key not in df.columns:
+            continue
+        try:
+            user_rows = df[df[key] == user_id]
+            if user_rows is None or user_rows.empty:
+                continue
+            # add source column to keep provenance
+            temp = user_rows.copy()
+            temp['__source'] = name
+            parts.append(temp)
+        except Exception:
+            continue
+
+    if not parts:
+        return None
+    try:
+        merged = pd.concat(parts, ignore_index=True, sort=False)
+        return merged
+    except Exception:
+        return None
+
 # ---- Rule-based fallback recommender ----
 def rule_based_recommendations(profile: Dict[str, Any], peptide_catalog: Optional[pd.DataFrame]) -> Dict[str, Any]:
     sig = profile.get("signals", {})
@@ -300,10 +345,27 @@ def llm_recommendations(profile: Dict[str, Any], peptide_catalog_sample: List[Di
             "Avoid contraindications if possible using the provided medication list. "
             "Focus on power-packed, synergistic compound stacks that work well together."
         )
+        # Build a compact merged-sample from profile['merged_df'] if available.
+        merged_sample = None
+        try:
+            mdf = profile.get("merged_df")
+            if mdf is not None and not mdf.empty:
+                # select up to 8 informative columns (avoid internal __source) and up to 20 rows
+                cols = [c for c in list(mdf.columns) if c != "__source"]
+                cols = cols[:8]
+                rows = min(20, len(mdf))
+                merged_sample = [
+                    {c: (None if pd.isna(r[c]) else r[c]) for c in cols}
+                    for _, r in mdf.head(rows).iterrows()
+                ]
+        except Exception:
+            merged_sample = None
+
         user_blob = json.dumps({
             "user_signals": profile.get("signals", {}),
             "current_meds": profile.get("signals", {}).get("current_meds", []),
             "survey_prefs": {k:v for k,v in profile.get("signals", {}).items() if "survey_" in k},
+            "merged_user_rows": merged_sample,
             "peptide_catalog_sample": peptide_catalog_sample[:50],
         }, indent=2)
         msg = [
@@ -322,7 +384,21 @@ def llm_recommendations(profile: Dict[str, Any], peptide_catalog_sample: List[Di
 
 def build_recommendations(user_id: Any) -> Dict[str, Any]:
     bundle = DataBundle.load()
+
+    # First, verify the user exists in at least one data source and build a merged dataframe
+    merged = assemble_user_dataframe(bundle, user_id)
+    if merged is None:
+        # user not found anywhere - short-circuit to avoid unnecessary LLM calls
+        return {
+            "engine": "no_data",
+            "profile_signals": {},
+            "message": f"User {user_id} not found in any data source."
+        }
+
+    # proceed to build the detailed profile (keeps per-source slices as well)
     profile = extract_user_profile(bundle, user_id)
+    # attach merged dataframe for downstream use / debugging
+    profile["merged_df"] = merged
 
     # Load peptide catalog (main.xlsx) and convert a tiny sample for the LLM
     peptide_catalog = bundle.main

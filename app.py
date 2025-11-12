@@ -2,7 +2,7 @@
 import os
 import streamlit as st
 import pandas as pd
-from rec_engine import build_recommendations, DataBundle
+from rec_engine import build_recommendations, DataBundle, assemble_user_dataframe
 
 st.set_page_config(page_title="AI Wellness Recommendation Agent", page_icon="🧬", layout="wide")
 
@@ -19,13 +19,27 @@ with st.expander("ℹ️ How it works"):
 
 user_id = st.text_input("Enter USERID", value="")
 
+# buttons and merged-preview flow
 colA, colB = st.columns([1,2])
 
 with colA:
-    if st.button("Build Recommendations", type="primary", disabled=(user_id.strip()=="" )):
-        with st.spinner("Collecting your data and drafting a plan..."):
-            result = build_recommendations(user_id.strip())
-        st.session_state["result"] = result
+    if st.button("Find User", type="primary", disabled=(user_id.strip()=="" )):
+        bundle = DataBundle.load()
+        merged = assemble_user_dataframe(bundle, user_id.strip())
+        st.session_state["merged_preview"] = merged
+
+    merged = st.session_state.get("merged_preview")
+    if merged is None and user_id.strip() != "":
+        st.info("Click 'Find User' to search all data files for the provided USERID.")
+    elif merged is not None:
+        st.success(f"User found: {merged.shape[0]} rows across sources")
+        # show a small preview and ask for confirmation before running the LLM
+        with st.expander("Preview merged user data (first 10 rows)"):
+            st.dataframe(merged.head(10))
+        if st.button("Generate Recommendations for this user"):
+            with st.spinner("Generating recommendations (LLM or fallback)..."):
+                result = build_recommendations(user_id.strip())
+            st.session_state["result"] = result
 
 with colB:
     st.markdown("#### Data health check")
